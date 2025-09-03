@@ -212,6 +212,7 @@ epochQuestData = {
 [26684] = {"Ram Riding",{{4772}},nil,nil,40,nil,nil,{"Learn Apprentice Riding from Ultham Ironhorn."},nil,{{{60002,"Apprentice Riding Learned"}}},nil,nil,nil,nil,nil,nil,1,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [26687] = {"Ore for Grumnal",{{1360}},{{1360}},nil,10,nil,nil,{"Collect 10 Kinetic Ore."},nil,{nil,nil,{{62201,10,"Kinetic Ore"}}},nil,nil,nil,nil,nil,nil,1,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [26689] = {"Barroom Blitz",{{240}},{{45704}},nil,12,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[26916] = {"Karabor Stew",{{45877}},{{45877}},nil,40,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26691] = {"Barroom Blitz",{{253}},{{45704}},nil,12,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26692] = {"Barroom Blitz",nil,{{45713}},nil,12,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26693] = {"Barroom Blitz",{{45713}},{{45715}},nil,12,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},

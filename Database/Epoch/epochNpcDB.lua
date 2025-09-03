@@ -1214,6 +1214,7 @@ local epochNpcData = {
 [48251] = {"Chief Engineer Urul",nil,nil,46,46,0,{[47]={{14,43.3}}},nil,47,nil,{26187},11,"A",nil,0},
 [48252] = {"Gryphon Master Stonemace",nil,nil,46,46,0,{[47]={{9.6,44.1}}},nil,47,nil,nil,11,"A",nil,0},
 [45704] = {"Mardigan",nil,nil,12,12,0,{[85]={{28.9,77.5}}},nil,85,nil,{26689},nil,nil,nil,0},
+[45877] = {"Akmid",nil,nil,40,40,0,{[85]={{29.4,33.2}}},nil,85,{26916},nil,nil,nil,nil,0},
 [10879] = {"Harbinger Balthazad",nil,nil,60,60,0,{[1497]={{63.1,44.0}}},nil,1497,{27961},nil,68,"H",nil,0},
 [46366] = {"Aponi Brightmane",nil,nil,60,60,0,{[85]={{78.2,29.3}}},nil,85,{27922},nil,nil,0},
 [12863] = {"Warsong Runner",nil,nil,18,18,0,{[85]={{12.2,34.1}}},nil,85,nil,{26872},nil,nil,nil,0},
