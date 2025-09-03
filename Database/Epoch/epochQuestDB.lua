@@ -237,6 +237,8 @@ epochQuestData = {
 [26719] = {"Until Death Do Us Part",{{45734}},nil,nil,21,nil,nil,{"Obtain a Red Rose."},nil,{nil,nil,{{3419,"Red Rose"}}},nil,nil,nil,nil,nil,nil,10,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [26723] = {"Wanted: Plagued Shambler",nil,nil,nil,30,nil,nil,{"Slay the Plagued Shambler."},nil,{{{45751,"Plagued Shambler"}}},nil,nil,nil,nil,nil,nil,10,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [26738] = {"Memories of Eastweald",{{45749}},{{45749}},nil,57,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+[26740] = {"Memories of Eastweald",{{45749}},nil,nil,58,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26744] = {"Open for Business",{{12384}},{{11063}},nil,55,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26764] = {"We Have the Technology",{{45769}},nil,nil,55,nil,nil,{"Use Engineer Flikswitch's technology."},nil,nil,nil,nil,nil,nil,nil,nil,139,nil,nil,nil,nil,nil,nil,2,nil,nil,nil,nil,nil,nil},
 [26766] = {"The Warging Way",{{46292}},{{46292}},nil,58,nil,nil,{"Kill 15 Worgen Infiltrators."},nil,{{{46374,nil}}},nil,nil,nil,nil,nil,nil,1497,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
