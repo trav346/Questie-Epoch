@@ -771,6 +771,7 @@ epochQuestData = {
 [28940] = {"Guard the Refugees",{{47087}},{{47087}},nil,5,nil,nil,{"Protect the refugee camp from threats."},nil,{{{46902,4,"Frostmane Raider"}}},nil,nil,nil,nil,nil,nil,1,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [26757] = {"Where No Shadows Fall",nil,nil,nil,58,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27890] = {"A Matter of Life and Death",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[27891] = {"A Matter of Life and Death",{{4046}},nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 }
 
 -- Stage the Epoch questData for later merge during compilation
