@@ -915,7 +915,7 @@ local epochNpcData = {
 [45885] = {"Jasper Greene",nil,nil,8,8,0,{[85]={{38.9,52.8}}},nil,85,{26925,26937},{26936,26937},1,"H",nil,0},
 [45886] = {"Historian Eva Trelayne",nil,nil,9,9,0,{[1458]={{75.8,37.8}}},nil,1458,nil,{},nil,"H",nil,0},
 [45887] = {"Historian Todd Page",nil,nil,8,8,0,{[85]={{60.6,51.0}}},nil,85,{26926},{26925},0,"H",nil,0},
-[45888] = {"Deathguard Kitsapell",nil,nil,11,11,0,{[130]={{49.6,31.2}}},nil,130,{26928},{26928,26455},1,"H",nil,0},
+[45888] = {"Deathguard Kitsapell",nil,nil,11,11,0,{[85]={{49.7,31.2}}},nil,85,nil,{26928},nil,nil,nil,0},
 [45890] = {"Kor",nil,nil,11,11,0,{[85]={{44.4,40.5}}},nil,85,nil,{26930},85,"H",nil,0},
 [45893] = {"Starving Worg",nil,nil,8,9,0,{[85]={{54.8,72.9},{55.1,75.1},{56.2,74.8},{56.2,75.8}}},nil,85,nil,nil,0,nil,nil,0},
 [45894] = {"Apolos Deathshot",nil,nil,1,1,0,{[85]={{32.7,65.6}}},nil,85,nil,{26933},0,"H",nil,0},
