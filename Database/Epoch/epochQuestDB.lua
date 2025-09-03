@@ -658,6 +658,7 @@ epochQuestData = {
 [27961] = {"The Shatterspear Festival",{{10879}},nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1497,nil,nil,nil,nil,nil,nil,2,nil,nil,nil,nil,nil,nil},
 [27962] = {"The Shatterspear Festival",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [28049] = {"The Rite of the Wilds",nil,nil,nil,56,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[28033] = {"The Rite of the Fields",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [28063] = {"Commission for Tomas",nil,nil,nil,5,nil,2,{"Collect 10 Brilliant Smallfish."},nil,{nil,nil,{{6291,10,"Brilliant Smallfish"}}},nil,nil,nil,nil,nil,nil,12,nil,nil,nil,nil,nil,2,0,nil,nil,nil,nil,nil,nil},
 [28064] = {"Commission for Gubber Blump",{{10216}},{{10216}},nil,10,nil,2,{"Collect 10 Boiled Clams for Gubber Blump."},nil,{nil,nil,{{5525,10,"Boiled Clam"}}},nil,nil,nil,nil,nil,nil,148,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [28072] = {"Commission for Captain Steelgut",nil,{{2769}},nil,20,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
