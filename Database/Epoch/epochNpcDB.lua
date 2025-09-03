@@ -1215,6 +1215,8 @@ local epochNpcData = {
 [48252] = {"Gryphon Master Stonemace",nil,nil,46,46,0,{[47]={{9.6,44.1}}},nil,47,nil,nil,11,"A",nil,0},
 [10879] = {"Harbinger Balthazad",nil,nil,60,60,0,{[1497]={{63.1,44.0}}},nil,1497,{27961},nil,68,"H",nil,0},
 [46366] = {"Aponi Brightmane",nil,nil,60,60,0,{[85]={{78.2,29.3}}},nil,85,{27922},nil,nil,0},
+[12863] = {"Warsong Runner",nil,nil,18,18,0,{[85]={{12.2,34.1}}},nil,85,nil,{26872},nil,nil,nil,0},
+[5770] = {"Nara Wildmane",nil,nil,55,55,0,{[85]={{75.5,31.2}}},nil,85,nil,{26744},nil,nil,nil,0},
 }
 
 QuestieDB._epochNpcData = epochNpcData
