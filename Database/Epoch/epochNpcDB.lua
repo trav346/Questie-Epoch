@@ -1217,6 +1217,7 @@ local epochNpcData = {
 [1498] = {"Bethor Iceshard",nil,nil,9,9,0,{[85]={{84.2,17.4}}},nil,85,nil,{26936},nil,nil,nil,0},
 [3661] = {"Balthule Shadowstrike",nil,nil,20,20,0,{[85]={{54.9,24.9}}},nil,85,nil,{27229},nil,nil,nil,0},
 [12863] = {"Warsong Runner",nil,nil,18,18,0,{[85]={{12.2,34.1}}},nil,85,nil,{26872},nil,nil,nil,0},
+[3144] = {"Eitrigg",nil,nil,60,60,0,{[85]={{34.4,38.9}}},nil,85,nil,{26341},nil,nil,nil,0},
 }
 
 QuestieDB._epochNpcData = epochNpcData
