@@ -778,6 +778,7 @@ epochQuestData = {
 [27922] = {"Troubling Rumors",{{46366}},nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26872] = {"Ravenclaw Ichor",nil,{{12863}},nil,18,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26744] = {"Open for Business",nil,{{5770}},nil,55,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[26613] = {"Aid for Nethergarde",{{45611}},{{5393}},nil,50,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 }
 
 -- Stage the Epoch questData for later merge during compilation
