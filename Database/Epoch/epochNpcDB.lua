@@ -1213,6 +1213,7 @@ local epochNpcData = {
 [48251] = {"Chief Engineer Urul",nil,nil,46,46,0,{[47]={{14,43.3}}},nil,47,nil,{26187},11,"A",nil,0},
 [48252] = {"Gryphon Master Stonemace",nil,nil,46,46,0,{[47]={{9.6,44.1}}},nil,47,nil,nil,11,"A",nil,0},
 [62026] = {"Undead Champion",nil,nil,60,60,0,{[17]={{55,59}}},nil,17,nil,nil,nil,nil,nil,0},
+[1498] = {"Bethor Iceshard",nil,nil,9,9,0,{[85]={{84.2,17.4}}},nil,85,nil,{26936},nil,nil,nil,0},
 }
 
 QuestieDB._epochNpcData = epochNpcData
