@@ -624,6 +624,7 @@ epochQuestData = {
 [27517] = {"Storm, Earth, Wind, and Fire",{{45143}},{{10302}},nil,52,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27518] = {"Storm, Earth, Wind, and Fire",{{45143}},{{45143}},nil,52,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27521] = {"Storm, Earth, Wind, and Fire",nil,nil,nil,54,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[27528] = {"The Southern Pylon",nil,{{9117}},nil,52,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27533] = {"One of These Things is Not Like the Others",nil,{{46287}},nil,52,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27544] = {"A Gift for the Spiritseer",nil,nil,nil,56,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27545] = {"A Door to the Past",nil,nil,nil,56,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
