@@ -1212,12 +1212,7 @@ local epochNpcData = {
 [48250] = {"Tizzie Sparkcraft",nil,nil,48,48,0,{[47]={{10,43.5}}},nil,47,{26171},{26171},11,"A",nil,0},
 [48251] = {"Chief Engineer Urul",nil,nil,46,46,0,{[47]={{14,43.3}}},nil,47,nil,{26187},11,"A",nil,0},
 [48252] = {"Gryphon Master Stonemace",nil,nil,46,46,0,{[47]={{9.6,44.1}}},nil,47,nil,nil,11,"A",nil,0},
-[62026] = {"Undead Champion",nil,nil,60,60,0,{[17]={{55,59}}},nil,17,nil,nil,nil,nil,nil,0},
-[3693] = {"Terenthis",328,328,15,15,0,{[148]={{39.3,43.4}}},nil,148,{984,985,986,993,4761},{984,985,986,994,995},80,"A",nil,3},
-[1498] = {"Bethor Iceshard",nil,nil,9,9,0,{[85]={{84.2,17.4}}},nil,85,nil,{26936},nil,nil,nil,0},
-[3661] = {"Balthule Shadowstrike",nil,nil,20,20,0,{[85]={{54.9,24.9}}},nil,85,nil,{27229},nil,nil,nil,0},
-[12863] = {"Warsong Runner",nil,nil,18,18,0,{[85]={{12.2,34.1}}},nil,85,nil,{26872},nil,nil,nil,0},
-[3144] = {"Eitrigg",nil,nil,60,60,0,{[85]={{34.4,38.9}}},nil,85,nil,{26341},nil,nil,nil,0},
+[10879] = {"Harbinger Balthazad",nil,nil,60,60,0,{[1497]={{63.1,44.0}}},nil,1497,{27961},nil,68,"H",nil,0},
 }
 
 QuestieDB._epochNpcData = epochNpcData
