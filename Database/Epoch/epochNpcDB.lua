@@ -1215,6 +1215,7 @@ local epochNpcData = {
 [62026] = {"Undead Champion",nil,nil,60,60,0,{[17]={{55,59}}},nil,17,nil,nil,nil,nil,nil,0},
 [3693] = {"Terenthis",328,328,15,15,0,{[148]={{39.3,43.4}}},nil,148,{984,985,986,993,4761},{984,985,986,994,995},80,"A",nil,3},
 [1498] = {"Bethor Iceshard",nil,nil,9,9,0,{[85]={{84.2,17.4}}},nil,85,nil,{26936},nil,nil,nil,0},
+[3661] = {"Balthule Shadowstrike",nil,nil,20,20,0,{[85]={{54.9,24.9}}},nil,85,nil,{27229},nil,nil,nil,0},
 }
 
 QuestieDB._epochNpcData = epochNpcData

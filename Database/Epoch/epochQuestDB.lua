@@ -523,6 +523,7 @@ epochQuestData = {
 [27275] = {"WANTED: Dustpaw",nil,{{11378}},nil,6,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27276] = {"Supervisor Hink",nil,{{3230}},nil,9,nil,1,nil,nil,nil,nil,nil,nil,nil,nil,nil,14,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [27277] = {"Scythemaw Standstill",nil,nil,nil,9,nil,nil,{"Slay 10 Bloodtalon Scythemaw."},nil,{{{3123,10,"Bloodtalon Scythemaw"}}},nil,nil,nil,nil,nil,nil,14,nil,nil,nil,nil,nil,2,0,nil,nil,nil,nil,nil,nil},
+[27229] = {"The Odd Relic",nil,{{3661}},nil,20,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27282] = {"Wanted: Dragon Killers",nil,{{2502}},nil,39,nil,2,{"Eliminate the dragon killers."},nil,nil,nil,nil,nil,nil,nil,nil,33,nil,nil,nil,nil,nil,2,0,nil,nil,nil,nil,nil,nil},
 [27291] = {"Wanted: King Krool",{{4500}},nil,nil,41,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27293] = {"The Downed Zeppelin",nil,{{46121}},nil,40,nil,1,{"Interact with the Gizmorium Shipping Crate."},nil,nil,nil,nil,nil,nil,nil,nil,8,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
