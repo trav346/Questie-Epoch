@@ -770,6 +770,7 @@ epochQuestData = {
 [28906] = {"A Sticky Situation",{{4782}},{{4782}},nil,48,nil,2,{"Collect 10 Hinterlands Honey Ripple for Truk Wildbeard."},nil,{nil,nil,{{8684,10,"Hinterlands Honey Ripple"}}},nil,nil,nil,nil,nil,nil,47,nil,nil,nil,nil,nil,2,0,nil,nil,nil,nil,nil,nil},
 [28940] = {"Guard the Refugees",{{47087}},{{47087}},nil,5,nil,nil,{"Protect the refugee camp from threats."},nil,{{{46902,4,"Frostmane Raider"}}},nil,nil,nil,nil,nil,nil,1,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [26757] = {"Where No Shadows Fall",nil,nil,nil,58,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[27890] = {"A Matter of Life and Death",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 }
 
 -- Stage the Epoch questData for later merge during compilation
