@@ -81,6 +81,7 @@ epochQuestData = {
 [26310] = {"Trial of the Willing",nil,nil,nil,25,nil,1,{"Slay Deor Levo, Reagle the Blessed, and Justicar Masule."},nil,{{{60562,1,"Deor Levo"},{60563,1,"Reagle the Blessed"},{60564,1,"Justicar Masule"}}},nil,nil,nil,nil,nil,nil,17,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [26311] = {"Materials of the Light",nil,{{7792}},nil,21,nil,1,{"Deliver the letter and payment to Aturk the Anvil in Orgrimmar."},nil,nil,nil,nil,nil,nil,nil,nil,1637,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [26312] = {"Materials of the Light",nil,nil,nil,22,nil,nil,{"Collect Corrupted Kor Gem, Springvale's Blessed Ingots, Zelemar's Hammer, and Silver Hand Medallion."},nil,nil,nil,nil,nil,nil,nil,nil,331,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
+[26316] = {"Lorderon's Legal Legacy",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26317] = {"Atal'ai Tablets",nil,{{45285}},nil,48,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [26318] = {"Invocation of The Blood God",nil,nil,nil,45,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,3,nil,nil,nil,nil,nil,1,0,nil,nil,nil,nil,nil,nil},
 [26321] = {"An Unfinished Task",nil,{{7572}},nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1519,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
