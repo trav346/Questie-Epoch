@@ -653,6 +653,7 @@ epochQuestData = {
 [27921] = {"Aponi's Request",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27922] = {"Troubling Rumors",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27927] = {"Memories of Honor and Blood",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+[27928] = {"Memories of Honor and Blood",{{3144}},nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
 [27941] = {"Crafted from Crawlers",nil,{{7867}},nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,3,nil,nil,nil,nil,nil,8,0,nil,nil,nil,nil,nil,nil},
 [27961] = {"The Shatterspear Festival",{{10879}},nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,1497,nil,nil,nil,nil,nil,nil,2,nil,nil,nil,nil,nil,nil},
 [27962] = {"The Shatterspear Festival",nil,nil,nil,60,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
