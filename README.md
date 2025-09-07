@@ -26,7 +26,7 @@ NOTE: Data submissions prior to v1.1.1 will soon be deprecated.
 ## 📦 Installation
 
 ### **Automatic Installation (Recommended)**
-1. **Download**: Get the latest release from [GitHub Releases](https://github.com/trav346/Questie/releases)
+1. **Download**: Get the latest release from [GitHub Releases](https://github.com/trav346/Questie-Epoch/releases/)
 2. **Extract**: Unzip the downloaded file
 3. **Install**: Copy the `Questie` folder to your WoW AddOns directory:
    ```
