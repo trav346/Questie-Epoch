@@ -1,0 +1,92 @@
+name: Quest Data Submission
+description: Submit quest data collected in-game
+title: "Quest Data: [Quest Name] (ID: #####)"
+labels: ["quest-data", "needs-processing"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thank you for contributing quest data!
+        
+        Please fill out the information below to submit quest data you've collected in-game using the data collector.
+  
+  - type: input
+    id: quest_id
+    attributes:
+      label: Quest ID
+      description: The ID of the quest (from `/qdc export <questId>`)
+      placeholder: "26789"
+    validations:
+      required: true
+  
+  - type: input
+    id: quest_name
+    attributes:
+      label: Quest Name
+      description: The name of the quest as it appears in-game
+      placeholder: "The Lost Relic"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: data_completeness
+    attributes:
+      label: Data Completeness
+      description: How complete is your quest data?
+      options:
+        - "Complete (accepted quest fresh, completed all objectives, turned in)"
+        - "Partial (missing quest giver or some objectives)"
+        - "Turn-in only (quest was already in progress)"
+    validations:
+      required: true
+  
+  - type: textarea
+    id: exported_data
+    attributes:
+      label: Exported Quest Data
+      description: Paste the complete output from `/qdc export <questId>` below
+      placeholder: |
+        Quest ID: 26789 (The Lost Relic)
+        Status: ✅ COMPLETE DATA
+        
+        QUEST DETAILS:
+        Name: The Lost Relic
+        Level: 45
+        Zone: Feralas (17)
+        Objectives:
+        • Kill 12 Feral Scar Yeti (objective 1)
+        
+        QUEST GIVER:
+        NPC: 7773 (Gregan Brewspewer) at 45.1, 25.4 in Feralas
+        
+        === DATABASE ENTRIES ===
+        -- Copy these entries to the database files:
+        
+        epochQuestDB[26789] = {"The Lost Relic",{{7773}},{{7773}},nil,45,nil,nil,{"Kill 12 Feral Scar Yeti"},nil,{{{6138,12,"Feral Scar Yeti"}},nil,nil},nil,nil,nil,nil,nil,nil,17,nil,nil,nil,nil,nil,2,0,nil,nil,nil,nil,nil,nil}
+        
+        epochNpcDB[7773] = {"Gregan Brewspewer",nil,nil,43,43,0,{[17]={{45.1,25.4}}},nil,17,{26789},{26789},nil,"A",nil,2}
+        
+        === END DATABASE ENTRIES ===
+      render: text
+    validations:
+      required: true
+  
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any additional information about this quest (bugs found, special mechanics, etc.)
+      placeholder: "Quest requires you to be in a group to complete the final objective..."
+  
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I collected this data using `/qdc enable` and `/qdc export`
+          required: true
+        - label: The quest data above is complete and accurate
+          required: true
+        - label: This is not a duplicate submission (I checked existing issues)
+          required: true

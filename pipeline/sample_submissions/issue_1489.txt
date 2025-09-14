@@ -1,0 +1,51 @@
+GitHub Issue #1489
+Title: [Quest Data]: Hand of Azora
+User: equintana85
+Created: 2025-09-07T17:51:11Z
+============================================================
+
+### Quest Data Export
+
+```text
+=== QUEST DATA ===
+
+Addon Version: v1.0.68
+Data Collected: 2025-09-07 19:50:01
+
+Quest ID: 26702
+Quest Name: Hand of Azora
+Level: 15
+Zone: Westfall
+Faction: Alliance
+
+OBJECTIVES:
+  1. Return to Theocritus at the Tower of Azora in Elwynn Forest. (log)
+
+GROUND OBJECTS/CONTAINERS:
+  Satchel of Trade Goods at [59.1, 72.1] in Stormwind City
+  Bhondur's Bones at [35.6, 24.3] in Loch Modan
+       Additional location: [35.8, 24.3] in Loch Modan
+  Conjured Bread at [34.8, 48.5] in Loch Modan
+  Red Linen Shirt at [41.3, 66.1] in Loch Modan
+  Daryl's Hunting Rifle at [75.9, 50.6] in Loch Modan
+  Miners' League Crates at [36.3, 20.5] in Loch Modan
+       Additional location: [36.2, 24.6] in Loch Modan
+       Additional location: [36.2, 24.4] in Loch Modan
+       Additional location: [35.8, 22.2] in Loch Modan
+       Additional location: [35.5, 19.7] in Loch Modan
+
+TURN-IN NPC:
+  NPC: Prospector Stormpike (ID: 1356)
+  Location: [74.2, 12]
+  Zone: Ironforge
+
+DATABASE ENTRIES:
+-- Add to epochQuestDB.lua:
+[26702] = {"Hand of Azora",nil,{{1356}},nil,15,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,85,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+[1356] = {"Prospector Stormpike",nil,nil,15,15,0,{[85]={{74.2,12.0}}},nil,85,nil,{26702},nil,nil,nil,0},
+```
+
+### Additional Information (Optional)
+
+_No response_

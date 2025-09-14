@@ -1,0 +1,51 @@
+# Configuration
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pipeline specific
+pending_submissions/
+processed/
+batch_results/
+aggregated_data/
+Manual Review/
+archived_results/
+.pipeline_state/
+.pipeline_cache/
+logs/
+*.log
+
+# Test data
+test_data/
+test_results/
+
+# Backup files
+*.bak
+*.backup
+*_backup.lua
+backups/
+
+# Temporary files
+*.tmp
+temp/
+tmp/

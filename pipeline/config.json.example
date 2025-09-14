@@ -1,0 +1,11 @@
+{
+  "github_token": "YOUR_GITHUB_TOKEN_HERE",
+  "repo": "owner/repository-name",
+  "labels": {
+    "data_submission": "quest-data",
+    "needs_processing": "needs-processing",
+    "processing": "processing",
+    "processed": "processed",
+    "needs_investigation": "needs-investigation"
+  }
+}

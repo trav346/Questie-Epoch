@@ -1,0 +1,108 @@
+======================================================================
+PHANTOM QUEST ANALYSIS REPORT
+======================================================================
+Generated: 2025-09-06T10:20:42.318919
+
+SUMMARY:
+  Total Quests: 9089
+  Definite Removals: 4044
+  Likely Removals: 53
+  Needs Verification: 3
+  Total Removals: 4097
+
+DEFINITE REMOVALS (Expansion Content):
+--------------------------------------------------
+1. Quest 10000: An Unwelcome Presence
+   Reason: In TBC ID range (10000-12999)
+2. Quest 10001: The Master Planner
+   Reason: In TBC ID range (10000-12999)
+3. Quest 10002: The Firewing Liaison
+   Reason: In TBC ID range (10000-12999)
+4. Quest 10003: The Firewing Liaison
+   Reason: In TBC ID range (10000-12999)
+5. Quest 10004: Patience and Understanding
+   Reason: In TBC ID range (10000-12999)
+6. Quest 10005: Letting Earthbinder Tavgren Know
+   Reason: In TBC ID range (10000-12999)
+7. Quest 10006: Letting Earthbinder Tavgren Know
+   Reason: In TBC ID range (10000-12999)
+8. Quest 10007: Thinning the Ranks
+   Reason: In TBC ID range (10000-12999)
+9. Quest 10008: What Happens in Terokkar Stays in Terokkar
+   Reason: In TBC ID range (10000-12999)
+10. Quest 10009: Crackin' Some Skulls
+   Reason: In TBC ID range (10000-12999)
+11. Quest 10010: It's Just That Easy?
+   Reason: In TBC ID range (10000-12999)
+12. Quest 10011: Forge Camp: Annihilated
+   Reason: In TBC ID range (10000-12999)
+13. Quest 10012: Fel Orc Plans
+   Reason: In TBC ID range (10000-12999)
+14. Quest 10013: An Unseen Hand
+   Reason: In TBC ID range (10000-12999)
+15. Quest 10014: The Firewing Point Project
+   Reason: In TBC ID range (10000-12999)
+16. Quest 10015: The Firewing Point Project
+   Reason: In TBC ID range (10000-12999)
+17. Quest 10016: Timber Worg Tails
+   Reason: In TBC ID range (10000-12999)
+18. Quest 10017: Strained Supplies
+   Reason: In TBC ID range (10000-12999)
+19. Quest 10018: Vestments of the Wolf Spirit
+   Reason: In TBC ID range (10000-12999)
+20. Quest 10019: More Venom Sacs
+   Reason: In TBC ID range (10000-12999)
+... and 4024 more
+
+LIKELY REMOVALS (Non-Vanilla Indicators):
+--------------------------------------------------
+1. Quest 109: Report to Gryan Stoutmantle
+   Reason: Level exceeds vanilla cap (level: 261, min: 0)
+2. Quest 236: Fueling the Demolishers
+   Reason: Level exceeds vanilla cap (level: 80, min: 0)
+3. Quest 489: Seek Redemption!
+   Reason: Level exceeds vanilla cap (level: 2155, min: 0)
+4. Quest 1480: The Corrupter
+   Reason: Level exceeds vanilla cap (level: 20310, min: 0)
+5. Quest 1718: The Islander
+   Reason: Level exceeds vanilla cap (level: 5113, min: 0)
+6. Quest 1953: Return to the Marsh
+   Reason: Level exceeds vanilla cap (level: 7311, min: 0)
+7. Quest 2861: Tabetha's Task
+   Reason: Level exceeds vanilla cap (level: 5497, min: 0)
+8. Quest 7492: Camp Mojache
+   Reason: Level exceeds vanilla cap (level: 20724, min: 0)
+9. Quest 7494: Feathermoon Stronghold
+   Reason: Level exceeds vanilla cap (level: 20722, min: 0)
+10. Quest 7562: Mor'zul Bloodbringer
+   Reason: Level exceeds vanilla cap (level: 6382, min: 0)
+11. Quest 8151: The Hunter's Charm
+   Reason: Level exceeds vanilla cap (level: 5116, min: 0)
+12. Quest 8233: A Simple Request
+   Reason: Level exceeds vanilla cap (level: 4583, min: 0)
+13. Quest 8250: Magecraft
+   Reason: Level exceeds vanilla cap (level: 5145, min: 0)
+14. Quest 8254: Cenarion Aid
+   Reason: Level exceeds vanilla cap (level: 4090, min: 0)
+15. Quest 8410: Elemental Mastery
+   Reason: Level exceeds vanilla cap (level: 3032, min: 0)
+16. Quest 8417: A Troubled Spirit
+   Reason: Level exceeds vanilla cap (level: 5113, min: 0)
+17. Quest 8419: An Imp's Request
+   Reason: Level exceeds vanilla cap (level: 3325, min: 0)
+18. Quest 9063: Torwa Pathfinder
+   Reason: Level exceeds vanilla cap (level: 4218, min: 0)
+19. Quest 9342: Marauding Crust Bursters
+   Reason: Level exceeds vanilla cap (level: 61, min: 0)
+20. Quest 9344: A Hasty Departure
+   Reason: Level exceeds vanilla cap (level: 61, min: 0)
+... and 33 more
+
+NEEDS PLAYER VERIFICATION:
+--------------------------------------------------
+1. Quest 482: Dalaran's Intentions
+   Reason: Name matches non-vanilla pattern: dalaran
+2. Quest 545: Dalaran Patrols
+   Reason: Name matches non-vanilla pattern: dalaran
+3. Quest 9826: Contact from Dalaran
+   Reason: Name matches non-vanilla pattern: dalaran

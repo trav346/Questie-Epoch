@@ -1,0 +1,85 @@
+# Configuration
+config.json
+github_config.json
+*.config
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Pipeline specific
+pending_submissions/
+processed/
+batch_results/
+aggregated_data/
+Manual Review/
+archived_results/
+archived_submissions/
+.pipeline_state/
+.pipeline_cache/
+logs/
+*.log
+ready_to_apply/
+quest_attachments/
+database_backups/
+
+# Test data results
+test_results/
+test_output/
+
+# Backup files
+*.bak
+*.backup
+*_backup.lua
+*_backup.py
+backups/
+Backups/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+TEMP/
+
+# Database files (be careful not to commit)
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive data
+*_local.py
+*_private.py
+secrets/
+credentials/
+
+# Output files
+output/
+results/
+exports/
+
+# Archive folders
+_Archive/
+_Deprecated*/
+Archive/
+archive/
+old/

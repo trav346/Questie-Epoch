@@ -1,0 +1,1039 @@
+GitHub Issue #1480
+Title: [Quest Data]: Missing Quest Data - Part 1 of 1
+User: koll33
+Created: 2025-09-07T17:15:43Z
+============================================================
+
+### Quest Data Export
+
+```text
+----------------------------------------------------------------
+                  HOW TO SUBMIT YOUR REPORT                     
+----------------------------------------------------------------
+
+1. Copy all text below (Ctrl+C to copy)
+2. Go to: https://github.com/trav346/Questie-Epoch/issues
+3. Click 'New Issue'
+4. Title: Missing Quest Data - Part 1 of 1
+5. Paste the copied text and click 'Submit new issue'
+
+---------------------------------------------------------------
+                     COLLECTED QUEST DATA                        
+---------------------------------------------------------------
+
+Page 1 of 1 (39.5k chars)
+
+Quest ID: 26194
+Quest Name: Owlkin Leadership
+Level: 48
+Zone: The Hinterlands
+Zone ID: 27
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Claira Kindfeather (ID: 11812)
+  Location: The Hinterlands
+  Coords: 16.4, 47.5
+
+DESCRIPTION:
+  Now that their numbers in the area have been reduced, we should take out their "leader". Their chief is just the biggest, meanest owlbeast in the area. The rest of them fear him or respect him... I'm not sure which.
+
+His name is Rirrek and he can be found far to the east of here, north of Jintha'Alor. From what our scouts say he's a very secretive beast, but smarter than the rest. He has been seen building effigies where he lives. To lure him out, burn one and I bet he'll come out of hiding.
+
+OBJECTIVES TEXT:
+  Locate Rirrek's Effigy and burn it to rouse him. Once he appears, slay him.
+
+OBJECTIVES:
+
+  slain: 0/1 (monster)
+
+TURN-IN NPC:
+  NPC: Claira Kindfeather (ID: 11812)
+  Location: The Hinterlands
+  Coords: 16.4, 47.5
+
+RELATED MOBS:
+  Silvermane Wolf (ID: 2924, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (34.4, 56.5) 
+  Silvermane Stalker (ID: 2926, Level: ?) - KILLED 8 times
+    Spawn locations (5 total): (65.0, 48.3) (67.1, 50.1) (66.3, 52.1) ... and 2 more
+  Tempered War Golem (ID: 5853, Level: 47) - KILLED 3 times
+    Spawn locations (4 total): (65.6, 56.2) (64.7, 56.8) (62.1, 60.0) ... and 1 more
+  Rirrek (ID: 45033, Level: 48) - KILLED 2 times
+    Spawn locations (1 total): (66.0, 53.1) 
+  Razorbeak Skylord (ID: 2659, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (53.3, 46.2) 
+  Dark Iron Steelshifter (ID: 8337, Level: 42) - KILLED 12 times
+    Spawn locations (4 total): (63.5, 51.3) (63.7, 50.5) (66.0, 45.0) ... and 1 more
+  Crag Coyote (ID: 2727, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (49.8, 11.1) (54.1, 47.6) 
+  Elder Crag Coyote (ID: 2729, Level: ?) - KILLED 4 times
+    Spawn locations (3 total): (31.5, 68.7) (32.8, 70.1) (27.0, 71.1) 
+  Dark Iron Marksman (ID: 8338, Level: 55)
+    Spawn locations (1 total): (74.4, 19.4) 
+  Dark Iron Geologist (ID: 5839, Level: 44) - KILLED 15 times
+    Spawn locations (7 total): (63.1, 62.3) (63.3, 61.2) (63.6, 58.8) ... and 4 more
+  Witherbark Zealot (ID: 2650, Level: ?) - KILLED 3 times
+    Spawn locations (2 total): (22.9, 53.1) (50.7, 41.0) 
+  Zaricotl (ID: 2931, Level: 55) - KILLED 2 times
+    Spawn locations (6 total): (36.6, 69.6) (34.8, 69.0) (32.6, 69.5) ... and 3 more
+  Giant Buzzard (ID: 2831, Level: 40)
+    Spawn locations (1 total): (26.4, 71.6) 
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (41.5, 52.6) 
+  Glassweb Spider (ID: 5856, Level: ?) - KILLED 9 times
+    Spawn locations (8 total): (62.3, 57.9) (63.1, 61.5) (62.2, 55.0) ... and 5 more
+  Green Sludge (ID: 2655, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (47.1, 45.6) 
+  Witherbark Scalper (ID: 2649, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (50.6, 41.0) 
+  Rock Elemental (ID: 92, Level: ?) - KILLED 5 times
+    Spawn locations (1 total): (33.6, 70.3) 
+  Dark Iron Watchman (ID: 8637, Level: 44) - KILLED 9 times
+    Spawn locations (3 total): (63.3, 60.0) (63.5, 58.7) (62.8, 58.1) 
+  Feral Crag Coyote (ID: 2728, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (57.8, 68.2) 
+
+> QUEST ITEMS:
+  Silk Cloth (ID: 4306)
+    Source: Dark Iron Watchman (npc)
+    Source: Dark Iron Steelshifter (npc)
+  Gold Ore (ID: 2776)
+    Source: Gold Vein (object)
+    Source: Tempered War Golem (object)
+    Source: Lesser Moonstone (object)
+    Source: Yakoshiba (object)
+  Mageweave Cloth (ID: 4338)
+    Source: Dark Iron Geologist (npc)
+    Source: Dark Iron Geologist (npc)
+    Source: Dark Iron Watchman (npc)
+    Source: Dark Iron Watchman (npc)
+    Source: Dark Iron Steelshifter (npc)
+    Source: Dark Iron Geologist (npc)
+    Source: Dark Iron Geologist (npc)
+  Truesilver Ore (ID: 7911)
+    Source: Truesilver Deposit (object)
+    Source: Truesilver Deposit (object)
+    Source: Truesilver Deposit (object)
+    Source: Truesilver Deposit (object)
+  Solid Stone (ID: 7912)
+    Source: Tempered War Golem (npc)
+  Corroded Black Box (ID: 4613)
+    Source: Zaricotl (npc)
+    Source: Zaricotl (npc)
+    Source: Elder Crag Coyote (npc)
+  Large Trophy Paw (ID: 4584)
+    Source: Silvermane Stalker (npc)
+  Dripping Spider Mandible (ID: 4585)
+    Source: Glassweb Spider (npc)
+  High Chief's Crown of Defense (ID: 14961)
+    Source: Elder Crag Coyote (npc)
+  Lesser Moonstone (ID: 1705)
+    Source: Tempered War Golem (object)
+  White Spider Meat (ID: 12205)
+    Source: Glassweb Spider (npc)
+  Superior Healing Potion (ID: 3928)
+    Source: Dark Iron Watchman (npc)
+  Singed Letter (ID: 10443)
+
+GROUND OBJECTS/CONTAINERS:
+  Lesser Moonstone at [64.0, 63.3] in Searing Gorge
+  Gold Vein at [64.0, 63.3] in Searing Gorge
+  Yakoshiba at [64.0, 63.3] in Searing Gorge
+  Tempered War Golem at [64.0, 63.3] in Searing Gorge
+  Truesilver Deposit at [64.2, 60.6] in Searing Gorge
+
+POTENTIAL PREREQUISITES:
+  565 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: The Hinterlands (ID: 27)
+[26194] = {"Owlkin Leadership",{{11812}},{{11812}},nil,48,nil,nil,nil,nil,{{{2924,1}},nil,nil,nil,nil,nil},nil,nil,nil,nil,nil,nil,27,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[11812] = {"Claira Kindfeather",nil,nil,48,48,0,{[27]={{16.4,47.5}}},nil,27,{26194},{26194},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26601
+Quest Name: The Clay Cleanse
+Level: 50
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Nina Lightbrew (ID: 8178)
+  Location: Blasted Lands
+  Coords: 66.8, 18.3
+
+DESCRIPTION:
+  So... the plan is to transform something edible out of this demonic meat by using alchemy? Hmm... I don't know, but I suppose there's no harm in trying.
+
+<Nina rubs her chin for a long while, deep in thought.>
+
+Well, this may sound absurd but the horses we ride here are prone to sickness after going through the swamp. When we arrive, I always notice them eating clumps of clay off the ground. The next day, it's like nothing was ever wrong.
+
+Maybe... maybe the clay has some kind of purifying properties? You can find it anywhere in small amounts, but I think you'll have better luck on the coast, due to the tides and all.
+
+OBJECTIVES TEXT:
+  Collect 7 Red Clay from deposits near the coast of the Blasted Lands.
+
+OBJECTIVES:
+
+ : 0/7
+
+TURN-IN NPC:
+  NPC: Nina Lightbrew (ID: 8178)
+  Location: Blasted Lands
+  Coords: 66.9, 18.2
+
+RELATED MOBS:
+  Drowned Sailor (ID: 46579, Level: 53)
+    Spawn locations (1 total): (75.6, 42.0) 
+  Rat (ID: 4075, Level: ?) - KILLED 21 times
+    Spawn locations (3 total): (61.1, 70.5) (61.4, 74.2) (63.1, 69.7) 
+  Felstone Acolyte (ID: 46581, Level: 52) - KILLED 4 times
+    Spawn locations (2 total): (67.2, 53.3) (70.3, 57.3) 
+  Felstone Brute (ID: 46582, Level: 54)
+    Spawn locations (4 total): (73.7, 50.3) (73.3, 48.4) (68.4, 54.1) ... and 1 more
+  Kolli (ID: 1297, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (67.6, 53.3) (74.0, 50.4) 
+  Felstone Warlock (ID: 46584, Level: 53)
+    Spawn locations (2 total): (71.5, 52.1) (67.4, 52.2) 
+  Healing Stream Totem (ID: 3527, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Felstone Builder (ID: 45627, Level: 52) - KILLED 9 times
+    Spawn locations (1 total): (67.7, 53.1) 
+  Black Slayer (ID: 5982, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (54.8, 34.9) (73.9, 40.7) 
+  Felstone Rogue (ID: 45632, Level: 54)
+    Spawn locations (1 total): (67.3, 53.6) 
+  Strength of Earth Totem (ID: 5874, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Tremor Totem (ID: 5913, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Stoneskin Totem III (ID: 5920, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Bonepicker (ID: 5983, Level: 50) - KILLED 3 times
+    Spawn locations (2 total): (54.7, 33.9) (54.5, 36.4) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Mazroar (ID: 46351, Level: 60)
+    Spawn locations (1 total): (67.8, 53.1) 
+  Ashmane Boar (ID: 5992, Level: ?) - KILLED 2 times
+    Spawn locations (3 total): (72.7, 37.1) (69.8, 36.9) (66.9, 36.4) 
+  Searing Totem II (ID: 3902, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Cursing Eye (ID: 45610, Level: 55)
+    Spawn locations (5 total): (73.4, 47.7) (74.1, 46.5) (67.3, 52.4) ... and 2 more
+  Murloc (ID: 285, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (47.9, 66.8) 
+  Totem of Wrath I (ID: 17539, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Healing Stream Totem IV (ID: 3908, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Felstone Merchant (ID: 45628, Level: 51) - KILLED 1 times
+    Spawn locations (4 total): (74.3, 46.4) (77.5, 46.6) (74.9, 49.2) ... and 1 more
+  Shokella (ID: 1352, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (67.8, 53.1) 
+  Redstone Crystalhide (ID: 5991, Level: ?) - KILLED 3 times
+    Spawn locations (2 total): (74.8, 40.8) (73.4, 37.8) 
+  Murloc Forager (ID: 46, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (74.4, 86.8) 
+
+> QUEST ITEMS:
+  Red Clay (ID: 62389)
+    Source: Mound of Clay (object)
+    Source: Mound of Clay (object)
+    Source: Mound of Clay (object)
+    Source: Drowned Sailor (object)
+    Source: Mound of Clay (object)
+    Source: Mound of Clay (object)
+    Source: Scorpok Pincer (object)
+  Duskwoven Pants of Fiery Wrath (ID: 10064)
+    Source: Kum'isha's Junk (object)
+  Giant Egg (ID: 12207)
+    Source: Bonepicker (npc)
+  Balefire Draught (ID: 60759)
+    Source: Felstone Acolyte (npc)
+  Buzzard Wing (ID: 3404)
+    Source: Bonepicker (npc)
+  Jet Black Feather (ID: 8168)
+    Source: Bonepicker (npc)
+  Deep Fried Plantains (ID: 8953)
+
+GROUND OBJECTS/CONTAINERS:
+  Drowned Sailor at [76.0, 42.3] in Blasted Lands
+  Mound of Clay at [74.9, 36.3] in Blasted Lands
+    Additional location: [75.4, 33.9] in Blasted Lands
+    Additional location: [76.7, 32.1] in Blasted Lands
+    Additional location: [74.5, 48.4] in Blasted Lands
+    Additional location: [74.7, 49.1] in Blasted Lands
+  Kum'isha's Junk at [67.9, 53.0] in Blasted Lands
+  Scorpok Pincer at [74.5, 49.5] in Blasted Lands
+
+POTENTIAL PREREQUISITES:
+  677 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26601] = {"The Clay Cleanse",{{8178}},{{8178}},nil,50,nil,nil,nil,nil,{nil,nil,{{62389,7}},nil,nil,nil},nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[8178] = {"Nina Lightbrew",nil,nil,50,50,0,{[20]={{66.8,18.3}}},nil,20,{26601},{26601},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26602
+Quest Name: Ready for Distribution
+Level: 50
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Nina Lightbrew (ID: 8178)
+  Location: Blasted Lands
+  Coords: 66.9, 18.2
+
+DESCRIPTION:
+  Okay, let's put this to the test. I boiled the water, added in some crushed charcoal, bruiseweed, gromsblood... and now the clay.
+
+<Nina mixes the clay with the odorous solution, making it viscous.>
+
+Here goes nothing...
+
+<The mixture makes contact with the meat, furiously sizzling. As things calm down, it becomes clear something went right.>
+
+Oh, wow... the smell is gone! No more ooze, the color is brighter, and it seems it got cooked too!
+
+<Nina looks at you warily, then samples it.>
+
+Hmm... not bad! I guess we got lucky, Kolli. Why don't you tell Lungertz the good news? I'll finish cooking the rest of this and bring it to him later. Thanks a bunch!
+
+OBJECTIVES TEXT:
+  Bring the news to Quartermaster Lungertz inside Nethergarde Keep.
+
+OBJECTIVES:
+
+Bring the news to Quartermaster Lungertz inside Nethergarde Keep.
+
+TURN-IN NPC:
+  NPC: Quartermaster Lungertz (ID: 5393)
+  Location: Blasted Lands
+  Coords: 66.4, 21.3
+
+RELATED MOBS:
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Healing Stream Totem IV (ID: 3908, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Tremor Totem (ID: 5913, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Searing Totem II (ID: 3902, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Rat (ID: 4075, Level: ?) - KILLED 21 times
+    Spawn locations (3 total): (61.1, 70.5) (61.4, 74.2) (63.1, 69.7) 
+  Totem of Wrath I (ID: 17539, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Murloc Forager (ID: 46, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (74.4, 86.8) 
+  Strength of Earth Totem (ID: 5874, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Stoneskin Totem III (ID: 5920, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.1, 69.7) 
+  Murloc (ID: 285, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (47.9, 66.8) 
+  Healing Stream Totem (ID: 3527, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.1, 69.7) 
+
+> QUEST ITEMS:
+  Deep Fried Plantains (ID: 8953)
+
+POTENTIAL PREREQUISITES:
+  677 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26602] = {"Ready for Distribution",{{8178}},{{5393}},nil,50,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[5393] = {"Quartermaster Lungertz",nil,nil,50,50,0,{[20]={{66.4,21.3}}},nil,20,nil,{26602},nil,nil,nil,2},
+[8178] = {"Nina Lightbrew",nil,nil,50,50,0,{[20]={{66.9,18.2}}},nil,20,{26602},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26612
+Quest Name: Prayers Answered
+Level: 53
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Paladin Sherman (ID: 45609)
+  Location: Blasted Lands
+  Coords: 73.8, 60.5
+
+DESCRIPTION:
+  <The human's eyes flit open and he notices your presence.>
+
+You... you're not a cultist? What day is it? I need to get out of here!
+
+Half my squad was butchered by outriders... t-they took the rest of us here, and now I'm the only one left.
+
+Please, we need to leave! If we escape -- by the light's grace -- inform Lord Grayson Shadowbreaker of your role in it. He resides in Stormwind's cathedral.
+
+OBJECTIVES TEXT:
+  Escort Paladin Sherman out of Felstone Fortress.
+
+OBJECTIVES:
+
+Escort Paladin Sherman out of Felstone Fortress.
+
+RELATED MOBS:
+  Felstone Brute (ID: 46582, Level: 53) - KILLED 19 times
+    Spawn locations (11 total): (72.4, 62.3) (71.9, 61.7) (70.7, 60.1) ... and 8 more
+  Stoneskin Totem VI (ID: 7368, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (69.9, 58.5) (68.5, 57.2) 
+  Magma Totem III (ID: 7465, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (69.8, 59.7) 
+  Felstone Acolyte (ID: 46581, Level: ?) - KILLED 27 times
+    Spawn locations (9 total): (71.5, 61.3) (70.4, 59.9) (70.3, 58.9) ... and 6 more
+  Fire Nova Totem V (ID: 7845, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (69.8, 60.4) (69.2, 58.5) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 21 times
+    Spawn locations (7 total): (72.5, 62.5) (71.5, 61.2) (70.3, 59.6) ... and 4 more
+  Felstone Warlock (ID: 46584, Level: ?) - KILLED 17 times
+    Spawn locations (7 total): (71.5, 61.3) (70.7, 60.1) (69.7, 60.2) ... and 4 more
+  Kolli (ID: 1297, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (76.7, 49.9) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (80.8, 56.5) 
+  Searing Totem V (ID: 7400, Level: ?) - KILLED 14 times
+    Spawn locations (5 total): (72.5, 62.5) (70.4, 60.0) (69.1, 58.4) ... and 2 more
+  Felstone Builder (ID: 45627, Level: 53) - KILLED 14 times
+    Spawn locations (6 total): (70.0, 59.3) (69.4, 58.1) (68.4, 57.2) ... and 3 more
+  Felstone Merchant (ID: 45628, Level: 51) - KILLED 37 times
+    Spawn locations (6 total): (72.2, 62.4) (71.7, 61.3) (71.1, 60.8) ... and 3 more
+  Fire Nova Totem II (ID: 6110, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (71.9, 61.6) 
+  Rata (ID: 1352, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (69.3, 58.6) 
+  Grace of Air Totem (ID: 7486, Level: ?) - KILLED 11 times
+    Spawn locations (5 total): (72.5, 62.5) (70.3, 59.6) (69.1, 58.0) ... and 2 more
+  Felstone Rogue (ID: 45632, Level: 54) - KILLED 7 times
+    Spawn locations (3 total): (70.5, 59.8) (69.2, 58.6) (66.6, 52.4) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 7 times
+    Spawn locations (4 total): (71.5, 61.2) (70.1, 59.5) (69.1, 58.1) ... and 1 more
+  Shadowsworn Adept (ID: 6006, Level: 53)
+    Spawn locations (1 total): (68.4, 46.8) 
+  Strength of Earth Totem IV (ID: 7403, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (69.8, 59.7) (68.5, 57.1) 
+  Felstone Outrider (ID: 46583, Level: 52) - KILLED 7 times
+    Spawn locations (2 total): (67.1, 53.8) (65.9, 51.3) 
+  Cursing Eye (ID: 45610, Level: 55) - KILLED 7 times
+    Spawn locations (3 total): (72.8, 62.5) (69.8, 60.0) (67.4, 53.8) 
+  Redstone Crystalhide (ID: 5991, Level: 52) - KILLED 2 times
+    Spawn locations (1 total): (73.3, 34.7) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 10 times
+    Spawn locations (6 total): (71.5, 61.2) (70.1, 59.5) (69.1, 58.1) ... and 3 more
+  Grace of Air Totem II (ID: 7487, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (68.5, 57.3) 
+  Stoneskin Totem V (ID: 7367, Level: ?) - KILLED 11 times
+    Spawn locations (5 total): (72.5, 62.5) (70.3, 59.6) (69.1, 58.0) ... and 2 more
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (68.2, 57.5) 
+  Drowned Sailor (ID: 46579, Level: 51) - KILLED 4 times
+    Spawn locations (11 total): (76.1, 42.1) (77.5, 40.2) (80.7, 56.9) ... and 8 more
+  Imp Minion (ID: 12922, Level: 52) - KILLED 2 times
+    Spawn locations (1 total): (66.4, 52.9) 
+  Prethu (ID: 1298, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.3, 49.3) 
+  Ashmane Boar (ID: 5992, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (61.7, 29.0) 
+  Windfury Totem III (ID: 7484, Level: ?) - KILLED 11 times
+    Spawn locations (2 total): (70.5, 59.9) (69.1, 58.4) 
+  Shadowsworn Cultist (ID: 6004, Level: 52)
+    Spawn locations (3 total): (64.1, 34.9) (62.5, 30.6) (62.2, 29.9) 
+
+> QUEST ITEMS:
+  Runecloth (ID: 14047)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Brute (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Outrider (npc)
+    Source: Felstone Outrider (npc)
+  Dried King Bolete (ID: 8948)
+  Superior Healing Potion (ID: 3928)
+    Source: Stoneskin Totem V (npc)
+  Runecloth Bandage (ID: 14529)
+  Demonic Rune (ID: 12662)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+  Red Rose (ID: 3419)
+    Source: Felstone Brute (npc)
+  Felstone Grog (ID: 60761)
+  Scroll of Protection IV (ID: 10305)
+  Jagged Piece of Stone (ID: 4553)
+    Source: Felstone Merchant (npc)
+  Morning Glory Dew (ID: 8766)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+  Sunken Treasure (ID: 62408)
+    Source: Sunken Treasure (object)
+  Kuzhir Atramentum Vial (ID: 60766)
+  Shiny Dinglehopper (ID: 5435)
+  Deep Fried Plantains (ID: 8953)
+  Mageweave Cloth (ID: 4338)
+    Source: Felstone Brute (npc)
+    Source: Felstone Brute (npc)
+    Source: Felstone Brute (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Brute (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Merchant (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Warlock (npc)
+    Source: Felstone Acolyte (npc)
+    Source: Felstone Outrider (npc)
+    Source: Felstone Rogue (npc)
+    Source: Felstone Outrider (npc)
+  Simple Wildflowers (ID: 3421)
+    Source: Felstone Acolyte (npc)
+  Heavy Junkbox (ID: 16885)
+  Smooth Leather Boots (ID: 3970)
+    Source: Felstone Outrider (npc)
+  Suspicious Stew (ID: 60772)
+    Source: Felstone Outrider (npc)
+  Roasted Quail (ID: 8952)
+    Source: Windfury Totem II (npc)
+  Mithril Bound Trunk (ID: 21228)
+  Aquamarine (ID: 7909)
+
+GROUND OBJECTS/CONTAINERS:
+  Sunken Treasure at [81.6, 38.3] in Blasted Lands
+
+POTENTIAL PREREQUISITES:
+  674 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26612] = {"Prayers Answered",{{45609}},nil,nil,53,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[45609] = {"Paladin Sherman",nil,nil,53,53,0,{[20]={{73.8,60.5}}},nil,20,{26612},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26613
+Quest Name: Aid for Nethergarde
+Level: 50
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Dead Courier (ID: 45611)
+  Location: Blasted Lands
+  Coords: 52.2, 6.1
+
+DESCRIPTION:
+  <The corpse is relatively fresh. A ragged wound wound leaked a puddle of blood onto the ground from the dwarf's chest.>
+
+<The dwarf's equipment looks untouched, and inside their worn knapsack you find a letter that seems to be an official communication from Nethergarde Keep.>
+
+OBJECTIVES TEXT:
+  Return the Petition for Aid to Watcher Mahar Ba inside Nethergarde Keep.
+
+OBJECTIVES:
+
+Return the Petition for Aid to Watcher Mahar Ba inside Nethergarde Keep.
+
+TURN-IN NPC:
+  NPC: Watcher Mahar Ba (ID: 5385)
+  Location: Blasted Lands
+  Coords: 67.5, 19.1
+
+RELATED MOBS:
+  Sorrow Spinner (ID: 858, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.5, 65.3) 
+  Black Widow Hatchling (ID: 930, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (78.6, 45.8) 
+
+POTENTIAL PREREQUISITES:
+  663 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26613] = {"Aid for Nethergarde",{{45611}},{{5385}},nil,50,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[5385] = {"Watcher Mahar Ba",nil,nil,50,50,0,{[20]={{67.5,19.1}}},nil,20,nil,{26613},nil,nil,nil,2},
+[45611] = {"Dead Courier",nil,nil,50,50,0,{[20]={{52.2,6.1}}},nil,20,{26613},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26622
+Quest Name: Sunken Treasure
+Level: 52
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Ashmane Boar (ID: 5992)
+  Location: Blasted Lands
+  Coords: 57.6, 26.9
+
+DESCRIPTION:
+  Hey! You look like a good swimmer, and I need a good swimmer.
+
+See those wrecks out there? I keep seeing them on our way in to port and had a thought: sunken treasure!
+
+I'll PAY you to go check for me. I've counted four wrecks down there. If you find anything, bring it back and we can divvy out the loot...
+
+Oh, and I think I saw some nasty bonemen swimming around down there. Be careful, Human!
+
+OBJECTIVES TEXT:
+  Find the Sunken Treasure in one of the shipwrecks off the coast of the Blasted Lands.
+
+OBJECTIVES:
+
+ : 0/1
+
+RELATED MOBS:
+  Felstone Acolyte (ID: 46581, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.5, 16.9) 
+
+POTENTIAL PREREQUISITES:
+  674 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26622] = {"Sunken Treasure",{{5992}},nil,nil,52,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[5992] = {"Ashmane Boar",nil,nil,52,52,0,{[20]={{57.6,26.9}}},nil,20,{26622},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26627
+Quest Name: The Best of the Worst
+Level: 50
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Izalnir (ID: 45093)
+  Location: Blasted Lands
+  Coords: 73.0, 34.3
+
+DESCRIPTION:
+  I'll say this outright -- I've not aligned with a faction yet, but there's no love lost for my former colleagues. I'll work with anyone to teach those fools a lesson they'll never forget!
+
+My tenure at the fortress wasn't long, but I know all of its secrets... more importantly, I know how to grind it all to a halt. For a time, anyway...
+
+I need to ensure you're up to the task. In a nearby outpost, a stealthy sort directs the rabble of the cult, one 'Lydia Cartwright'.
+
+Bring friends... see to her demise, and we shall proceed.
+
+OBJECTIVES TEXT:
+  Kill Lydia Cartwright at Felstone Outpost southwest of Morgria's Camp.
+
+OBJECTIVES:
+
+  slain: 0/1 (monster)
+
+TURN-IN NPC:
+  NPC: Izalnir (ID: 45093)
+  Location: Blasted Lands
+  Coords: 73.0, 34.3
+
+RELATED MOBS:
+  Brandeth (ID: 66840, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (66.1, 47.2) 
+  Felstone Acolyte (ID: 46581, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.5, 16.9) 
+  Snickerfang Hyena (ID: 5985, Level: 49) - KILLED 3 times
+    Spawn locations (1 total): (46.0, 35.6) 
+  Kolli (ID: 1297, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (49.4, 28.8) 
+  Helboar (ID: 5993, Level: 53) - KILLED 21 times
+    Spawn locations (11 total): (61.3, 47.8) (61.1, 45.4) (59.0, 43.9) ... and 8 more
+  Searing Totem V (ID: 7400, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (67.4, 43.7) 
+  Black Slayer (ID: 5982, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (73.0, 34.3) (71.9, 37.0) 
+  Grace of Air Totem (ID: 7486, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (67.4, 43.7) 
+  Lydia Cartwright (ID: 45633, Level: 50) - KILLED 2 times
+    Spawn locations (1 total): (67.3, 43.5) 
+  Shadowsworn Adept (ID: 6006, Level: ?) - KILLED 8 times
+    Spawn locations (3 total): (67.8, 46.9) (64.0, 52.5) (67.5, 43.7) 
+  Bonepicker (ID: 5983, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (57.1, 45.6) (53.7, 49.6) 
+  Redstone Crystalhide (ID: 5991, Level: 52) - KILLED 22 times
+    Spawn locations (13 total): (69.0, 46.9) (68.0, 46.9) (64.2, 51.3) ... and 10 more
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (67.4, 43.4) 
+  Felstone Outrider (ID: 46583, Level: 54)
+    Spawn locations (1 total): (68.0, 45.4) 
+  Cursing Eye (ID: 45610, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (58.1, 34.3) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (67.4, 43.7) 
+  Healing Stream Totem IV (ID: 3908, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (67.4, 43.7) 
+  Starving Snickerfang (ID: 5984, Level: 46) - KILLED 3 times
+    Spawn locations (1 total): (50.4, 28.8) 
+  Scorpok Stinger (ID: 5988, Level: 51) - KILLED 3 times
+    Spawn locations (2 total): (50.8, 28.5) (50.7, 29.7) 
+  Ashmane Boar (ID: 5992, Level: 49) - KILLED 4 times
+    Spawn locations (4 total): (70.0, 37.9) (68.9, 40.8) (56.9, 32.7) ... and 1 more
+  Servant of Allistarj (ID: 7670, Level: 54)
+    Spawn locations (1 total): (67.0, 47.2) 
+  Shadowsworn Thug (ID: 6005, Level: 53) - KILLED 1 times
+    Spawn locations (2 total): (69.9, 42.6) (66.9, 47.2) 
+
+> QUEST ITEMS:
+  Sulfurous Meat (ID: 62388)
+    Source: Ashmane Boar (npc)
+  Red Clay (ID: 62389)
+  Red Wolf Meat (ID: 12203)
+    Source: Snickerfang Hyena (npc)
+  Ivory Boar Tusk (ID: 3403)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+  Thick Furry Mane (ID: 4583)
+    Source: Starving Snickerfang (npc)
+  Large Boar Tusk (ID: 2295)
+    Source: Helboar (npc)
+    Source: Ashmane Boar (npc)
+  Scorpok Pincer (ID: 8393)
+    Source: Scorpok Stinger (npc)
+  Scroll of Agility III (ID: 4425)
+    Source: Shadowsworn Adept (npc)
+  Superior Mana Potion (ID: 13443)
+    Source: Shadowsworn Adept (npc)
+  Morning Glory Dew (ID: 8766)
+    Source: Shadowsworn Adept (npc)
+  Snickerfang Jowl (ID: 8391)
+    Source: Starving Snickerfang (npc)
+  Mystery Meat (ID: 12037)
+    Source: Scorpok Stinger (npc)
+  Basilisk Heart (ID: 11387)
+    Source: Redstone Crystalhide (npc)
+    Source: Redstone Crystalhide (npc)
+  Tender Wolf Meat (ID: 12208)
+    Source: Snickerfang Hyena (npc)
+  Chieftain's Headdress of the Wolf (ID: 9953)
+    Source: Kum'isha's Junk (object)
+  Wicked Claw (ID: 8146)
+    Source: Redstone Crystalhide (npc)
+  Prismatic Basilisk Scale (ID: 4092)
+    Source: Redstone Crystalhide (npc)
+    Source: Redstone Crystalhide (npc)
+  Gryphon Mail Belt of the Tiger (ID: 15619)
+    Source: Helboar (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Shadowsworn Adept (npc)
+    Source: Shadowsworn Adept (npc)
+    Source: Lydia Cartwright (npc)
+  Blasted Boar Lung (ID: 8392)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+    Source: Helboar (npc)
+  Basilisk Brain (ID: 8394)
+    Source: Redstone Crystalhide (npc)
+    Source: Redstone Crystalhide (npc)
+    Source: Redstone Crystalhide (npc)
+    Source: Redstone Crystalhide (npc)
+  Imperfect Draenethyst Fragment (ID: 10593)
+    Source: Helboar (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Kum'isha's Junk at [53.5, 35.9] in Blasted Lands
+
+POTENTIAL PREREQUISITES:
+  674 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26627] = {"The Best of the Worst",{{45093}},{{45093}},nil,50,nil,nil,nil,nil,{{{46581,1}},nil,nil,nil,nil,nil},nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[45093] = {"Izalnir",nil,nil,50,50,0,{[20]={{73.0,34.3}}},nil,20,{26627},{26627},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26628
+Quest Name: The Foundation Crumbles
+Level: 51
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Izalnir (ID: 45093)
+  Location: Blasted Lands
+  Coords: 73.0, 34.3
+
+DESCRIPTION:
+  Felstone's social foundation is made up of workers. Nothing functions without their involvement. Warlord Narokk has spent an inordinate amount of time tightening his grip on them through fear and pain.
+
+The fortress sits upon one of the largest gold veins in the area, and the workers harvest it. Felstone's older structures are in ruin, but the workers are repairing them. The docks have goods in need of transport -- bought with harvested gold, and so on, and so forth...
+
+You know what to do, Kolli.
+
+OBJECTIVES TEXT:
+  Kill 15 Felstone Merchants, 15 Felstone Miners, and 15 Felstone Builders inside Felstone Fortress.
+
+OBJECTIVES:
+
+Felstone Merchant slain: 0/15 (monster)
+
+Felstone Miner slain: 0/15 (monster)
+
+Felstone Builder slain: 0/15 (monster)
+
+RELATED MOBS:
+  Black Slayer (ID: 5982, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (73.0, 34.3) (71.9, 37.0) 
+  Ashmane Boar (ID: 5992, Level: 49) - KILLED 4 times
+    Spawn locations (4 total): (70.0, 37.9) (68.9, 40.8) (56.9, 32.7) ... and 1 more
+  Felstone Acolyte (ID: 46581, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.5, 16.9) 
+  Cursing Eye (ID: 45610, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (58.1, 34.3) 
+
+> QUEST ITEMS:
+  Large Boar Tusk (ID: 2295)
+    Source: Ashmane Boar (npc)
+  Sulfurous Meat (ID: 62388)
+    Source: Ashmane Boar (npc)
+  Red Clay (ID: 62389)
+
+POTENTIAL PREREQUISITES:
+  674 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26628] = {"The Foundation Crumbles",{{45093}},nil,nil,51,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[45093] = {"Izalnir",nil,nil,51,51,0,{[20]={{73.0,34.3}}},nil,20,{26628},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26629
+Quest Name: True Believers
+Level: 51
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Izalnir (ID: 45093)
+  Location: Blasted Lands
+  Coords: 73.0, 34.3
+
+DESCRIPTION:
+  Amongst Felstone's ranks, there are a few indispensable members that come to mind. Killing them would sow a deep discord in the hierarchy.
+
+Jinla the Beastmaster, a rugged woman that shepherds the wolves, oversees the mounted patrols and important deliveries inside the fortress. The beasts look to her and her alone. She dwells in a large hut on the westernmost rise near the stables.
+
+Devin the Cook is a real piece of work -- chef by day, torturer by night, and none would dare question where the cooked meat comes from. He keeps fear alive and well in the fortress, haunting a walled enclosure on the middle terrace to the south.
+
+Lastly, Liam the Dockmaster is the genius behind Felstone's logistics and sea trade. He's a loner... likely buried in his books at the harbor office.
+
+OBJECTIVES TEXT:
+  Kill Jinla the Beastmaster, Devin the Cook, and Liam the Dockmaster inside Felstone Fortress.
+
+OBJECTIVES:
+
+  slain: 0/1 (monster)
+
+  slain: 0/1 (monster)
+
+Liam the Dockmaster slain: 0/1 (monster)
+
+RELATED MOBS:
+  Black Slayer (ID: 5982, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (71.9, 37.0) 
+  Ashmane Boar (ID: 5992, Level: 49) - KILLED 4 times
+    Spawn locations (4 total): (70.0, 37.9) (68.9, 40.8) (56.9, 32.7) ... and 1 more
+  Felstone Acolyte (ID: 46581, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (63.5, 16.9) 
+  Cursing Eye (ID: 45610, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (58.1, 34.3) 
+
+> QUEST ITEMS:
+  Large Boar Tusk (ID: 2295)
+    Source: Ashmane Boar (npc)
+  Sulfurous Meat (ID: 62388)
+    Source: Ashmane Boar (npc)
+  Red Clay (ID: 62389)
+
+POTENTIAL PREREQUISITES:
+  674 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26629] = {"True Believers",{{45093}},nil,nil,51,nil,nil,nil,nil,{{{5982,1},{5982,1}},nil,nil,nil,nil,nil},nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[45093] = {"Izalnir",nil,nil,51,51,0,{[20]={{73.0,34.3}}},nil,20,{26629},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 26632
+Quest Name: Glyph of the Warlord
+Level: 53
+Zone: Blasted Lands
+Zone ID: 20
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Izalnir (ID: 45093)
+  Location: Blasted Lands
+  Coords: 73.1, 34.3
+
+DESCRIPTION:
+  It's finally time, Kolli. You're going after the head of the snake now. We're so close...
+
+As a show of fealty and for greater security, Seiana and I were forced to give Warlord Narokk his own glyph. Uniting the three glyphs affords one a modicum of control over the curse. Not enough to rid the world of it... but it's a start. I'll be able to dispel it from you on a case-by-case basis only.
+
+Narokk resides in his tower on the highest terrace to the far south. After these other deaths he'll know you're coming for him. Bring me his glyph, and I can start reining in the curse I helped unleash.
+
+OBJECTIVES TEXT:
+  Loot Narokk's Glyph from Warlord Narokk inside Felstone Fortress.
+
+OBJECTIVES:
+
+ : 0/1
+
+RELATED MOBS:
+  Prethu (ID: 1298, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.3, 49.3) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (80.8, 56.5) 
+  Shadowsworn Cultist (ID: 6004, Level: 52)
+    Spawn locations (3 total): (64.1, 34.9) (62.5, 30.6) (62.2, 29.9) 
+  Ashmane Boar (ID: 5992, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (61.7, 29.0) 
+  Kolli (ID: 1297, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (76.7, 49.9) 
+  Drowned Sailor (ID: 46579, Level: 51) - KILLED 4 times
+    Spawn locations (11 total): (76.1, 42.1) (77.5, 40.2) (80.7, 56.9) ... and 8 more
+  Redstone Crystalhide (ID: 5991, Level: 52) - KILLED 2 times
+    Spawn locations (1 total): (73.3, 34.7) 
+  Felstone Brute (ID: 46582, Level: 54)
+    Spawn locations (3 total): (76.8, 50.0) (76.5, 48.8) (74.0, 49.9) 
+
+> QUEST ITEMS:
+  Mithril Bound Trunk (ID: 21228)
+  Runecloth Bandage (ID: 14529)
+  Sunken Treasure (ID: 62408)
+    Source: Sunken Treasure (object)
+
+GROUND OBJECTS/CONTAINERS:
+  Sunken Treasure at [81.6, 38.3] in Blasted Lands
+
+POTENTIAL PREREQUISITES:
+  676 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Blasted Lands (ID: 20)
+[26632] = {"Glyph of the Warlord",{{45093}},nil,nil,53,nil,nil,nil,nil,{nil,nil,{{21228,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,20,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[45093] = {"Izalnir",nil,nil,53,53,0,{[20]={{73.1,34.3}}},nil,20,{26632},nil,nil,nil,nil,2},
+```
+
+### Additional Information (Optional)
+
+_No response_

@@ -1,0 +1,1386 @@
+GitHub Issue #1486
+Title: [Quest Data]: Missing Quest Data - Part 6 of 8
+User: Vidaux
+Created: 2025-09-07T17:27:50Z
+============================================================
+
+### Quest Data Export
+
+```text
+---------------------------------------------------------------
+                     COLLECTED QUEST DATA                        
+---------------------------------------------------------------
+
+Page 6 of 8 (54.4k chars)
+
+Quest ID: 2201
+Quest Name: Find the Gems
+Level: 43
+Zone: Uldaman
+Zone ID: 0
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Remains of a Paladin (ID: 6912)
+
+DESCRIPTION:
+  The paladin's journal has provided perhaps the only clues that Uldaman will yield as to the location of the necklace's gems.  If the paladin's scribing remains accurate, then the Shadowforge dwarves and the troggs that vie for control of the dig site will need to be dealt with.
+
+Armed with this knowledge, the search for the gems begins in earnest.  When all the gems have been acquired, Talvash in Ironforge should be notified via the Phial of Scrying as per his instructions.
+
+OBJECTIVES TEXT:
+  Find the ruby, sapphire, and topaz that are scattered throughout Uldaman.  Once acquired, contact Talvash del Kissel remotely by using the Phial of Scrying he previously gave you.
+
+From the journal, you know...
+* The ruby has been stashed in a barricaded Shadowforge area.
+* The topaz has been hidden in an urn in one of the Trogg areas, near some Alliance dwarves.
+
+* The sapphire has been claimed by Grimlok, the trogg leader.
+
+OBJECTIVES:
+
+ : 0/1
+
+Shattered Necklace Sapphire: 0/1
+
+Shattered Necklace Topaz: 0/1
+
+TURN-IN NPC:
+  NPC: Grimlok (ID: 4854)
+
+RELATED MOBS:
+  Vault Warder (ID: 10120, Level: 45) - KILLED 8 times
+  Stonevault Cave Hunter (ID: 4856, Level: 37) - KILLED 4 times
+    Spawn locations (1 total): (52.0, 63.8) 
+  Shadowforge Geologist (ID: 7030, Level: ?) - KILLED 12 times
+  Stone Keeper (ID: 4857, Level: 46) - KILLED 16 times
+  Cleft Scorpid (ID: 7078, Level: ?) - KILLED 40 times
+  Tremor Totem (ID: 5913, Level: ?) - KILLED 2 times
+  Vidaux (ID: 1297, Level: ?) - KILLED 8 times
+    Spawn locations (1 total): (51.9, 63.9) 
+  Baelog (ID: 6906, Level: 41)
+  Eric "The Swift" (ID: 6907, Level: 40) - KILLED 4 times
+  Stonevault Ambusher (ID: 7175, Level: ?) - KILLED 64 times
+  Stone Steward (ID: 4860, Level: 44) - KILLED 28 times
+  Earthen Stonebreaker (ID: 7396, Level: 44) - KILLED 96 times
+  Olaf (ID: 6908, Level: 40) - KILLED 4 times
+  Shadowforge Ruffian (ID: 4845, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (52.1, 63.6) (44.6, 12.5) 
+  Shrike Bat (ID: 4861, Level: 38) - KILLED 24 times
+  Earthen Stonecarver (ID: 7397, Level: ?) - KILLED 28 times
+  Shadowforge Digger (ID: 4846, Level: 35)
+    Spawn locations (1 total): (51.9, 63.8) 
+  Solumin (ID: 1298, Level: ?) - KILLED 12 times
+    Spawn locations (1 total): (51.9, 63.7) 
+  Revelosh (ID: 6910, Level: 40) - KILLED 4 times
+  Shadowforge Relic Hunter (ID: 4847, Level: 39) - KILLED 20 times
+  Stonevault Mauler (ID: 7320, Level: 44) - KILLED 36 times
+  Shadowforge Darkcaster (ID: 4848, Level: 43) - KILLED 8 times
+  Stonevault Flameweaver (ID: 7321, Level: 45) - KILLED 24 times
+  Venomlash Scorpid (ID: 7022, Level: 39) - KILLED 4 times
+  Shadowforge Sharpshooter (ID: 7290, Level: 44) - KILLED 8 times
+  Shadowforge Archaeologist (ID: 4849, Level: 43) - KILLED 8 times
+  Obsidian Sentinel (ID: 7023, Level: 42) - KILLED 4 times
+  Ironaya (ID: 7228, Level: 40) - KILLED 4 times
+  Stonevault Cave Lurker (ID: 4850, Level: 39) - KILLED 92 times
+  Sentinel of Archaedas (ID: 2748, Level: 47) - KILLED 4 times
+  Displacement Device (ID: 45341, Level: ?) - KILLED 12 times
+  Stonevault Rockchewer (ID: 4851, Level: 36) - KILLED 120 times
+  Lava Spout Totem (ID: 6017, Level: ?) - KILLED 74 times
+  Stonevault Oracle (ID: 4852, Level: 38) - KILLED 120 times
+  Stonevault Geomancer (ID: 4853, Level: 44) - KILLED 36 times
+  Deadly Cleft Scorpid (ID: 7405, Level: ?) - KILLED 36 times
+  Grimlok (ID: 4854, Level: 45) - KILLED 4 times
+  Makers Matrix (ID: 45340, Level: 45) - KILLED 8 times
+  Healing Ward (ID: 3560, Level: ?) - KILLED 56 times
+  Galgann Firehammer (ID: 7291, Level: 45) - KILLED 4 times
+  Stonevault Brawler (ID: 4855, Level: 43) - KILLED 68 times
+  Jadespine Basilisk (ID: 4863, Level: 39) - KILLED 12 times
+  Shadowforge Surveyor (ID: 4844, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (52.3, 63.6) 
+
+> QUEST ITEMS:
+  Marred Uldic Sabatons (ID: 60675)
+    Source: Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Earthen Stonecarver (npc)
+  Swiftness Potion (ID: 2459)
+  Dried Scorpid Carapace (ID: 19936)
+    Source: Deadly Cleft Scorpid (npc)
+  Pillager's Chestguard of the Bear (ID: 15557)
+  Steel Lockbox (ID: 4637)
+    Source: Shadowforge Sharpshooter (npc)
+    Source: Shadowforge Sharpshooter (npc)
+  Field Plate Shield of the Monkey (ID: 7496)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Lesser Mana Potion (ID: 3385)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Thallium Choker of the Owl (ID: 12020)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Squishy Basilisk Eye (ID: 11386)
+    Source: Jadespine Basilisk (npc)
+    Source: Grimlok (npc)
+  Windchaser Cinch (ID: 14435)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+  Greater Mystic Essence (ID: 11135)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+  Oil of Olaf (ID: 1177)
+    Source: Olaf (npc)
+  Curved Basilisk Claw (ID: 1701)
+    Source: Jadespine Basilisk (npc)
+    Source: Grimlok (npc)
+  Sparkleshell Shoulder Pads of the Falcon (ID: 15583)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Small Bat Skull (ID: 11393)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Bat Heart (ID: 11394)
+  Superior Healing Potion (ID: 3928)
+  Trueshot Bow of the Falcon (ID: 4087)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Relic Hunter (npc)
+  Pattern: Guardian Leather Bracers (ID: 4300)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+  Intact Basilisk Spine (ID: 1702)
+  Paper Flying Machine (ID: 34497)
+  Lesser Nether Essence (ID: 11174)
+    Source: Stonevault Mauler (npc)
+  Mystery Meat (ID: 12037)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+  Wild Hog Shank (ID: 3771)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Ambusher (npc)
+    Source: Stonevault Ambusher (npc)
+  Hardened Cloak (ID: 3803)
+    Source: Stonevault Oracle (npc)
+  Steadfast Legplates of the Whale (ID: 15596)
+    Source: Stonevault Ambusher (object)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Cured Ham Steak (ID: 4599)
+    Source: Stonevault Geomancer (npc)
+  Long Bastard Sword (ID: 1830)
+    Source: Stonevault Cave Lurker (npc)
+  Tigerbane (ID: 1465)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+  Huntsman's Boots of the Falcon (ID: 9885)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Heavy Scorpid Leg (ID: 19938)
+    Source: Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Venomlash Scorpid (npc)
+  Deeprock Salt (ID: 8150)
+    Source: Stone Keeper (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Vault Warder (npc)
+  Jade (ID: 1529)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Medium Armor Kit (ID: 2313)
+    Source: Olaf (npc)
+  Galgann's Fireblaster (ID: 9412)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Geologist (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Stone Steward (object)
+    Source: Earthen Stonebreaker (npc)
+  Taut Compound Bow (ID: 3778)
+    Source: Stonevault Cave Lurker (npc)
+  Embersilk Bracelets of Shadow Wrath (ID: 14226)
+    Source: Stonevault Rockchewer (npc)
+  Sunscale Belt (ID: 14847)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+  Scorpid Scale (ID: 8154)
+    Source: Deadly Cleft Scorpid (npc)
+  Hawkeye's Breeches (ID: 14595)
+    Source: Cleft Scorpid (npc)
+  Revelosh's Spaulders of Nature's Wrath (ID: 9389)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Oracle (object)
+    Source: Stonevault Oracle (object)
+    Source: Stonevault Oracle (object)
+    Source: Stonevault Oracle (object)
+    Source: Stonevault Oracle (object)
+    Source: Stonevault Oracle (object)
+  Heavy War Staff (ID: 4024)
+  Aquamarine (ID: 7909)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Oracle (npc)
+  Marred Uldic Shoulderplates (ID: 60676)
+    Source: Shadowforge Archaeologist (object)
+    Source: Shadowforge Archaeologist (object)
+    Source: Shadowforge Archaeologist (object)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Shadowforge Darkcaster (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+  Soft Banana Bread (ID: 4601)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (object)
+    Source: Earthen Stonecarver (npc)
+  Shattered Necklace Power Source (ID: 7672)
+    Source: Sentinel of Archaedas (npc)
+  Baelog's Shortbow (ID: 9400)
+    Source: Fire Ward (object)
+  Empty Venom Sac (ID: 19935)
+    Source: Deadly Cleft Scorpid (npc)
+  Small Scorpid Claw (ID: 19937)
+    Source: Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Worn Running Boots (ID: 9398)
+    Source: Eric "The Swift" (npc)
+  Small Radiant Shard (ID: 11177)
+    Source: Revelosh's Spaulders of Nature's Wrath (object)
+  Large Radiant Shard (ID: 11178)
+    Source: Talvash's Enhancing Necklace (object)
+  Nordic Longshank (ID: 9401)
+    Source: Conspicuous Urn (object)
+  Plans: Polished Steel Boots (ID: 3874)
+  Precision Arrow (ID: 9399)
+    Source: Conspicuous Urn (object)
+    Source: Fire Ward (object)
+  Olaf's All Purpose Shield (ID: 9404)
+    Source: Olaf (npc)
+    Source: Olaf (npc)
+  Medium Leather (ID: 2319)
+  Mulgore Spice Bread (ID: 4544)
+  Stoneweaver Leggings (ID: 9407)
+  Hardened Leather Belt (ID: 3800)
+    Source: Shadowforge Geologist (npc)
+  Crochet Gloves (ID: 3940)
+  Scroll of Intellect III (ID: 4419)
+  Carved Stone Urn (ID: 4610)
+  Scroll of Strength II (ID: 2289)
+  Iron Ore (ID: 2772)
+    Source: Deadly Cleft Scorpid (npc)
+  Oilskin Leggings (ID: 9414)
+    Source: Stonevault Geomancer (npc)
+    Source: Grimlok (npc)
+    Source: Grimlok (npc)
+    Source: Grimlok (npc)
+  Conjured Mineral Water (ID: 8077)
+  Goblin Gumbo (ID: 33218)
+  Broken Scorpid Leg (ID: 4867)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+  Formula: Enchant Shield - Stamina (ID: 11202)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+  Moonberry Juice (ID: 1645)
+  Sorcerer Bracelets of the Owl (ID: 9879)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Heavy Leather (ID: 4234)
+    Source: Jadespine Basilisk (npc)
+  Smooth Stone Chip (ID: 4552)
+    Source: Earthen Stonebreaker (object)
+    Source: Stone Keeper (npc)
+    Source: Vault Warder (npc)
+  Heavy Hide (ID: 4235)
+  Crochet Vest (ID: 3943)
+  Tablet of Will (ID: 5824)
+    Source: Tablet of Will (object)
+  Shiny Polished Stone (ID: 4554)
+  Dry Scorpid Eye (ID: 4872)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+  Reinforced Buckler (ID: 3817)
+  Spined Bat Wing (ID: 11391)
+    Source: Shrike Bat (npc)
+  Shattered Necklace (ID: 7666)
+    Source: Stonevault Oracle (npc)
+  Tablet of Ancient Wisdom (ID: 60678)
+  Severed Bat Claw (ID: 11392)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Shattered Necklace Ruby (ID: 7669)
+    Source: Shadowforge Cache (object)
+  Thick Leather (ID: 4304)
+    Source: Revelosh's Spaulders of Nature's Wrath (object)
+  Shattered Necklace Sapphire (ID: 7670)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Grimlok (npc)
+    Source: Grimlok (npc)
+  Solid Stone (ID: 7912)
+    Source: Vault Warder (npc)
+  Shattered Necklace Topaz (ID: 7671)
+    Source: Conspicuous Urn (object)
+    Source: Stonevault Oracle (npc)
+  Silk Cloth (ID: 4306)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Ambusher (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (object)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Lava Spout Totem (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Oracle (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Stonevault Brawler (object)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Mauler (npc)
+  Mana Jade (ID: 5513)
+  Long-barreled Musket (ID: 3780)
+    Source: Stonevault Rockchewer (npc)
+  Greater Mana Potion (ID: 6149)
+  Double-stitched Cloak (ID: 3811)
+  Captain's Cloak of the Bear (ID: 7492)
+  Indurium Ore (ID: 5833)
+    Source: Scorched Ring (object)
+    Source: Stonevault Mauler (npc)
+  Goldenbark Apple (ID: 4539)
+  Pattern: White Bandit Mask (ID: 10301)
+    Source: Stonevault Oracle (npc)
+  Spotted Yellowtail (ID: 6887)
+  Gni'kiv Medallion (ID: 7740)
+    Source: Conspicuous Urn (object)
+    Source: Fire Ward (object)
+  Vision Dust (ID: 11137)
+    Source: Rune of Portals (object)
+    Source: Scorched Ring (object)
+  The Shaft of Tsol (ID: 7741)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Stonevault Mauler (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Talvash's Enhancing Necklace at [36.0, 4.5] in Ironforge
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Uldaman (ID: 0)
+[2201] = {"Find the Gems",{{6912}},{{4854}},nil,43,nil,nil,nil,nil,{nil,nil,{{60675,1},{7670,1},{7671,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[4854] = {"Grimlok",nil,nil,43,43,0,nil,nil,0,nil,{2201},nil,nil,nil,2},
+[6912] = {"Remains of a Paladin",nil,nil,43,43,0,nil,nil,0,{2201},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 2204
+Quest Name: Restoring the Necklace
+Level: 44
+Zone: Uldaman
+Zone ID: 0
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Grimlok (ID: 4854)
+
+DESCRIPTION:
+  You are going to need to find some "oomph" for the necklace, and Uldaman is probably the best place for it, actually.  I guess there are a lot of constructs running around in there, yeah?  Well, take out the biggest, baddest construct in that place and grab its power source!  I am pretty sure I can fuse that source into the necklace.
+
+Without that power source, fixing the necklace will be impossible.  Come back to me here to Ironforge when you have it, and we'll get it all fixed up for you!
+
+OBJECTIVES TEXT:
+  Obtain a power source from the most powerful construct you can find in Uldaman, and deliver it to Talvash del Kissel in Ironforge.
+
+OBJECTIVES:
+
+Shattered Necklace Power Source: 0/1
+
+TURN-IN NPC:
+  NPC: Talvash del Kissel (ID: 6826)
+  Location: City of Ironforge
+  Coords: 36.2, 3.8
+
+RELATED MOBS:
+  Stone Steward (ID: 4860, Level: 44) - KILLED 28 times
+  Earthen Stonebreaker (ID: 7396, Level: 44) - KILLED 96 times
+  Earthen Stonecarver (ID: 7397, Level: ?) - KILLED 28 times
+  Sentinel of Archaedas (ID: 2748, Level: 47) - KILLED 4 times
+  Grimlok (ID: 4854, Level: 45)
+  Stonevault Geomancer (ID: 4853, Level: 44) - KILLED 4 times
+  Makers Matrix (ID: 45340, Level: 45) - KILLED 8 times
+  Stonevault Brawler (ID: 4855, Level: 43) - KILLED 4 times
+  Displacement Device (ID: 45341, Level: ?) - KILLED 12 times
+  Stone Keeper (ID: 4857, Level: 46) - KILLED 16 times
+  Vault Warder (ID: 10120, Level: 45) - KILLED 8 times
+  Stonevault Mauler (ID: 7320, Level: 45) - KILLED 28 times
+  Stonevault Flameweaver (ID: 7321, Level: 45) - KILLED 24 times
+
+> QUEST ITEMS:
+  Mageweave Cloth (ID: 4338)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Stone Steward (object)
+    Source: Earthen Stonebreaker (npc)
+  Sunscale Belt (ID: 14847)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+  Paper Flying Machine (ID: 34497)
+  Smooth Stone Chip (ID: 4552)
+    Source: Earthen Stonebreaker (object)
+    Source: Stone Keeper (npc)
+    Source: Vault Warder (npc)
+  Moonberry Juice (ID: 1645)
+  Solid Stone (ID: 7912)
+    Source: Vault Warder (npc)
+  Cured Ham Steak (ID: 4599)
+  Shattered Necklace Power Source (ID: 7672)
+    Source: Sentinel of Archaedas (npc)
+  Tablet of Ancient Wisdom (ID: 60678)
+  Goldenbark Apple (ID: 4539)
+  Crochet Gloves (ID: 3940)
+  Greater Mana Potion (ID: 6149)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Stonevault Mauler (npc)
+  Lesser Nether Essence (ID: 11174)
+    Source: Stonevault Mauler (npc)
+  Marred Uldic Sabatons (ID: 60675)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Earthen Stonecarver (npc)
+    Source: Earthen Stonecarver (npc)
+  Large Radiant Shard (ID: 11178)
+    Source: Talvash's Enhancing Necklace (object)
+  Silk Cloth (ID: 4306)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Mauler (npc)
+  Shiny Polished Stone (ID: 4554)
+  Deeprock Salt (ID: 8150)
+    Source: Stone Keeper (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Vault Warder (npc)
+  Indurium Ore (ID: 5833)
+    Source: Stonevault Mauler (npc)
+  Crochet Vest (ID: 3943)
+  Soft Banana Bread (ID: 4601)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (object)
+    Source: Earthen Stonecarver (npc)
+  Pattern: Guardian Leather Bracers (ID: 4300)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Talvash's Enhancing Necklace at [36.0, 4.5] in Ironforge
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Uldaman (ID: 0)
+[2204] = {"Restoring the Necklace",{{4854}},{{6826}},nil,44,nil,nil,nil,nil,{nil,nil,{{7672,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[4854] = {"Grimlok",nil,nil,44,44,0,nil,nil,0,{2204},nil,nil,nil,nil,2},
+[6826] = {"Talvash del Kissel",nil,nil,44,44,0,{[342]={{36.2,3.8}}},nil,342,nil,{2204},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 2240
+Quest Name: The Hidden Chamber
+Level: 40
+Zone: Uldaman
+Zone ID: 0
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Baelog (ID: 6906)
+
+DESCRIPTION:
+  Now for the task at hand.
+
+There is a secret chamber, the Chamber of Khaz'mul, that must be explored.  The problem is that the chamber's behind a huge, locked door!  It's a lucky thing I know how to open it.
+
+I've described everything in my journal, here on the table.  My band and I are stuck here for now... so you, Vidaux, must find the chamber of Khaz'mul for us!
+
+Read my journal, explore the chamber, then report to Prospector Stormpike at the Explorers' League in Ironforge.
+
+OBJECTIVES TEXT:
+  Read Baelog's Journal, explore the hidden chamber, then report to Prospector Stormpike.
+
+OBJECTIVES:
+
+Explore the Hidden Chamber
+
+RELATED MOBS:
+  Squirrel (ID: 1412, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (33.9, 50.7) 
+  Stonevault Ambusher (ID: 7175, Level: 35) - KILLED 24 times
+  Makers Matrix (ID: 45340, Level: 45) - KILLED 8 times
+  Dustbelcher Brute (ID: 2715, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (29.6, 54.8) 
+  Stonevault Basher (ID: 6733, Level: 40)
+    Spawn locations (3 total): (53.7, 65.5) (63.1, 43.6) (61.8, 44.1) 
+  Sentinel of Archaedas (ID: 2748, Level: 47) - KILLED 4 times
+  Dustbelcher Mystic (ID: 2907, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (30.7, 56.9) 
+  Tremor Totem (ID: 5913, Level: ?) - KILLED 2 times
+  Hammertoe Grez (ID: 2909, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (52.0, 63.7) 
+  Stankdogg (ID: 1304, Level: ?) - KILLED 12 times
+    Spawn locations (1 total): (52.0, 63.7) 
+  Stoneskin Totem III (ID: 5920, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (32.8, 64.9) 
+  Stoneclaw Totem (ID: 3579, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (24.3, 44.4) 
+  Displacement Device (ID: 45341, Level: ?) - KILLED 12 times
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (51.8, 63.9) 
+  Stonevault Mauler (ID: 7320, Level: 45) - KILLED 36 times
+  Shadowforge Surveyor (ID: 4844, Level: ?) - KILLED 16 times
+    Spawn locations (3 total): (51.6, 19.5) (45.7, 13.2) (52.3, 63.4) 
+  Stonevault Flameweaver (ID: 7321, Level: 45) - KILLED 24 times
+  Shadowforge Ruffian (ID: 4845, Level: ?) - KILLED 30 times
+    Spawn locations (4 total): (51.6, 39.8) (51.7, 27.1) (51.6, 15.9) ... and 1 more
+  Shadowforge Digger (ID: 4846, Level: 36) - KILLED 104 times
+    Spawn locations (3 total): (52.0, 63.7) (54.9, 24.1) (51.0, 14.9) 
+  Shadowforge Relic Hunter (ID: 4847, Level: 39) - KILLED 16 times
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (52.1, 63.7) (26.4, 65.6) 
+  Shadowforge Archaeologist (ID: 4849, Level: 44) - KILLED 8 times
+  Stonevault Cave Lurker (ID: 4850, Level: 39) - KILLED 36 times
+  Stonevault Rockchewer (ID: 4851, Level: 37) - KILLED 46 times
+    Spawn locations (1 total): (51.6, 63.8) 
+  Crag Coyote (ID: 2727, Level: ?) - KILLED 8 times
+    Spawn locations (5 total): (51.7, 40.7) (51.7, 18.0) (50.2, 34.4) ... and 2 more
+  Earthen Rocksmasher (ID: 7011, Level: 42) - KILLED 56 times
+  Earthen Sculptor (ID: 7012, Level: 42) - KILLED 20 times
+  Feral Crag Coyote (ID: 2728, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (59.0, 46.7) (23.6, 63.5) 
+  Grimlok (ID: 4854, Level: 45) - KILLED 4 times
+  Drusyssa (ID: 22975, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (52.1, 63.9) 
+  Stonevault Brawler (ID: 4855, Level: 43) - KILLED 68 times
+  Elder Crag Coyote (ID: 2729, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (29.6, 54.8) 
+  Earthen Stonebreaker (ID: 7396, Level: 44) - KILLED 96 times
+  Ancient Stone Keeper (ID: 7206, Level: 44) - KILLED 4 times
+  Earthen Stonecarver (ID: 7397, Level: ?) - KILLED 28 times
+  Obsidian Shard (ID: 7209, Level: ?) - KILLED 24 times
+  Stone Steward (ID: 4860, Level: 44) - KILLED 36 times
+  Shrike Bat (ID: 4861, Level: 39) - KILLED 28 times
+  Ridge Huntress (ID: 2732, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (42.0, 74.2) 
+  Jadespine Basilisk (ID: 4863, Level: 39) - KILLED 16 times
+  Obsidian Sentinel (ID: 7023, Level: 42) - KILLED 4 times
+  Deadly Cleft Scorpid (ID: 7405, Level: 42) - KILLED 36 times
+  Healing Ward (ID: 3560, Level: ?) - KILLED 8 times
+  Giant Buzzard (ID: 2831, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (30.6, 56.7) 
+  Shadowforge Geologist (ID: 7030, Level: 40) - KILLED 12 times
+  Stonevault Geomancer (ID: 4853, Level: 43) - KILLED 36 times
+  Stonevault Oracle (ID: 4852, Level: 38) - KILLED 16 times
+  Vidaux (ID: 1297, Level: ?) - KILLED 8 times
+    Spawn locations (1 total): (51.9, 63.7) 
+  Lava Spout Totem (ID: 6017, Level: ?) - KILLED 12 times
+  Stoneclaw Totem IV (ID: 3913, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (52.2, 63.5) 
+  Venomlash Scorpid (ID: 7022, Level: 40) - KILLED 12 times
+  Shadowforge Darkcaster (ID: 4848, Level: 43) - KILLED 8 times
+  Shadowforge Tunneler (ID: 2739, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (51.7, 37.8) 
+  Shadowforge Sharpshooter (ID: 7290, Level: 43) - KILLED 8 times
+  Cleft Scorpid (ID: 7078, Level: 35) - KILLED 80 times
+  Xalatoes (ID: 1298, Level: ?) - KILLED 14 times
+    Spawn locations (1 total): (52.0, 63.9) 
+  Revelosh (ID: 6910, Level: 40) - KILLED 4 times
+  Galgann Firehammer (ID: 7291, Level: 45) - KILLED 4 times
+  Ironaya (ID: 7228, Level: 40) - KILLED 4 times
+  Dustbelcher Ogre (ID: 2701, Level: ?) - KILLED 4 times
+    Spawn locations (1 total): (29.3, 54.2) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 10 times
+    Spawn locations (1 total): (51.8, 63.9) 
+  Fam'retor Guardian (ID: 2919, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (25.9, 44.7) 
+  Magregan Deepshadow (ID: 2932, Level: 38) - KILLED 10 times
+    Spawn locations (1 total): (51.9, 63.7) 
+  Stone Keeper (ID: 4857, Level: 46) - KILLED 16 times
+  Stoneskin Totem (ID: 5873, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (28.8, 42.3) 
+  Stonevault Cave Hunter (ID: 4856, Level: 36) - KILLED 86 times
+    Spawn locations (1 total): (51.7, 63.7) 
+  Vault Warder (ID: 10120, Level: 45)
+  Rockjaw Skullthumper (ID: 1115, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (70.8, 48.5) 
+  Forest Lurker (ID: 1195, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (34.8, 51.1) 
+  Mangy Mountain Boar (ID: 1191, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (39.4, 50.3) (65.7, 65.6) 
+
+> QUEST ITEMS:
+  Captain's Circlet of the Monkey (ID: 7488)
+  Tablet of Ryun'eh (ID: 4631)
+    Source: Drusyssa (npc)
+    Source: Shadowforge Surveyor (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Stonecloth Vest (ID: 14407)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Magregan Deepshadow (npc)
+  Gold Ore (ID: 2776)
+  Swiftness Potion (ID: 2459)
+  Jet Loop of the Gorilla (ID: 11998)
+    Source: Stone Keeper (npc)
+    Source: Stone Keeper (npc)
+    Source: Stone Keeper (npc)
+  Dried Scorpid Carapace (ID: 19936)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+  Heavy Scorpid Leg (ID: 19938)
+    Source: Shrike Bat (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Shrike Bat (npc)
+  Steel Lockbox (ID: 4637)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+  Twilight Cowl of the Whale (ID: 7432)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Relic Hunter (npc)
+  Protective Pavise (ID: 3986)
+    Source: Stonevault Brawler (npc)
+  Whetted Claymore (ID: 4018)
+    Source: Stone Steward (npc)
+  Interlaced Gloves (ID: 3796)
+  Scroll of Agility II (ID: 1477)
+    Source: Stonevault Cave Hunter (npc)
+  Runed Golden Rod (ID: 11130)
+  Squishy Basilisk Eye (ID: 11386)
+    Source: Jadespine Basilisk (npc)
+    Source: Jadespine Basilisk (npc)
+    Source: Jadespine Basilisk (npc)
+  Recipe: Major Troll's Blood Elixir (ID: 3831)
+    Source: Jadespine Basilisk (npc)
+    Source: Jadespine Basilisk (npc)
+    Source: Jadespine Basilisk (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+  Curved Basilisk Claw (ID: 1701)
+  Severed Bat Claw (ID: 11392)
+    Source: Shrike Bat (npc)
+  Small Bat Skull (ID: 11393)
+    Source: Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Bat Heart (ID: 11394)
+    Source: Shrike Bat (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+  Superior Healing Potion (ID: 3928)
+  Intact Basilisk Spine (ID: 1702)
+    Source: Jadespine Basilisk (npc)
+    Source: Jadespine Basilisk (npc)
+  Mystery Meat (ID: 12037)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Wild Hog Shank (ID: 3771)
+  Sorcerer Gloves of the Owl (ID: 9880)
+  Mageweave Cloth (ID: 4338)
+    Source: Stonevault Ambusher (npc)
+    Source: Earthen Sculptor (npc)
+    Source: Earthen Rocksmasher (npc)
+    Source: Earthen Sculptor (npc)
+    Source: Earthen Rocksmasher (object)
+    Source: Earthen Rocksmasher (npc)
+    Source: Earthen Rocksmasher (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Flameweaver (npc)
+    Source: Stone Steward (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Earthen Stonebreaker (npc)
+    Source: Stone Keeper (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Sigil of the Hammer (ID: 4648)
+  Mithril Ore (ID: 3858)
+  Mithril Head Trout (ID: 8364)
+    Source: Stonevault Cave Lurker (npc)
+  Cross-stitched Gloves (ID: 1783)
+    Source: Shadowforge Digger (npc)
+  Garrett Family Treasure (ID: 8026)
+  Brutish Legguards of the Eagle (ID: 14908)
+  Conjured Mineral Water (ID: 8077)
+  Hardened Leather Shoulderpads (ID: 3806)
+  Thick Leather Hat (ID: 8750)
+    Source: Obsidian Sentinel (npc)
+  Krom Stoutarm's Treasure (ID: 8027)
+    Source: Stankdogg (object)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Scorpid Scale (ID: 8154)
+  Lesser Nether Essence (ID: 11174)
+  Cured Ham Steak (ID: 4599)
+    Source: Ironaya (npc)
+    Source: Stonevault Brawler (npc)
+  Revelosh's Gloves of the Whale (ID: 9390)
+    Source: Revelosh (npc)
+    Source: Revelosh (npc)
+    Source: Revelosh (npc)
+  Regenerative Stone Belt (ID: 60677)
+    Source: Ancient Stone Keeper (npc)
+  Dream Dust (ID: 11176)
+    Source: Brutish Legguards of the Eagle (object)
+  Soft Banana Bread (ID: 4601)
+    Source: Earthen Stonebreaker (npc)
+  Jazeraint Helm of the Owl (ID: 9902)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Double Mail Boots (ID: 3809)
+  Goldenbark Apple (ID: 4539)
+  Small Scorpid Claw (ID: 19937)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Cleft Scorpid (npc)
+  Overlinked Chain Belt (ID: 4000)
+    Source: Earthen Rocksmasher (npc)
+  Marred Uldic Shoulderplates (ID: 60676)
+    Source: Stone Steward (npc)
+    Source: Stone Steward (npc)
+  Miniature Platinum Discs (ID: 6064)
+  Obsidian Power Source (ID: 8053)
+    Source: Obsidian Sentinel (npc)
+  Overlinked Chain Boots (ID: 4001)
+  Mana Jade (ID: 5513)
+  Sniper Rifle of Spirit (ID: 3430)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+  Medium Leather (ID: 2319)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+  Emberscale Cape (ID: 11311)
+    Source: Galgann Firehammer (npc)
+    Source: Galgann Firehammer (npc)
+    Source: Galgann Firehammer (npc)
+  Royal Headband of the Wolf (ID: 9915)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+  Ironshod Bludgeon (ID: 9408)
+    Source: Ironaya (npc)
+    Source: Ironaya (npc)
+  Nocturnal Shoes of the Owl (ID: 15152)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+  Scroll of Intellect III (ID: 4419)
+  Carved Stone Urn (ID: 4610)
+    Source: Carved Stone Urn (object)
+    Source: Mana Shield (object)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Solumin (object)
+  Mulgore Spice Bread (ID: 4544)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+  The Rockpounder (ID: 9413)
+  Oilskin Leggings (ID: 9414)
+    Source: Grimlok (npc)
+  Sweet Nectar (ID: 1708)
+    Source: Stonevault Cave Hunter (npc)
+  Vision Dust (ID: 11137)
+    Source: Revelosh (npc)
+    Source: Bat Heart (object)
+    Source: Disenchant (object)
+  Broken Scorpid Leg (ID: 4867)
+    Source: Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Deadly Cleft Scorpid (npc)
+    Source: Shrike Bat (npc)
+  Overlinked Chain Shoulderpads (ID: 4006)
+    Source: Stone Steward (npc)
+  Moonberry Juice (ID: 1645)
+    Source: Earthen Rocksmasher (object)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+  Crochet Vest (ID: 3943)
+    Source: Cleft Scorpid (npc)
+  Heavy Leather (ID: 4234)
+    Source: Jadespine Basilisk (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+    Source: Shrike Bat (npc)
+  Smooth Stone Chip (ID: 4552)
+    Source: Stone Steward (npc)
+    Source: Earthen Stonebreaker (npc)
+  Heavy Hide (ID: 4235)
+  Formula: Enchant Shield - Stamina (ID: 11202)
+    Source: Stonevault Flameweaver (npc)
+  Spined Bat Wing (ID: 11391)
+    Source: Shrike Bat (npc)
+  Shiny Polished Stone (ID: 4554)
+    Source: Stone Steward (npc)
+    Source: Earthen Stonebreaker (npc)
+  Dry Scorpid Eye (ID: 4872)
+    Source: Shrike Bat (npc)
+    Source: Cleft Scorpid (npc)
+    Source: Venomlash Scorpid (npc)
+  Solid Stone (ID: 7912)
+    Source: Stone Steward (npc)
+    Source: Stone Keeper (npc)
+  Tough Leather Bracers (ID: 1805)
+    Source: Stonevault Cave Hunter (npc)
+  Chromite Girdle (ID: 8140)
+  Greater Healing Potion (ID: 1710)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Lunar Handwraps of the Owl (ID: 14253)
+    Source: Shrike Bat (npc)
+  Magenta Fungus Cap (ID: 8047)
+    Source: Short Wooden Seat (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Stone Keeper (npc)
+    Source: Stone Keeper (npc)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+  Thick Leather (ID: 4304)
+    Source: Stonevault Brawler (npc)
+  Empty Venom Sac (ID: 19935)
+    Source: Deadly Cleft Scorpid (npc)
+  Large Basilisk Tail (ID: 4093)
+    Source: Jadespine Basilisk (npc)
+  An'Alleum Power Stone (ID: 8052)
+    Source: Shadowforge Geologist (npc)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Sharpshooter (npc)
+    Source: Stonevault Rockchewer (npc)
+  Silk Cloth (ID: 4306)
+    Source: Revelosh (npc)
+    Source: Revelosh (npc)
+    Source: Stonevault Cave Lurker (npc)
+    Source: Stonevault Ambusher (npc)
+    Source: Stonevault Ambusher (npc)
+    Source: Stonevault Ambusher (npc)
+    Source: Stonevault Cave Lurker (object)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Shadowforge Relic Hunter (npc)
+    Source: Earthen Sculptor (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Mauler (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Shadowforge Ruffian (npc)
+    Source: Shadowforge Ruffian (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Iron Ore (ID: 2772)
+    Source: Stonevault Cave Hunter (npc)
+  Pattern: Red Mageweave Vest (ID: 10300)
+  Pattern: Spider Belt (ID: 4353)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+  Ranger Cloak of Agility (ID: 7483)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Geomancer (npc)
+    Source: Stonevault Geomancer (npc)
+  Bonelink Gauntlets of Healing (ID: 15612)
+  Indurium Ore (ID: 5833)
+    Source: Shadowforge Relic Hunter (npc)
+  Gaea's Circlet of the Wolf (ID: 14271)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+    Source: Stonevault Brawler (npc)
+  Hammertoe's Amulet (ID: 4635)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Shadowforge Digger (object)
+  Nightsky Boots (ID: 6406)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Naka (npc)
+  Formula: Enchant Gloves - Riding Skill (ID: 11226)
+  Heavy Stone (ID: 2838)
+  The Shaft of Tsol (ID: 7741)
+  Small Glowing Shard (ID: 11138)
+    Source: Picnic Basket (object)
+
+GROUND OBJECTS/CONTAINERS:
+  Disenchant at [31.6, 63.6] in Ironforge
+  Stonevault Cave Hunter at [51.8, 64.0] in Uldaman
+  Stankdogg at [51.8, 64.2] in Uldaman
+  Solumin at [52.0, 63.7] in Uldaman
+  Shadowforge Digger at [51.9, 63.7] in Uldaman
+    Additional location: [52.0, 63.7] in Uldaman
+  Carved Stone Urn at [52.3, 63.4] in Uldaman
+  Picnic Basket at [31.6, 63.6] in Ironforge
+  Ancient Chest at [52.1, 63.9] in Uldaman
+  Mana Shield at [52.1, 63.6] in Uldaman
+  Brutish Legguards of the Eagle at [34.2, 62.0] in Ironforge
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Uldaman (ID: 0)
+[2240] = {"The Hidden Chamber",{{6906}},nil,nil,40,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[6906] = {"Baelog",nil,nil,40,40,0,nil,nil,0,{2240},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 2278
+Quest Name: The Platinum Discs
+Level: 47
+Zone: Uldaman
+Zone ID: 0
+Status: PARTIAL DATA
+
+QUEST STARTER:
+  Type: object
+  Object Name: Sentinel of Archaedas
+  Object ID: Not available from server
+
+DESCRIPTION:
+  The centerpieces of this treasure chamber are four huge platinum discs, each adorned with numerous sigils of an unknown origin.  Touching them makes your hand tingle.  Just after touching the discs, the visage of a large stone watcher springs forth.
+
+"Salutations.  I am a keeper of knowledge.  The Creators' synthesis of the Earthen has been chronicled and stored here for this world in the Discs of Norgannon."
+
+You have uncovered a wealth of previously undiscovered worldly lore!
+
+OBJECTIVES TEXT:
+  Speak with stone watcher and learn what ancient lore it keeps.  Once you have learned what lore it has to offer, activate the Discs of Norgannon.
+
+OBJECTIVES:
+
+Learn what lore that the stone watcher has to offer
+
+TURN-IN NPC:
+  NPC: Lore Keeper of Norgannon (ID: 7172)
+
+RELATED MOBS:
+  Crag Coyote (ID: 2727, Level: ?) - KILLED 8 times
+    Spawn locations (5 total): (51.7, 40.7) (51.7, 18.0) (50.2, 34.4) ... and 2 more
+  Stonevault Cave Hunter (ID: 4856, Level: 36) - KILLED 86 times
+    Spawn locations (1 total): (51.7, 63.7) 
+  Stone Keeper (ID: 4857, Level: 46)
+  Hammertoe Grez (ID: 2909, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (52.0, 63.7) 
+  Feral Crag Coyote (ID: 2728, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (59.0, 46.7) (23.6, 63.5) 
+  Vidaux (ID: 1297, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (51.9, 63.7) 
+  Stoneclaw Totem (ID: 3579, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (24.3, 44.4) 
+  Stonevault Basher (ID: 6733, Level: 40)
+    Spawn locations (3 total): (53.7, 65.5) (63.1, 43.6) (61.8, 44.1) 
+  Elder Crag Coyote (ID: 2729, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (29.6, 54.8) 
+  Shadowforge Surveyor (ID: 4844, Level: ?) - KILLED 16 times
+    Spawn locations (3 total): (51.6, 19.5) (45.7, 13.2) (52.3, 63.4) 
+  Shadowforge Ruffian (ID: 4845, Level: ?) - KILLED 30 times
+    Spawn locations (4 total): (51.6, 39.8) (51.7, 27.1) (51.6, 15.9) ... and 1 more
+  Fam'retor Guardian (ID: 2919, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (25.9, 44.7) 
+  Shadowforge Digger (ID: 4846, Level: 36) - KILLED 104 times
+    Spawn locations (3 total): (52.0, 63.7) (54.9, 24.1) (51.0, 14.9) 
+  Cheed (ID: 1298, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (52.0, 63.9) 
+  Drusyssa (ID: 22975, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (52.1, 63.9) 
+  Shadowforge Tunneler (ID: 2739, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (51.7, 37.8) 
+  Stoneskin Totem III (ID: 5920, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (32.8, 64.9) 
+  Stoneclaw Totem IV (ID: 3913, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (52.2, 63.5) 
+  Ridge Huntress (ID: 2732, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (42.0, 74.2) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (52.1, 63.7) (26.4, 65.6) 
+  Dustbelcher Ogre (ID: 2701, Level: ?) - KILLED 4 times
+    Spawn locations (1 total): (29.3, 54.2) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 6 times
+    Spawn locations (1 total): (51.8, 63.9) 
+  Lava Spout Totem (ID: 6017, Level: ?) - KILLED 2 times
+  Stonevault Rockchewer (ID: 4851, Level: 36) - KILLED 42 times
+    Spawn locations (1 total): (51.6, 63.8) 
+  Stonevault Oracle (ID: 4852, Level: 37)
+  Dustbelcher Brute (ID: 2715, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (29.6, 54.8) 
+  Healing Ward (ID: 3560, Level: ?) - KILLED 2 times
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 10 times
+    Spawn locations (1 total): (51.8, 63.9) 
+  Stankdogg (ID: 1304, Level: ?) - KILLED 12 times
+    Spawn locations (1 total): (52.0, 63.7) 
+  Earthen Rocksmasher (ID: 7011, Level: 43)
+  Dustbelcher Mystic (ID: 2907, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (30.7, 56.9) 
+  Giant Buzzard (ID: 2831, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (30.6, 56.7) 
+  Magregan Deepshadow (ID: 2932, Level: 38) - KILLED 10 times
+    Spawn locations (1 total): (51.9, 63.7) 
+  Earthen Sculptor (ID: 7012, Level: 43)
+  Stoneskin Totem (ID: 5873, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (28.8, 42.3) 
+  Rockjaw Skullthumper (ID: 1115, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (70.8, 48.5) 
+  Squirrel (ID: 1412, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (33.9, 50.7) 
+  Forest Lurker (ID: 1195, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (34.8, 51.1) 
+  Mangy Mountain Boar (ID: 1191, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (39.4, 50.3) (65.7, 65.6) 
+
+> QUEST ITEMS:
+  Hammertoe's Amulet (ID: 4635)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Shadowforge Digger (object)
+  Greater Healing Potion (ID: 1710)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Runed Golden Rod (ID: 11130)
+  Pattern: Spider Belt (ID: 4353)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Magregan Deepshadow (npc)
+  Silk Cloth (ID: 4306)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Magregan Deepshadow (npc)
+    Source: Shadowforge Ruffian (npc)
+    Source: Shadowforge Ruffian (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Rockchewer (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Stone Keeper (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Tough Leather Bracers (ID: 1805)
+    Source: Stonevault Cave Hunter (npc)
+  Gold Ore (ID: 2776)
+  Vision Dust (ID: 11137)
+    Source: Disenchant (object)
+  Small Glowing Shard (ID: 11138)
+    Source: Picnic Basket (object)
+  Krom Stoutarm's Treasure (ID: 8027)
+    Source: Stankdogg (object)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Carved Stone Urn (ID: 4610)
+    Source: Carved Stone Urn (object)
+    Source: Mana Shield (object)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Solumin (object)
+  Nightsky Boots (ID: 6406)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+    Source: Naka (npc)
+  Dream Dust (ID: 11176)
+    Source: Brutish Legguards of the Eagle (object)
+  Sweet Nectar (ID: 1708)
+    Source: Stonevault Cave Hunter (npc)
+  The Rockpounder (ID: 9413)
+  Cross-stitched Gloves (ID: 1783)
+    Source: Shadowforge Digger (npc)
+  Mithril Ore (ID: 3858)
+  Magenta Fungus Cap (ID: 8047)
+    Source: Stone Keeper (npc)
+    Source: Stone Keeper (npc)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+    Source: Magenta Cap Clusters (object)
+  Iron Ore (ID: 2772)
+    Source: Stonevault Cave Hunter (npc)
+  Miniature Platinum Discs (ID: 6064)
+  Tablet of Ryun'eh (ID: 4631)
+    Source: Drusyssa (npc)
+    Source: Shadowforge Surveyor (npc)
+    Source: Stonevault Cave Hunter (npc)
+  Sigil of the Hammer (ID: 4648)
+  Heavy Stone (ID: 2838)
+  Garrett Family Treasure (ID: 8026)
+  Scroll of Agility II (ID: 1477)
+    Source: Stonevault Cave Hunter (npc)
+  Mulgore Spice Bread (ID: 4544)
+    Source: Shadowforge Digger (npc)
+    Source: Shadowforge Digger (npc)
+  Stonecloth Vest (ID: 14407)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Magregan Deepshadow (npc)
+  Jazeraint Helm of the Owl (ID: 9902)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+    Source: Stonevault Cave Hunter (npc)
+  An'Alleum Power Stone (ID: 8052)
+    Source: Stonevault Rockchewer (npc)
+  Interlaced Gloves (ID: 3796)
+  Solid Stone (ID: 7912)
+  Conjured Mineral Water (ID: 8077)
+
+GROUND OBJECTS/CONTAINERS:
+  Disenchant at [31.6, 63.6] in Ironforge
+  Carved Stone Urn at [52.3, 63.4] in Uldaman
+  Stonevault Cave Hunter at [51.8, 64.0] in Uldaman
+  Stankdogg at [51.8, 64.2] in Uldaman
+  Solumin at [52.0, 63.7] in Uldaman
+  Ancient Chest at [52.1, 63.9] in Uldaman
+  Picnic Basket at [31.6, 63.6] in Ironforge
+  Mana Shield at [52.1, 63.6] in Uldaman
+  Shadowforge Digger at [51.9, 63.7] in Uldaman
+    Additional location: [52.0, 63.7] in Uldaman
+  Brutish Legguards of the Eagle at [34.2, 62.0] in Ironforge
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Uldaman (ID: 0)
+[2278] = {"The Platinum Discs",nil,{{7172}},nil,47,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[7172] = {"Lore Keeper of Norgannon",nil,nil,47,47,0,nil,nil,0,nil,{2278},nil,nil,nil,2},
+```
+
+### Additional Information (Optional)
+
+_No response_

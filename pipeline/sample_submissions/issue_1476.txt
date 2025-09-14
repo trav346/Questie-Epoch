@@ -1,0 +1,1270 @@
+GitHub Issue #1476
+Title: [Quest Data]: Missing Quest Data - Part 5 of 8
+User: rustlebones
+Created: 2025-09-07T16:26:54Z
+============================================================
+
+### Quest Data Export
+
+```text
+---------------------------------------------------------------
+                     COLLECTED QUEST DATA                        
+---------------------------------------------------------------
+
+Page 5 of 8 (56.6k chars)
+
+Quest ID: 7839
+Quest Name: Vilebranch Hooligans
+Level: 48
+Zone: The Hinterlands
+Zone ID: 3317
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Smith Slagtree (ID: 14737)
+  Location: The Hinterlands
+  Coords: 77.3, 80.1
+
+DESCRIPTION:
+  Vilebranch scum invaded our village and stole my tools! I have backup tools but the set they stole was a gift given to me by a kind hearted gnome that saved my life when I was a young orc.
+
+I want those tools back, Rustl - they mean the world to me.
+
+Markhor reported that the tools were spotted near the Agol'watha and Shaol'watha temples.
+
+Those temples are in the northeastern region of the Hinterlands.
+
+Recover my tools!
+
+OBJECTIVES TEXT:
+  Smith Slagtree at Revantusk Village in the Hinterlands wants you to find Slagtree's Lost Tools. Return to him once this task is complete.
+
+You recall Smith Slagtree mentioning that the tools might be at one of the Vilebranch temples in the northeastern region of the Hinterlands. You should also check Skulk Rock.
+
+OBJECTIVES:
+
+Slagtree's Lost Tools: 0/1
+
+TURN-IN NPC:
+  NPC: Smith Slagtree (ID: 14737)
+  Location: The Hinterlands
+  Coords: 77.2, 79.9
+
+RELATED MOBS:
+  Polemistis (ID: 1320, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (48.5, 13.9) (50.6, 85.8) (53.9, 88.1) ... and 17 more
+  Mana Tide Totem (ID: 10467, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (53.1, 45.0) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (49.8, 41.6) (49.5, 59.0) 
+  Lilwyz (ID: 33862, Level: 35) - KILLED 1 times
+    Spawn locations (5 total): (48.1, 55.3) (50.5, 33.7) (50.7, 31.4) ... and 2 more
+  Polemistis (ID: 1352, Level: ?) - KILLED 83 times
+    Spawn locations (37 total): (48.5, 13.9) (46.5, 48.2) (50.6, 86.1) ... and 34 more
+  Rustl (ID: 1297, Level: ?) - KILLED 86 times
+    Spawn locations (31 total): (81.6, 50.2) (79.7, 57.9) (78.0, 65.7) ... and 28 more
+  Totem of Wrath I (ID: 17539, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.5, 64.5) (54.3, 53.9) 
+  Jabberjaw (ID: 45029, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (81.4, 52.3) 
+  Silvermane Stalker (ID: 2926, Level: 48)
+    Spawn locations (1 total): (66.6, 57.4) 
+  Frost Resistance Totem II (ID: 7412, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Witherbark Hideskinner (ID: 2651, Level: ?) - KILLED 26 times
+    Spawn locations (10 total): (34.5, 54.8) (32.8, 52.8) (33.4, 58.0) ... and 7 more
+  Hooty (ID: 31966, Level: 48)
+    Spawn locations (1 total): (50.8, 22.0) 
+  Witherbark Zealot (ID: 2650, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (23.2, 57.1) (23.9, 55.3) 
+  Stoneskin Totem IV (ID: 7366, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.7, 61.4) 
+  Witherbark Scalper (ID: 2649, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (25.2, 56.1) 
+  Redkakari (ID: 1298, Level: ?) - KILLED 50 times
+    Spawn locations (30 total): (51.2, 86.1) (50.7, 45.6) (53.5, 48.3) ... and 27 more
+  Mana Spring Totem II (ID: 7414, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (59.1, 60.5) (48.5, 46.5) (57.1, 77.9) 
+  Stoneskin Totem V (ID: 7367, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.9, 48.3) (50.4, 47.4) 
+  Witherbark Venomblood (ID: 2652, Level: ?) - KILLED 13 times
+    Spawn locations (3 total): (34.7, 56.4) (33.2, 58.0) (32.6, 57.1) 
+  Searing Totem V (ID: 7400, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Primitive Owlbeast (ID: 2928, Level: 45)
+    Spawn locations (1 total): (51.4, 41.8) 
+  Vilebranch Kidnapper (ID: 14748, Level: 48) - KILLED 9 times
+    Spawn locations (1 total): (84.3, 41.0) 
+  Highvale Scout (ID: 2692, Level: 45) - KILLED 66 times
+    Spawn locations (13 total): (29.3, 51.4) (29.6, 50.6) (29.2, 49.7) ... and 10 more
+  Silvermane Wolf (ID: 2924, Level: 44) - KILLED 1 times
+    Spawn locations (3 total): (33.3, 52.9) (34.0, 54.2) (34.5, 58.3) 
+  Leves (ID: 66888, Level: ?) - KILLED 81 times
+    Spawn locations (26 total): (77.5, 67.2) (49.6, 56.1) (53.1, 49.4) ... and 23 more
+  Ghopep (ID: 899, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Savage Owlbeast (ID: 2929, Level: 46) - KILLED 3 times
+    Spawn locations (2 total): (65.7, 57.3) (64.9, 58.4) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (77.4, 69.3) (45.6, 55.0) (51.2, 38.2) ... and 17 more
+  Salty Shore Swimmer (ID: 45020, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (79.4, 63.1) (79.9, 60.2) 
+  Highvale Marksman (ID: 2693, Level: 45) - KILLED 60 times
+    Spawn locations (14 total): (29.5, 50.1) (29.2, 49.4) (29.3, 48.4) ... and 11 more
+  Magma Totem III (ID: 7465, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (52.2, 91.4) 
+  The Direglob (ID: 45032, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.0, 42.3) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (53.1, 65.7) (56.9, 77.9) (55.8, 52.4) ... and 6 more
+  Fire Nova Totem IV (ID: 7844, Level: ?) - KILLED 12 times
+    Spawn locations (11 total): (50.8, 28.0) (51.8, 90.0) (57.0, 78.2) ... and 8 more
+  Strength of Earth Totem IV (ID: 7403, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Highvale Ranger (ID: 2694, Level: 47) - KILLED 57 times
+    Spawn locations (10 total): (30.0, 48.7) (30.6, 48.3) (32.0, 50.0) ... and 7 more
+  Poison Cleansing Totem (ID: 5923, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.0, 78.2) 
+  Saltwater Snapjaw (ID: 2505, Level: ?) - KILLED 55 times
+    Spawn locations (23 total): (75.9, 72.4) (81.7, 49.1) (81.5, 49.9) ... and 20 more
+  Requetona (ID: 43024, Level: 44)
+    Spawn locations (1 total): (50.2, 43.6) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (47.2, 38.3) (54.7, 61.4) (56.4, 74.8) ... and 6 more
+  Healing Stream Totem III (ID: 3907, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (50.8, 26.1) 
+  Green Sludge (ID: 2655, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (46.1, 46.6) 
+  Kreenam (ID: 32702, Level: 48) - KILLED 1 times
+    Spawn locations (5 total): (49.9, 56.3) (51.2, 63.5) (56.9, 78.2) ... and 2 more
+  Mangy Silvermane (ID: 2923, Level: ?) - KILLED 3 times
+    Spawn locations (1 total): (21.4, 51.8) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 14 times
+    Spawn locations (12 total): (51.8, 46.6) (48.8, 37.0) (50.7, 31.4) ... and 9 more
+  Highvale Outrunner (ID: 2691, Level: 43) - KILLED 64 times
+    Spawn locations (15 total): (28.6, 50.6) (28.9, 51.5) (32.3, 50.2) ... and 12 more
+  Schloops (ID: 1300, Level: ?) - KILLED 49 times
+    Spawn locations (29 total): (52.4, 86.6) (54.5, 63.1) (50.6, 32.9) ... and 26 more
+  Gammerita (ID: 7977, Level: ?) - KILLED 4 times
+    Spawn locations (5 total): (76.5, 63.5) (82.5, 57.9) (80.7, 57.1) ... and 2 more
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 11 times
+    Spawn locations (8 total): (52.6, 40.7) (49.2, 37.5) (50.8, 29.1) ... and 5 more
+  Grace of Air Totem (ID: 7486, Level: 49) - KILLED 6 times
+    Spawn locations (6 total): (49.8, 64.3) (51.9, 62.1) (56.9, 77.9) ... and 3 more
+  Tremor Totem (ID: 5913, Level: 49) - KILLED 15 times
+    Spawn locations (14 total): (50.2, 64.4) (50.6, 32.7) (57.0, 78.2) ... and 11 more
+
+> QUEST ITEMS:
+  Zesty Clam Meat (ID: 7974)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+  Turtle Meat (ID: 3712)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Silk Cloth (ID: 4306)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Scout (npc)
+  Greater Mana Potion (ID: 6149)
+    Source: Highvale Marksman (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Turtle Scale (ID: 8167)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Giant Egg (ID: 12207)
+    Source: Savage Owlbeast (npc)
+  Thick Leather Pants (ID: 3966)
+    Source: Witherbark Hideskinner (npc)
+  Gossamer Shoulderpads of Intellect (ID: 7523)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Hide (ID: 8169)
+    Source: Saltwater Snapjaw (npc)
+  Rugged Leather (ID: 8170)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Righteous Cloak of the Eagle (ID: 10071)
+    Source: Lard's Special Picnic Basket (object)
+  Superior Healing Potion (ID: 3928)
+    Source: Savage Owlbeast (npc)
+  Valorous Greaves (ID: 8278)
+    Source: Highvale Scout (npc)
+  Moonberry Juice (ID: 1645)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Venomblood (npc)
+  Nimboya's Laden Pike (ID: 9319)
+  Scroll of Spirit III (ID: 4424)
+    Source: Witherbark Venomblood (npc)
+  Witherbark Skull (ID: 9320)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+  Venom Bottle (ID: 9321)
+  Troll Tribal Necklace (ID: 9259)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Heavy War Staff (ID: 4024)
+    Source: Highvale Scout (npc)
+  Katoom's Best Lure (ID: 19023)
+    Source: Gammerita (npc)
+  Duskwoven Cape of the Owl (ID: 10060)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Leather (ID: 4304)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Rin'ji's Secret (ID: 8724)
+  Recipe: Invisibility Potion (ID: 9295)
+    Source: Saltwater Snapjaw (npc)
+  Final Message to the Wildhammer (ID: 19036)
+  Long Elegant Feather (ID: 4589)
+    Source: Witherbark Hideskinner (npc)
+  Lard's Lunch (ID: 19034)
+    Source: Vilebranch Kidnapper (npc)
+  Moon Harvest Pumpkin (ID: 4602)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+  Slagtree's Lost Tools (ID: 19033)
+    Source: Slagtree's Lost Tools (object)
+  Thick Scaly Tail (ID: 4555)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Big-mouth Clam (ID: 7973)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Pupellyverbos Port (ID: 3900)
+    Source: Saltwater Snapjaw (object)
+    Source: Nyagga (object)
+    Source: Pupellyverbos Port (object)
+    Source: Campfire (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Buckshot (object)
+    Source: Razzak (object)
+    Source: Pupellyverbos Port (object)
+    Source: Razzak (object)
+  Jagged Arrow (ID: 11285)
+  Speckled Shell Fragment (ID: 4556)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Tremor Totem (npc)
+    Source: Dekrus (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Nyagga at [81.4, 50.5] in The Hinterlands
+    Additional location: [29.0, 49.7] in The Hinterlands
+    Additional location: [28.6, 46.1] in The Hinterlands
+    Additional location: [31.3, 47.5] in The Hinterlands
+  Campfire at [79.9, 57.3] in The Hinterlands
+  Razzak at [79.8, 57.3] in The Hinterlands
+    Additional location: [81.0, 55.3] in The Hinterlands
+  Buckshot at [78.0, 58.2] in The Hinterlands
+  Big-mouth Clam at [77.3, 80.1] in The Hinterlands
+    Additional location: [80.2, 81.4] in The Hinterlands
+  Saltwater Snapjaw at [81.7, 49.1] in The Hinterlands
+  Lard's Special Picnic Basket at [78.1, 81.2] in The Hinterlands
+  Slagtree's Lost Tools at [57.5, 42.5] in The Hinterlands
+  Highvale Scout at [31.2, 48.3] in The Hinterlands
+    Additional location: [31.6, 49.2] in The Hinterlands
+    Additional location: [31.7, 48.4] in The Hinterlands
+    Additional location: [31.8, 49.6] in The Hinterlands
+    Additional location: [31.4, 48.7] in The Hinterlands
+    Additional location: [30.7, 49.5] in The Hinterlands
+    Additional location: [30.3, 51.2] in The Hinterlands
+    Additional location: [32.5, 49.6] in The Hinterlands
+  Highvale Ranger at [30.1, 48.6] in The Hinterlands
+    Additional location: [31.0, 48.2] in The Hinterlands
+    Additional location: [30.5, 48.4] in The Hinterlands
+    Additional location: [30.1, 49.0] in The Hinterlands
+    Additional location: [31.5, 47.5] in The Hinterlands
+    Additional location: [30.7, 48.2] in The Hinterlands
+  Highvale Marksman at [29.6, 48.4] in The Hinterlands
+    Additional location: [31.3, 48.2] in The Hinterlands
+    Additional location: [31.2, 48.3] in The Hinterlands
+    Additional location: [31.5, 47.4] in The Hinterlands
+    Additional location: [29.5, 48.3] in The Hinterlands
+    Additional location: [29.6, 48.1] in The Hinterlands
+    Additional location: [28.7, 46.4] in The Hinterlands
+    Additional location: [28.2, 46.4] in The Hinterlands
+    Additional location: [31.0, 47.9] in The Hinterlands
+    Additional location: [31.7, 47.1] in The Hinterlands
+  Pupellyverbos Port at [81.1, 55.2] in The Hinterlands
+    Additional location: [80.0, 59.7] in The Hinterlands
+    Additional location: [79.9, 61.4] in The Hinterlands
+    Additional location: [80.0, 59.9] in The Hinterlands
+    Additional location: [81.4, 50.5] in The Hinterlands
+  Highvale Outrunner at [29.1, 51.9] in The Hinterlands
+    Additional location: [32.4, 51.2] in The Hinterlands
+    Additional location: [30.2, 51.1] in The Hinterlands
+    Additional location: [29.6, 50.9] in The Hinterlands
+    Additional location: [28.9, 51.4] in The Hinterlands
+    Additional location: [32.4, 50.8] in The Hinterlands
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: The Hinterlands (ID: 27 -> Parent: 47)
+[7839] = {"Vilebranch Hooligans",{{14737}},{{14737}},nil,48,nil,nil,nil,nil,{nil,nil,{{19033,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,3317,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+-- NPC 14737 (Smith Slagtree): REPAIR, VENDOR
+
+[14737] = {"Smith Slagtree",nil,nil,48,48,0,{[27]={{77.3,80.1}}},nil,27,{7839},{7839},nil,nil,nil,4226},
+
+========================================================================
+
+Quest ID: 7840
+Quest Name: Lard Lost His Lunch
+Level: 49
+Zone: The Hinterlands
+Zone ID: 3317
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Lard (ID: 14731)
+  Location: The Hinterlands
+  Coords: 78.1, 81.2
+
+DESCRIPTION:
+  Lard was at secret special spot having picnic when ugly mean Vilebranch hit Lard wit da big stick. Lard run back to Revantusk but forget Lard lunch. Lard hungry. Maybe you go back to secret special spot and get Lard lunch? Lard scared. Go nort! Island der to da nort is da secret special spot.
+
+OBJECTIVES TEXT:
+  Lard at Revantusk Village in the Hinterlands wants you to find Lard's Lunch. Return to him when this task is complete.
+
+Lard mentioned that he left it on the island to the north. Watch out for Vilebranch trolls.
+
+OBJECTIVES:
+
+Lard's Lunch: 0/1
+
+TURN-IN NPC:
+  NPC: Lard (ID: 14731)
+  Location: The Hinterlands
+  Coords: 78.1, 81.2
+
+RELATED MOBS:
+  Polemistis (ID: 1320, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (48.5, 13.9) (50.6, 85.8) (53.9, 88.1) ... and 17 more
+  Mana Tide Totem (ID: 10467, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (53.1, 45.0) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (49.8, 41.6) (49.5, 59.0) 
+  Lilwyz (ID: 33862, Level: 35) - KILLED 1 times
+    Spawn locations (5 total): (48.1, 55.3) (50.5, 33.7) (50.7, 31.4) ... and 2 more
+  Polemistis (ID: 1352, Level: ?) - KILLED 83 times
+    Spawn locations (37 total): (48.5, 13.9) (46.5, 48.2) (50.6, 86.1) ... and 34 more
+  Rustl (ID: 1297, Level: ?) - KILLED 86 times
+    Spawn locations (31 total): (81.6, 50.2) (79.7, 57.9) (78.0, 65.7) ... and 28 more
+  Totem of Wrath I (ID: 17539, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.5, 64.5) (54.3, 53.9) 
+  Jabberjaw (ID: 45029, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (81.4, 52.3) 
+  Silvermane Stalker (ID: 2926, Level: 48)
+    Spawn locations (1 total): (66.6, 57.4) 
+  Frost Resistance Totem II (ID: 7412, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Witherbark Hideskinner (ID: 2651, Level: ?) - KILLED 26 times
+    Spawn locations (10 total): (34.5, 54.8) (32.8, 52.8) (33.4, 58.0) ... and 7 more
+  Hooty (ID: 31966, Level: 48)
+    Spawn locations (1 total): (50.8, 22.0) 
+  Witherbark Zealot (ID: 2650, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (23.2, 57.1) (23.9, 55.3) 
+  Stoneskin Totem IV (ID: 7366, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.7, 61.4) 
+  Witherbark Scalper (ID: 2649, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (25.2, 56.1) 
+  Redkakari (ID: 1298, Level: ?) - KILLED 50 times
+    Spawn locations (30 total): (51.2, 86.1) (50.7, 45.6) (53.5, 48.3) ... and 27 more
+  Mana Spring Totem II (ID: 7414, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (59.1, 60.5) (48.5, 46.5) (57.1, 77.9) 
+  Stoneskin Totem V (ID: 7367, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.9, 48.3) (50.4, 47.4) 
+  Witherbark Venomblood (ID: 2652, Level: ?) - KILLED 13 times
+    Spawn locations (3 total): (34.7, 56.4) (33.2, 58.0) (32.6, 57.1) 
+  Searing Totem V (ID: 7400, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Primitive Owlbeast (ID: 2928, Level: 45)
+    Spawn locations (1 total): (51.4, 41.8) 
+  Vilebranch Kidnapper (ID: 14748, Level: 48) - KILLED 9 times
+    Spawn locations (1 total): (84.3, 41.0) 
+  Highvale Scout (ID: 2692, Level: 45) - KILLED 66 times
+    Spawn locations (13 total): (29.3, 51.4) (29.6, 50.6) (29.2, 49.7) ... and 10 more
+  Silvermane Wolf (ID: 2924, Level: 44) - KILLED 1 times
+    Spawn locations (3 total): (33.3, 52.9) (34.0, 54.2) (34.5, 58.3) 
+  Leves (ID: 66888, Level: ?) - KILLED 81 times
+    Spawn locations (26 total): (77.5, 67.2) (49.6, 56.1) (53.1, 49.4) ... and 23 more
+  Ghopep (ID: 899, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Savage Owlbeast (ID: 2929, Level: 46) - KILLED 3 times
+    Spawn locations (2 total): (65.7, 57.3) (64.9, 58.4) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (77.4, 69.3) (45.6, 55.0) (51.2, 38.2) ... and 17 more
+  Salty Shore Swimmer (ID: 45020, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (79.4, 63.1) (79.9, 60.2) 
+  Highvale Marksman (ID: 2693, Level: 45) - KILLED 60 times
+    Spawn locations (14 total): (29.5, 50.1) (29.2, 49.4) (29.3, 48.4) ... and 11 more
+  Magma Totem III (ID: 7465, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (52.2, 91.4) 
+  The Direglob (ID: 45032, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.0, 42.3) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (53.1, 65.7) (56.9, 77.9) (55.8, 52.4) ... and 6 more
+  Fire Nova Totem IV (ID: 7844, Level: ?) - KILLED 12 times
+    Spawn locations (11 total): (50.8, 28.0) (51.8, 90.0) (57.0, 78.2) ... and 8 more
+  Strength of Earth Totem IV (ID: 7403, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Highvale Ranger (ID: 2694, Level: 47) - KILLED 57 times
+    Spawn locations (10 total): (30.0, 48.7) (30.6, 48.3) (32.0, 50.0) ... and 7 more
+  Poison Cleansing Totem (ID: 5923, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.0, 78.2) 
+  Saltwater Snapjaw (ID: 2505, Level: ?) - KILLED 55 times
+    Spawn locations (23 total): (75.9, 72.4) (81.7, 49.1) (81.5, 49.9) ... and 20 more
+  Requetona (ID: 43024, Level: 44)
+    Spawn locations (1 total): (50.2, 43.6) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (47.2, 38.3) (54.7, 61.4) (56.4, 74.8) ... and 6 more
+  Healing Stream Totem III (ID: 3907, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (50.8, 26.1) 
+  Green Sludge (ID: 2655, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (46.1, 46.6) 
+  Kreenam (ID: 32702, Level: 48) - KILLED 1 times
+    Spawn locations (5 total): (49.9, 56.3) (51.2, 63.5) (56.9, 78.2) ... and 2 more
+  Mangy Silvermane (ID: 2923, Level: ?) - KILLED 3 times
+    Spawn locations (1 total): (21.4, 51.8) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 14 times
+    Spawn locations (12 total): (51.8, 46.6) (48.8, 37.0) (50.7, 31.4) ... and 9 more
+  Highvale Outrunner (ID: 2691, Level: 43) - KILLED 64 times
+    Spawn locations (15 total): (28.6, 50.6) (28.9, 51.5) (32.3, 50.2) ... and 12 more
+  Schloops (ID: 1300, Level: ?) - KILLED 49 times
+    Spawn locations (29 total): (52.4, 86.6) (54.5, 63.1) (50.6, 32.9) ... and 26 more
+  Gammerita (ID: 7977, Level: ?) - KILLED 4 times
+    Spawn locations (5 total): (76.5, 63.5) (82.5, 57.9) (80.7, 57.1) ... and 2 more
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 11 times
+    Spawn locations (8 total): (52.6, 40.7) (49.2, 37.5) (50.8, 29.1) ... and 5 more
+  Grace of Air Totem (ID: 7486, Level: 49) - KILLED 6 times
+    Spawn locations (6 total): (49.8, 64.3) (51.9, 62.1) (56.9, 77.9) ... and 3 more
+  Tremor Totem (ID: 5913, Level: 49) - KILLED 15 times
+    Spawn locations (14 total): (50.2, 64.4) (50.6, 32.7) (57.0, 78.2) ... and 11 more
+
+> QUEST ITEMS:
+  Zesty Clam Meat (ID: 7974)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+  Turtle Meat (ID: 3712)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Silk Cloth (ID: 4306)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Scout (npc)
+  Greater Mana Potion (ID: 6149)
+    Source: Highvale Marksman (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Turtle Scale (ID: 8167)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Giant Egg (ID: 12207)
+    Source: Savage Owlbeast (npc)
+  Thick Leather Pants (ID: 3966)
+    Source: Witherbark Hideskinner (npc)
+  Gossamer Shoulderpads of Intellect (ID: 7523)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Hide (ID: 8169)
+    Source: Saltwater Snapjaw (npc)
+  Rugged Leather (ID: 8170)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Righteous Cloak of the Eagle (ID: 10071)
+    Source: Lard's Special Picnic Basket (object)
+  Superior Healing Potion (ID: 3928)
+    Source: Savage Owlbeast (npc)
+  Valorous Greaves (ID: 8278)
+    Source: Highvale Scout (npc)
+  Moonberry Juice (ID: 1645)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Venomblood (npc)
+  Nimboya's Laden Pike (ID: 9319)
+  Scroll of Spirit III (ID: 4424)
+    Source: Witherbark Venomblood (npc)
+  Witherbark Skull (ID: 9320)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+  Venom Bottle (ID: 9321)
+  Troll Tribal Necklace (ID: 9259)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Heavy War Staff (ID: 4024)
+    Source: Highvale Scout (npc)
+  Katoom's Best Lure (ID: 19023)
+    Source: Gammerita (npc)
+  Duskwoven Cape of the Owl (ID: 10060)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Leather (ID: 4304)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Rin'ji's Secret (ID: 8724)
+  Recipe: Invisibility Potion (ID: 9295)
+    Source: Saltwater Snapjaw (npc)
+  Final Message to the Wildhammer (ID: 19036)
+  Long Elegant Feather (ID: 4589)
+    Source: Witherbark Hideskinner (npc)
+  Lard's Lunch (ID: 19034)
+    Source: Vilebranch Kidnapper (npc)
+  Moon Harvest Pumpkin (ID: 4602)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+  Slagtree's Lost Tools (ID: 19033)
+    Source: Slagtree's Lost Tools (object)
+  Thick Scaly Tail (ID: 4555)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Big-mouth Clam (ID: 7973)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Pupellyverbos Port (ID: 3900)
+    Source: Saltwater Snapjaw (object)
+    Source: Nyagga (object)
+    Source: Pupellyverbos Port (object)
+    Source: Campfire (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Buckshot (object)
+    Source: Razzak (object)
+    Source: Pupellyverbos Port (object)
+    Source: Razzak (object)
+  Jagged Arrow (ID: 11285)
+  Speckled Shell Fragment (ID: 4556)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Tremor Totem (npc)
+    Source: Dekrus (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Nyagga at [81.4, 50.5] in The Hinterlands
+    Additional location: [29.0, 49.7] in The Hinterlands
+    Additional location: [28.6, 46.1] in The Hinterlands
+    Additional location: [31.3, 47.5] in The Hinterlands
+  Campfire at [79.9, 57.3] in The Hinterlands
+  Razzak at [79.8, 57.3] in The Hinterlands
+    Additional location: [81.0, 55.3] in The Hinterlands
+  Buckshot at [78.0, 58.2] in The Hinterlands
+  Big-mouth Clam at [77.3, 80.1] in The Hinterlands
+    Additional location: [80.2, 81.4] in The Hinterlands
+  Saltwater Snapjaw at [81.7, 49.1] in The Hinterlands
+  Lard's Special Picnic Basket at [78.1, 81.2] in The Hinterlands
+  Slagtree's Lost Tools at [57.5, 42.5] in The Hinterlands
+  Highvale Scout at [31.2, 48.3] in The Hinterlands
+    Additional location: [31.6, 49.2] in The Hinterlands
+    Additional location: [31.7, 48.4] in The Hinterlands
+    Additional location: [31.8, 49.6] in The Hinterlands
+    Additional location: [31.4, 48.7] in The Hinterlands
+    Additional location: [30.7, 49.5] in The Hinterlands
+    Additional location: [30.3, 51.2] in The Hinterlands
+    Additional location: [32.5, 49.6] in The Hinterlands
+  Highvale Ranger at [30.1, 48.6] in The Hinterlands
+    Additional location: [31.0, 48.2] in The Hinterlands
+    Additional location: [30.5, 48.4] in The Hinterlands
+    Additional location: [30.1, 49.0] in The Hinterlands
+    Additional location: [31.5, 47.5] in The Hinterlands
+    Additional location: [30.7, 48.2] in The Hinterlands
+  Highvale Marksman at [29.6, 48.4] in The Hinterlands
+    Additional location: [31.3, 48.2] in The Hinterlands
+    Additional location: [31.2, 48.3] in The Hinterlands
+    Additional location: [31.5, 47.4] in The Hinterlands
+    Additional location: [29.5, 48.3] in The Hinterlands
+    Additional location: [29.6, 48.1] in The Hinterlands
+    Additional location: [28.7, 46.4] in The Hinterlands
+    Additional location: [28.2, 46.4] in The Hinterlands
+    Additional location: [31.0, 47.9] in The Hinterlands
+    Additional location: [31.7, 47.1] in The Hinterlands
+  Pupellyverbos Port at [81.1, 55.2] in The Hinterlands
+    Additional location: [80.0, 59.7] in The Hinterlands
+    Additional location: [79.9, 61.4] in The Hinterlands
+    Additional location: [80.0, 59.9] in The Hinterlands
+    Additional location: [81.4, 50.5] in The Hinterlands
+  Highvale Outrunner at [29.1, 51.9] in The Hinterlands
+    Additional location: [32.4, 51.2] in The Hinterlands
+    Additional location: [30.2, 51.1] in The Hinterlands
+    Additional location: [29.6, 50.9] in The Hinterlands
+    Additional location: [28.9, 51.4] in The Hinterlands
+    Additional location: [32.4, 50.8] in The Hinterlands
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: The Hinterlands (ID: 27 -> Parent: 47)
+[7840] = {"Lard Lost His Lunch",{{14731}},{{14731}},nil,49,nil,nil,nil,nil,{nil,nil,{{19034,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,3317,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+-- NPC 14731 (Lard): VENDOR
+
+[14731] = {"Lard",nil,nil,49,49,0,{[27]={{78.1,81.2}}},nil,27,{7840},{7840},nil,nil,nil,130},
+
+========================================================================
+
+Quest ID: 7841
+Quest Name: Message to the Wildhammer
+Level: 48
+Zone: The Hinterlands
+Zone ID: 3317
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Otho Moji'ko (ID: 14738)
+  Location: The Hinterlands
+  Coords: 79.3, 79.1
+
+DESCRIPTION:
+  The Wildhammer be striking up deals with our enemies, forgin' new alliances. This time, they be workin' with the high elves, mon.
+
+<Otho spits.>
+
+We be needin' to send those Wildhammer dwarves a message - a message in the blood of our enemies. Slaughter every Highvale high elf that you come across, leave their bodies as a warnin'.
+
+Never mess with trolls!
+
+OBJECTIVES TEXT:
+  Otho Moji'ko at Revantusk Village in the Hinterlands wants you to slaughter 15 Highvale Outrunners, 15 Highvale Scouts, 15 Highvale Marksman and 15 Highvale Rangers. Return to him when this task is complete.
+
+You can find the Highvale high elves at the Quel'Danil Lodge in the northwestern region of the Hinterlands.
+
+OBJECTIVES:
+
+Highvale Scout slain: 0/15 (monster)
+
+Highvale Outrunner slain: 0/15 (monster)
+
+Highvale Ranger slain: 0/15 (monster)
+
+Highvale Marksman slain: 0/15 (monster)
+
+TURN-IN NPC:
+  NPC: Otho Moji'ko (ID: 14738)
+  Location: The Hinterlands
+  Coords: 79.2, 79.1
+
+RELATED MOBS:
+  Polemistis (ID: 1320, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (48.5, 13.9) (50.6, 85.8) (53.9, 88.1) ... and 17 more
+  Mana Tide Totem (ID: 10467, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (53.1, 45.0) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (49.8, 41.6) (49.5, 59.0) 
+  Lilwyz (ID: 33862, Level: 35) - KILLED 1 times
+    Spawn locations (5 total): (48.1, 55.3) (50.5, 33.7) (50.7, 31.4) ... and 2 more
+  Polemistis (ID: 1352, Level: ?) - KILLED 83 times
+    Spawn locations (37 total): (48.5, 13.9) (46.5, 48.2) (50.6, 86.1) ... and 34 more
+  Rustl (ID: 1297, Level: ?) - KILLED 86 times
+    Spawn locations (31 total): (81.6, 50.2) (79.7, 57.9) (78.0, 65.7) ... and 28 more
+  Totem of Wrath I (ID: 17539, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.5, 64.5) (54.3, 53.9) 
+  Jabberjaw (ID: 45029, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (81.4, 52.3) 
+  Silvermane Stalker (ID: 2926, Level: 48)
+    Spawn locations (1 total): (66.6, 57.4) 
+  Frost Resistance Totem II (ID: 7412, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Witherbark Hideskinner (ID: 2651, Level: ?) - KILLED 26 times
+    Spawn locations (10 total): (34.5, 54.8) (32.8, 52.8) (33.4, 58.0) ... and 7 more
+  Hooty (ID: 31966, Level: 48)
+    Spawn locations (1 total): (50.8, 22.0) 
+  Witherbark Zealot (ID: 2650, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (23.2, 57.1) (23.9, 55.3) 
+  Stoneskin Totem IV (ID: 7366, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.7, 61.4) 
+  Witherbark Scalper (ID: 2649, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (25.2, 56.1) 
+  Redkakari (ID: 1298, Level: ?) - KILLED 50 times
+    Spawn locations (30 total): (51.2, 86.1) (50.7, 45.6) (53.5, 48.3) ... and 27 more
+  Mana Spring Totem II (ID: 7414, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (59.1, 60.5) (48.5, 46.5) (57.1, 77.9) 
+  Stoneskin Totem V (ID: 7367, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (45.1, 54.9) (50.9, 48.3) (50.4, 47.4) 
+  Witherbark Venomblood (ID: 2652, Level: ?) - KILLED 13 times
+    Spawn locations (3 total): (34.7, 56.4) (33.2, 58.0) (32.6, 57.1) 
+  Searing Totem V (ID: 7400, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Primitive Owlbeast (ID: 2928, Level: 45)
+    Spawn locations (1 total): (51.4, 41.8) 
+  Vilebranch Kidnapper (ID: 14748, Level: 48) - KILLED 9 times
+    Spawn locations (1 total): (84.3, 41.0) 
+  Highvale Scout (ID: 2692, Level: 45) - KILLED 66 times
+    Spawn locations (13 total): (29.3, 51.4) (29.6, 50.6) (29.2, 49.7) ... and 10 more
+  Silvermane Wolf (ID: 2924, Level: 44) - KILLED 1 times
+    Spawn locations (3 total): (33.3, 52.9) (34.0, 54.2) (34.5, 58.3) 
+  Leves (ID: 66888, Level: ?) - KILLED 81 times
+    Spawn locations (26 total): (77.5, 67.2) (49.6, 56.1) (53.1, 49.4) ... and 23 more
+  Ghopep (ID: 899, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Savage Owlbeast (ID: 2929, Level: 46) - KILLED 3 times
+    Spawn locations (2 total): (65.7, 57.3) (64.9, 58.4) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 25 times
+    Spawn locations (20 total): (77.4, 69.3) (45.6, 55.0) (51.2, 38.2) ... and 17 more
+  Salty Shore Swimmer (ID: 45020, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (79.4, 63.1) (79.9, 60.2) 
+  Highvale Marksman (ID: 2693, Level: 45) - KILLED 60 times
+    Spawn locations (14 total): (29.5, 50.1) (29.2, 49.4) (29.3, 48.4) ... and 11 more
+  Magma Totem III (ID: 7465, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (52.2, 91.4) 
+  The Direglob (ID: 45032, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.0, 42.3) 
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (53.1, 65.7) (56.9, 77.9) (55.8, 52.4) ... and 6 more
+  Fire Nova Totem IV (ID: 7844, Level: ?) - KILLED 12 times
+    Spawn locations (11 total): (50.8, 28.0) (51.8, 90.0) (57.0, 78.2) ... and 8 more
+  Strength of Earth Totem IV (ID: 7403, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (76.6, 63.3) 
+  Highvale Ranger (ID: 2694, Level: 47) - KILLED 57 times
+    Spawn locations (10 total): (30.0, 48.7) (30.6, 48.3) (32.0, 50.0) ... and 7 more
+  Poison Cleansing Totem (ID: 5923, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.0, 78.2) 
+  Saltwater Snapjaw (ID: 2505, Level: ?) - KILLED 55 times
+    Spawn locations (23 total): (75.9, 72.4) (81.7, 49.1) (81.5, 49.9) ... and 20 more
+  Requetona (ID: 43024, Level: 44)
+    Spawn locations (1 total): (50.2, 43.6) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 9 times
+    Spawn locations (9 total): (47.2, 38.3) (54.7, 61.4) (56.4, 74.8) ... and 6 more
+  Healing Stream Totem III (ID: 3907, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (50.8, 26.1) 
+  Green Sludge (ID: 2655, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (46.1, 46.6) 
+  Kreenam (ID: 32702, Level: 48) - KILLED 1 times
+    Spawn locations (5 total): (49.9, 56.3) (51.2, 63.5) (56.9, 78.2) ... and 2 more
+  Mangy Silvermane (ID: 2923, Level: ?) - KILLED 3 times
+    Spawn locations (1 total): (21.4, 51.8) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 14 times
+    Spawn locations (12 total): (51.8, 46.6) (48.8, 37.0) (50.7, 31.4) ... and 9 more
+  Highvale Outrunner (ID: 2691, Level: 43) - KILLED 64 times
+    Spawn locations (15 total): (28.6, 50.6) (28.9, 51.5) (32.3, 50.2) ... and 12 more
+  Schloops (ID: 1300, Level: ?) - KILLED 49 times
+    Spawn locations (29 total): (52.4, 86.6) (54.5, 63.1) (50.6, 32.9) ... and 26 more
+  Gammerita (ID: 7977, Level: ?) - KILLED 4 times
+    Spawn locations (5 total): (76.5, 63.5) (82.5, 57.9) (80.7, 57.1) ... and 2 more
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 11 times
+    Spawn locations (8 total): (52.6, 40.7) (49.2, 37.5) (50.8, 29.1) ... and 5 more
+  Grace of Air Totem (ID: 7486, Level: 49) - KILLED 6 times
+    Spawn locations (6 total): (49.8, 64.3) (51.9, 62.1) (56.9, 77.9) ... and 3 more
+  Tremor Totem (ID: 5913, Level: 49) - KILLED 15 times
+    Spawn locations (14 total): (50.2, 64.4) (50.6, 32.7) (57.0, 78.2) ... and 11 more
+
+> QUEST ITEMS:
+  Zesty Clam Meat (ID: 7974)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+    Source: Big-mouth Clam (object)
+  Turtle Meat (ID: 3712)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Silk Cloth (ID: 4306)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Scout (npc)
+  Greater Mana Potion (ID: 6149)
+    Source: Highvale Marksman (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Highvale Outrunner (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Marksman (npc)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Turtle Scale (ID: 8167)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Giant Egg (ID: 12207)
+    Source: Savage Owlbeast (npc)
+  Thick Leather Pants (ID: 3966)
+    Source: Witherbark Hideskinner (npc)
+  Gossamer Shoulderpads of Intellect (ID: 7523)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Hide (ID: 8169)
+    Source: Saltwater Snapjaw (npc)
+  Rugged Leather (ID: 8170)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Righteous Cloak of the Eagle (ID: 10071)
+    Source: Lard's Special Picnic Basket (object)
+  Superior Healing Potion (ID: 3928)
+    Source: Savage Owlbeast (npc)
+  Valorous Greaves (ID: 8278)
+    Source: Highvale Scout (npc)
+  Moonberry Juice (ID: 1645)
+    Source: Highvale Marksman (npc)
+    Source: Witherbark Venomblood (npc)
+  Nimboya's Laden Pike (ID: 9319)
+  Scroll of Spirit III (ID: 4424)
+    Source: Witherbark Venomblood (npc)
+  Witherbark Skull (ID: 9320)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+  Venom Bottle (ID: 9321)
+  Troll Tribal Necklace (ID: 9259)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Hideskinner (npc)
+    Source: Witherbark Venomblood (npc)
+  Heavy War Staff (ID: 4024)
+    Source: Highvale Scout (npc)
+  Katoom's Best Lure (ID: 19023)
+    Source: Gammerita (npc)
+  Duskwoven Cape of the Owl (ID: 10060)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Leather (ID: 4304)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Rin'ji's Secret (ID: 8724)
+  Recipe: Invisibility Potion (ID: 9295)
+    Source: Saltwater Snapjaw (npc)
+  Final Message to the Wildhammer (ID: 19036)
+  Long Elegant Feather (ID: 4589)
+    Source: Witherbark Hideskinner (npc)
+  Lard's Lunch (ID: 19034)
+    Source: Vilebranch Kidnapper (npc)
+  Moon Harvest Pumpkin (ID: 4602)
+    Source: Highvale Ranger (npc)
+    Source: Highvale Scout (npc)
+    Source: Highvale Outrunner (npc)
+  Slagtree's Lost Tools (ID: 19033)
+    Source: Slagtree's Lost Tools (object)
+  Thick Scaly Tail (ID: 4555)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+  Big-mouth Clam (ID: 7973)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Pupellyverbos Port (ID: 3900)
+    Source: Saltwater Snapjaw (object)
+    Source: Nyagga (object)
+    Source: Pupellyverbos Port (object)
+    Source: Campfire (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Pupellyverbos Port (object)
+    Source: Buckshot (object)
+    Source: Razzak (object)
+    Source: Pupellyverbos Port (object)
+    Source: Razzak (object)
+  Jagged Arrow (ID: 11285)
+  Speckled Shell Fragment (ID: 4556)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Saltwater Snapjaw (npc)
+    Source: Gammerita (npc)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Tremor Totem (npc)
+    Source: Dekrus (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Nyagga at [81.4, 50.5] in The Hinterlands
+    Additional location: [29.0, 49.7] in The Hinterlands
+    Additional location: [28.6, 46.1] in The Hinterlands
+    Additional location: [31.3, 47.5] in The Hinterlands
+  Campfire at [79.9, 57.3] in The Hinterlands
+  Razzak at [79.8, 57.3] in The Hinterlands
+    Additional location: [81.0, 55.3] in The Hinterlands
+  Buckshot at [78.0, 58.2] in The Hinterlands
+  Big-mouth Clam at [77.3, 80.1] in The Hinterlands
+    Additional location: [80.2, 81.4] in The Hinterlands
+  Saltwater Snapjaw at [81.7, 49.1] in The Hinterlands
+  Lard's Special Picnic Basket at [78.1, 81.2] in The Hinterlands
+  Slagtree's Lost Tools at [57.5, 42.5] in The Hinterlands
+  Highvale Scout at [31.2, 48.3] in The Hinterlands
+    Additional location: [31.6, 49.2] in The Hinterlands
+    Additional location: [31.7, 48.4] in The Hinterlands
+    Additional location: [31.8, 49.6] in The Hinterlands
+    Additional location: [31.4, 48.7] in The Hinterlands
+    Additional location: [30.7, 49.5] in The Hinterlands
+    Additional location: [30.3, 51.2] in The Hinterlands
+    Additional location: [32.5, 49.6] in The Hinterlands
+  Highvale Ranger at [30.1, 48.6] in The Hinterlands
+    Additional location: [31.0, 48.2] in The Hinterlands
+    Additional location: [30.5, 48.4] in The Hinterlands
+    Additional location: [30.1, 49.0] in The Hinterlands
+    Additional location: [31.5, 47.5] in The Hinterlands
+    Additional location: [30.7, 48.2] in The Hinterlands
+  Highvale Marksman at [29.6, 48.4] in The Hinterlands
+    Additional location: [31.3, 48.2] in The Hinterlands
+    Additional location: [31.2, 48.3] in The Hinterlands
+    Additional location: [31.5, 47.4] in The Hinterlands
+    Additional location: [29.5, 48.3] in The Hinterlands
+    Additional location: [29.6, 48.1] in The Hinterlands
+    Additional location: [28.7, 46.4] in The Hinterlands
+    Additional location: [28.2, 46.4] in The Hinterlands
+    Additional location: [31.0, 47.9] in The Hinterlands
+    Additional location: [31.7, 47.1] in The Hinterlands
+  Pupellyverbos Port at [81.1, 55.2] in The Hinterlands
+    Additional location: [80.0, 59.7] in The Hinterlands
+    Additional location: [79.9, 61.4] in The Hinterlands
+    Additional location: [80.0, 59.9] in The Hinterlands
+    Additional location: [81.4, 50.5] in The Hinterlands
+  Highvale Outrunner at [29.1, 51.9] in The Hinterlands
+    Additional location: [32.4, 51.2] in The Hinterlands
+    Additional location: [30.2, 51.1] in The Hinterlands
+    Additional location: [29.6, 50.9] in The Hinterlands
+    Additional location: [28.9, 51.4] in The Hinterlands
+    Additional location: [32.4, 50.8] in The Hinterlands
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: The Hinterlands (ID: 27 -> Parent: 47)
+[7841] = {"Message to the Wildhammer",{{14738}},{{14738}},nil,48,nil,nil,nil,nil,{{{2692,15},{2691,15},{2694,15},{2693,15}},nil,nil,nil,nil,nil},nil,nil,nil,nil,nil,nil,3317,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[14738] = {"Otho Moji'ko",nil,nil,48,48,0,{[27]={{79.3,79.1}}},nil,27,{7841},{7841},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 7842
+Quest Name: Another Message to the Wildhammer
+Level: 48
+Zone: The Hinterlands
+Zone ID: 3317
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Otho Moji'ko (ID: 14738)
+  Location: The Hinterlands
+  Coords: 79.2, 79.1
+
+DESCRIPTION:
+  They say the Wildhammer and gryphon are as close to each other as troll and mate. Disgusting, but we be able to use this to our advantage, mon. We send them another message.
+
+Kill all the gryphons you see in the Hinterlands, collect their feathers. From this we make the final message.
+
+OBJECTIVES TEXT:
+  Otho Moji'ko at Revantusk Village in the Hinterlands wants you to bring him 10 Long Elegant Feathers from the gryphons that inhabit the Hinterlands. Return to him once this task is complete.
+
+Gryphons are known to inhabit every region of the Hinterlands.
+
+OBJECTIVES:
+
+Long Elegant Feather: 10/10
+
+TURN-IN NPC:
+  NPC: Otho Moji'ko (ID: 14738)
+  Location: The Hinterlands
+  Coords: 79.2, 79.1
+
+RELATED MOBS:
+  Mana Tide Totem (ID: 10467, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (53.1, 45.0) 
+  Poison Cleansing Totem (ID: 5923, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.0, 78.2) 
+  Rustl (ID: 1297, Level: ?) - KILLED 22 times
+    Spawn locations (8 total): (84.3, 41.0) (53.3, 44.5) (50.8, 31.2) ... and 5 more
+  Gammerita (ID: 7977, Level: 48) - KILLED 3 times
+    Spawn locations (4 total): (82.5, 57.9) (80.7, 57.1) (78.5, 60.2) ... and 1 more
+  Rimen (ID: 1300, Level: ?) - KILLED 14 times
+    Spawn locations (11 total): (51.1, 41.6) (50.4, 65.9) (57.1, 78.0) ... and 8 more
+  Requetona (ID: 43024, Level: 44)
+    Spawn locations (1 total): (50.2, 43.6) 
+  Frost Resistance Totem II (ID: 7412, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.1, 77.9) 
+  Vilebranch Kidnapper (ID: 14748, Level: 48) - KILLED 9 times
+    Spawn locations (1 total): (84.3, 41.0) 
+  Tremor Totem (ID: 5913, Level: ?) - KILLED 3 times
+    Spawn locations (2 total): (54.0, 47.6) (57.1, 77.9) 
+  Saltwater Snapjaw (ID: 2505, Level: ?) - KILLED 3 times
+    Spawn locations (3 total): (76.4, 68.9) (82.3, 41.5) (81.3, 47.3) 
+  Hooty (ID: 31966, Level: 48)
+    Spawn locations (1 total): (50.8, 22.0) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 3 times
+    Spawn locations (2 total): (57.0, 78.2) (56.2, 36.3) 
+  Mana Spring Totem II (ID: 7414, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (48.5, 46.5) (57.1, 77.9) 
+  Windfury Totem II (ID: 7483, Level: ?) - KILLED 5 times
+    Spawn locations (5 total): (55.0, 43.6) (50.5, 31.9) (53.2, 44.1) ... and 2 more
+  Salty Shore Swimmer (ID: 45020, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (79.9, 60.2) 
+  Stoneskin Totem V (ID: 7367, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (50.9, 48.3) (50.4, 47.4) 
+  Searing Totem IV (ID: 3904, Level: 44) - KILLED 3 times
+    Spawn locations (4 total): (54.8, 43.0) (57.0, 77.9) (49.6, 58.4) ... and 1 more
+  Wafers (ID: 66888, Level: ?) - KILLED 14 times
+    Spawn locations (5 total): (50.9, 62.1) (53.2, 44.1) (52.7, 47.8) ... and 2 more
+  Strength of Earth Totem III (ID: 5922, Level: 44) - KILLED 2 times
+    Spawn locations (3 total): (54.9, 43.4) (50.3, 45.8) (51.0, 58.9) 
+  Shyms (ID: 1320, Level: ?) - KILLED 9 times
+    Spawn locations (8 total): (52.4, 46.2) (57.0, 78.2) (55.7, 43.5) ... and 5 more
+  Chonga (ID: 1352, Level: ?) - KILLED 24 times
+    Spawn locations (11 total): (57.0, 78.2) (52.4, 46.2) (55.7, 43.5) ... and 8 more
+  Chadman (ID: 1298, Level: ?) - KILLED 17 times
+    Spawn locations (12 total): (53.9, 42.9) (49.3, 55.9) (57.0, 78.2) ... and 9 more
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 5 times
+    Spawn locations (5 total): (50.9, 41.4) (53.0, 44.3) (49.6, 49.8) ... and 2 more
+
+> QUEST ITEMS:
+  Lard's Lunch (ID: 19034)
+    Source: Vilebranch Kidnapper (npc)
+  Katoom's Best Lure (ID: 19023)
+    Source: Gammerita (npc)
+  Rin'ji's Secret (ID: 8724)
+  Zesty Clam Meat (ID: 7974)
+    Source: Big-mouth Clam (object)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Dekrus (npc)
+  Big-mouth Clam (ID: 7973)
+    Source: Gammerita (npc)
+  Final Message to the Wildhammer (ID: 19036)
+  Rugged Leather (ID: 8170)
+    Source: Gammerita (npc)
+  Speckled Shell Fragment (ID: 4556)
+    Source: Gammerita (npc)
+  Righteous Cloak of the Eagle (ID: 10071)
+    Source: Lard's Special Picnic Basket (object)
+  Duskwoven Cape of the Owl (ID: 10060)
+    Source: Lard's Special Picnic Basket (object)
+  Thick Leather (ID: 4304)
+    Source: Gammerita (npc)
+  Gossamer Shoulderpads of Intellect (ID: 7523)
+    Source: Lard's Special Picnic Basket (object)
+
+GROUND OBJECTS/CONTAINERS:
+  Lard's Special Picnic Basket at [78.1, 81.2] in The Hinterlands
+  Big-mouth Clam at [80.2, 81.4] in The Hinterlands
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: The Hinterlands (ID: 27 -> Parent: 47)
+[7842] = {"Another Message to the Wildhammer",{{14738}},{{14738}},nil,48,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,3317,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[14738] = {"Otho Moji'ko",nil,nil,48,48,0,{[27]={{79.2,79.1}}},nil,27,{7842},{7842},nil,nil,nil,2},
+```
+
+### Additional Information (Optional)
+
+_No response_

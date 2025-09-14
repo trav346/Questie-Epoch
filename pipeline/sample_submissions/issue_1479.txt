@@ -1,0 +1,941 @@
+GitHub Issue #1479
+Title: [Quest Data]: Missing Quest Data - Part 8 of 8
+User: rustlebones
+Created: 2025-09-07T16:28:44Z
+============================================================
+
+### Quest Data Export
+
+```text
+---------------------------------------------------------------
+                     COLLECTED QUEST DATA                        
+---------------------------------------------------------------
+
+Page 8 of 8 (38.3k chars)
+
+Quest ID: 27420
+Quest Name: Two-Legged Vultures
+Level: 45
+Zone: Tanaris
+Zone ID: 1938
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Marvon Rivetseeker (ID: 7771)
+  Location: Tanaris
+  Coords: 52.7, 45.9
+
+DESCRIPTION:
+  I crashed here two weeks ago and already my zeppelin has been taken taken over by looters.
+
+They're no better than vultures, swooping out of nowhere to pick apart what isn't theirs.
+
+However there's only me out here and I'm focused on my research. Could you be a dear and go collect my things from the looters? As you can see I've barely a scrap to my name here.
+
+OBJECTIVES TEXT:
+  Collect Marvon's Pocket Watch, Brimmed Hat, and Ham Radio from the looters at his crashed zeppelin.
+
+OBJECTIVES:
+
+ : 0/1
+
+ : 0/1
+
+ : 0/1
+
+TURN-IN NPC:
+  NPC: Marvon Rivetseeker (ID: 7771)
+  Location: Tanaris
+  Coords: 52.7, 45.9
+
+RELATED MOBS:
+  Grace of Air Totem (ID: 7486, Level: ?) - KILLED 4 times
+    Spawn locations (4 total): (43.3, 59.0) (52.5, 91.0) (53.8, 79.0) ... and 1 more
+  Scorpid Dunestalker (ID: 5424, Level: 46) - KILLED 7 times
+    Spawn locations (2 total): (34.7, 59.5) (32.0, 55.8) 
+  Kondoc (ID: 9430, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (56.9, 77.7) (50.6, 81.6) 
+  Talant (ID: 1352, Level: ?) - KILLED 34 times
+    Spawn locations (10 total): (42.2, 67.8) (57.0, 78.2) (53.2, 65.9) ... and 7 more
+  Felpaw Wolf (ID: 8959, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (34.7, 59.7) 
+  Rustl (ID: 1297, Level: ?) - KILLED 26 times
+    Spawn locations (11 total): (34.7, 59.6) (53.9, 44.6) (64.5, 25.3) ... and 8 more
+  Dunemaul Ogre Mage (ID: 5473, Level: 47) - KILLED 3 times
+    Spawn locations (2 total): (41.1, 71.1) (40.5, 72.2) 
+  Dunemaul Brute (ID: 5474, Level: 48) - KILLED 3 times
+    Spawn locations (1 total): (41.2, 71.9) 
+  Rabid Blisterpaw (ID: 5427, Level: 47) - KILLED 10 times
+    Spawn locations (4 total): (35.0, 59.4) (33.0, 57.6) (32.3, 56.2) ... and 1 more
+  Wastewander Shadow Mage (ID: 5617, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.8, 36.9) 
+  Desert Fox (ID: 47002, Level: 46) - KILLED 3 times
+    Spawn locations (1 total): (41.0, 75.4) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (62.8, 31.1) (61.8, 24.1) 
+  Notwonx (ID: 1298, Level: ?) - KILLED 13 times
+    Spawn locations (9 total): (43.3, 59.0) (57.2, 71.9) (56.1, 65.4) ... and 6 more
+  Southsea Pirate (ID: 7855, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.4, 55.6) 
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 5 times
+    Spawn locations (4 total): (43.3, 59.0) (54.7, 77.9) (54.7, 28.5) ... and 1 more
+  Searing Roc (ID: 5430, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (40.2, 66.9) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.2, 77.9) 
+  Silithid Lurker (ID: 47022, Level: 50) - KILLED 2 times
+    Spawn locations (8 total): (47.6, 66.9) (47.0, 68.3) (44.9, 68.7) ... and 5 more
+  Mana Spring Totem IV (ID: 7416, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.6, 55.4) 
+  Sybexz (ID: 66888, Level: ?) - KILLED 41 times
+    Spawn locations (13 total): (63.1, 28.4) (40.3, 66.8) (48.3, 13.9) ... and 10 more
+  Magma Totem II (ID: 7464, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (63.3, 28.6) 
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 14 times
+    Spawn locations (9 total): (63.1, 28.4) (45.4, 33.7) (56.5, 76.2) ... and 6 more
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 4 times
+    Spawn locations (4 total): (55.6, 76.4) (43.3, 59.0) (52.2, 91.1) ... and 1 more
+  Strength of Earth Totem IV (ID: 7403, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.6, 55.4) 
+  Glasshide Gazer (ID: 5420, Level: ?) - KILLED 5 times
+    Spawn locations (3 total): (36.8, 62.4) (36.3, 60.9) (34.6, 59.5) 
+  Chagi (ID: 1320, Level: ?) - KILLED 5 times
+    Spawn locations (3 total): (57.2, 77.9) (53.2, 65.9) (50.0, 90.1) 
+  Fire Elemental Totem (ID: 15439, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.6, 55.4) 
+  Windfury Totem III (ID: 7484, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (31.6, 55.4) 
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 8 times
+    Spawn locations (6 total): (63.4, 28.8) (57.2, 73.2) (57.2, 77.9) ... and 3 more
+  Fire Nova Totem IV (ID: 7844, Level: ?) - KILLED 4 times
+    Spawn locations (3 total): (51.0, 58.0) (50.2, 65.5) (52.3, 90.6) 
+  Dakattack (ID: 1300, Level: ?) - KILLED 16 times
+    Spawn locations (11 total): (31.3, 55.2) (57.0, 78.2) (56.5, 76.1) ... and 8 more
+  Healing Stream Totem III (ID: 3907, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (55.6, 76.4) 
+  Glasshide Petrifier (ID: 5421, Level: ?) - KILLED 1 times
+    Spawn locations (2 total): (35.4, 75.3) (36.9, 74.8) 
+  Ravenous Looter (ID: 46196, Level: 44) - KILLED 6 times
+    Spawn locations (3 total): (51.4, 44.8) (51.0, 45.5) (52.7, 45.9) 
+  Dunemaul Enforcer (ID: 5472, Level: 47)
+    Spawn locations (1 total): (39.2, 75.0) 
+
+> QUEST ITEMS:
+  Lurker's Brood (ID: 64897)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+    Source: Silithid Lurker (npc)
+  Marvon's Pocket Watch (ID: 63284)
+    Source: Ravenous Looter (npc)
+  Jagged Arrow (ID: 11285)
+  Marvon's Brimmed Hat (ID: 63285)
+    Source: Ravenous Looter (npc)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Femalegamer (npc)
+  Marvon's Ham Radio (ID: 63286)
+    Source: Ravenous Looter (npc)
+  Gahz'ridian Ornament (ID: 8443)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Dunemaul Warlock (object)
+    Source: Gahz'ridian (object)
+    Source: Glasshide Gazer (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Rustl (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Purple Lotus (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Nyagga (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Dunemaul Brute (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Gahz'ridian (object)
+    Source: Dunemaul Ogre Mage (npc)
+  Mageweave Cloth (ID: 4338)
+    Source: Dunemaul Ogre Mage (npc)
+  Large Trophy Paw (ID: 4584)
+  Dustwalker Turban (ID: 64893)
+    Source: Silithid Lurker (npc)
+  Heavy Leather (ID: 4234)
+    Source: Desert Fox (npc)
+  Red Wolf Meat (ID: 12203)
+  Heavy Mageweave Bandage (ID: 8545)
+  Thick Leather (ID: 4304)
+    Source: Glasshide Petrifier (npc)
+  Mystery Meat (ID: 12037)
+
+GROUND OBJECTS/CONTAINERS:
+  Glasshide Gazer at [36.0, 56.5] in Tanaris
+  Nyagga at [51.0, 45.6] in Tanaris
+    Additional location: [41.4, 73.6] in Tanaris
+  Dunemaul Brute at [41.1, 71.6] in Tanaris
+  Purple Lotus at [39.8, 73.2] in Tanaris
+  Dunemaul Warlock at [47.1, 66.0] in Tanaris
+  Gahz'ridian at [58.1, 48.7] in Tanaris
+    Additional location: [57.7, 57.8] in Tanaris
+    Additional location: [50.8, 61.2] in Tanaris
+    Additional location: [46.7, 65.7] in Tanaris
+    Additional location: [46.6, 65.6] in Tanaris
+    Additional location: [47.1, 66.0] in Tanaris
+    Additional location: [47.1, 64.5] in Tanaris
+    Additional location: [47.7, 66.2] in Tanaris
+    Additional location: [46.1, 70.2] in Tanaris
+    Additional location: [42.0, 74.5] in Tanaris
+    Additional location: [41.0, 74.7] in Tanaris
+    Additional location: [40.4, 74.7] in Tanaris
+    Additional location: [39.7, 74.5] in Tanaris
+    Additional location: [39.8, 72.0] in Tanaris
+    Additional location: [39.6, 73.3] in Tanaris
+    Additional location: [40.1, 73.3] in Tanaris
+    Additional location: [40.3, 72.9] in Tanaris
+    Additional location: [41.3, 72.7] in Tanaris
+    Additional location: [41.1, 71.6] in Tanaris
+    Additional location: [41.0, 71.7] in Tanaris
+    Additional location: [41.1, 71.1] in Tanaris
+    Additional location: [40.6, 71.3] in Tanaris
+    Additional location: [40.3, 72.7] in Tanaris
+  Rustl at [42.0, 73.2] in Tanaris
+
+POTENTIAL PREREQUISITES:
+  456 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162 -> Parent: 440)
+[27420] = {"Two-Legged Vultures",{{7771}},{{7771}},nil,45,nil,nil,nil,nil,{nil,nil,{{64897,1},{64897,1},{64897,1}},nil,nil,nil},nil,nil,nil,nil,nil,nil,1938,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[7771] = {"Marvon Rivetseeker",nil,nil,45,45,0,{[162]={{52.7,45.9}}},nil,162,{27420},{27420},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 27423
+Quest Name: Scout's Honor
+Level: 48
+Zone: Tanaris
+Zone ID: 162
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Urulg (ID: 46209)
+  Location: Tanaris
+  Coords: 57.0, 82.0
+
+DESCRIPTION:
+  Listen carefully, adventurer. I sent a strong troll named Shadowdancer and her scouting party to monitor the situation at the Noxious Lair to the northwest. They have not reported back in weeks, and I am concerned for their safety. I need someone to head to the Noxious Lair and locate them.
+
+I will not tolerate incompetence. If Shadowdancer and her party are in danger, it is your duty to locate them and ensure their safety. Head to the Noxious Lair and do not return until you have found them. And be warned -- if you fail in this task, you will face the full wrath of my anger. Do I make myself clear?
+
+OBJECTIVES TEXT:
+  Head northwest to the Noxious Lair and locate a scout named Shadowdancer who is monitoring the situation there.
+
+OBJECTIVES: [NONE CAPTURED]
+
+RELATED MOBS:
+  Surf Glider (ID: 5431, Level: 49) - KILLED 5 times
+    Spawn locations (3 total): (51.5, 92.5) (51.3, 91.7) (55.6, 92.1) 
+  Widee (ID: 66888, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (60.6, 25.6) (64.5, 23.8) 
+  Hazzali Stinger (ID: 5450, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.8, 68.2) 
+  Ormkath (ID: 10601, Level: 47) - KILLED 1 times
+    Spawn locations (2 total): (63.6, 24.0) (61.3, 25.3) 
+  Scorpid Hunter (ID: 5422, Level: 40) - KILLED 2 times
+    Spawn locations (3 total): (60.8, 25.5) (63.3, 26.6) (50.8, 26.9) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.7, 25.6) 
+  Shayhunt (ID: 1352, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (64.8, 23.6) (50.8, 27.2) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (49.3, 88.7) 
+  Treasure Hunting Swashbuckler (ID: 7901, Level: 45) - KILLED 3 times
+    Spawn locations (2 total): (55.6, 92.1) (55.3, 91.3) 
+  Treasure Hunting Buccaneer (ID: 7902, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.5, 92.1) 
+  Hazzali Parasite (ID: 7769, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (54.6, 67.1) 
+  Rustl (ID: 1297, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (51.4, 92.5) (62.5, 24.7) 
+  Treasure Hunting Pirate (ID: 7899, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.6, 92.1) 
+
+> QUEST ITEMS:
+  Cuergo's Gold (ID: 9360)
+    Source: Cuergo's Hidden Treasure (object)
+  Mageweave Cloth (ID: 4338)
+    Source: Treasure Hunting Buccaneer (npc)
+  A Head Rag (ID: 9358)
+    Source: Cuergo's Hidden Treasure (object)
+  Cuergo's Key (ID: 9275)
+    Source: Treasure Hunting Swashbuckler (npc)
+  Heavy Leather (ID: 4234)
+    Source: Scorpid Hunter (npc)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Treasure Hunting Buccaneer (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Cuergo's Hidden Treasure at [55.5, 91.7] in Tanaris
+  Treasure Hunting Pirate at [55.4, 91.9] in Tanaris
+
+POTENTIAL PREREQUISITES:
+  411 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162)
+[27423] = {"Scout's Honor",{{46209}},nil,nil,48,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,162,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[46209] = {"Urulg",nil,nil,48,48,0,{[162]={{57.0,82.0}}},nil,162,{27423},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 27431
+Quest Name: Find Wuti
+Level: 50
+Zone: Tanaris
+Zone ID: 162
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Topanga Plainchaser (ID: 46218)
+  Location: Tanaris
+  Coords: 58.3, 79.3
+
+DESCRIPTION:
+  Greetings, adventurer. I am in need of your help. My dear friend, Wuti Sunjumper, has been missing for several days. She is a skilled fisherwoman and a valuable member of our community. I fear something terrible may have happened to her.
+
+Will you please search for Wuti on Land's End Beach? Her home is located there, and it is the last place she was seen. I will be forever in your debt.
+
+OBJECTIVES TEXT:
+  Locate Wuti Sunjumper on Land's End Beach in Tanaris and ensure she is safe.
+
+OBJECTIVES: [NONE CAPTURED]
+
+TURN-IN NPC:
+  NPC: Wuti Sunjumper (ID: 46219)
+  Location: Tanaris
+  Coords: 52.2, 96.1
+
+RELATED MOBS:
+  Surf Glider (ID: 5431, Level: 49) - KILLED 5 times
+    Spawn locations (3 total): (51.5, 92.5) (51.3, 91.7) (55.6, 92.1) 
+  Widee (ID: 66888, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (60.6, 25.6) (64.5, 23.8) 
+  Hazzali Stinger (ID: 5450, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.8, 68.2) 
+  Ormkath (ID: 10601, Level: 47) - KILLED 1 times
+    Spawn locations (2 total): (63.6, 24.0) (61.3, 25.3) 
+  Scorpid Hunter (ID: 5422, Level: 40) - KILLED 2 times
+    Spawn locations (3 total): (60.8, 25.5) (63.3, 26.6) (50.8, 26.9) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.7, 25.6) 
+  Shayhunt (ID: 1352, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (64.8, 23.6) (50.8, 27.2) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (49.3, 88.7) 
+  Treasure Hunting Swashbuckler (ID: 7901, Level: 45) - KILLED 3 times
+    Spawn locations (2 total): (55.6, 92.1) (55.3, 91.3) 
+  Treasure Hunting Buccaneer (ID: 7902, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.5, 92.1) 
+  Hazzali Parasite (ID: 7769, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (54.6, 67.1) 
+  Rustl (ID: 1297, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (51.4, 92.5) (62.5, 24.7) 
+  Treasure Hunting Pirate (ID: 7899, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.6, 92.1) 
+
+> QUEST ITEMS:
+  Cuergo's Gold (ID: 9360)
+    Source: Cuergo's Hidden Treasure (object)
+  Mageweave Cloth (ID: 4338)
+    Source: Treasure Hunting Buccaneer (npc)
+  A Head Rag (ID: 9358)
+    Source: Cuergo's Hidden Treasure (object)
+  Cuergo's Key (ID: 9275)
+    Source: Treasure Hunting Swashbuckler (npc)
+  Heavy Leather (ID: 4234)
+    Source: Scorpid Hunter (npc)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Treasure Hunting Buccaneer (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Cuergo's Hidden Treasure at [55.5, 91.7] in Tanaris
+  Treasure Hunting Pirate at [55.4, 91.9] in Tanaris
+
+POTENTIAL PREREQUISITES:
+  411 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162)
+[27431] = {"Find Wuti",{{46218}},{{46219}},nil,50,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,162,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[46218] = {"Topanga Plainchaser",nil,nil,50,50,0,{[162]={{58.3,79.3}}},nil,162,{27431},nil,nil,nil,nil,2},
+[46219] = {"Wuti Sunjumper",nil,nil,50,50,0,{[162]={{52.2,96.1}}},nil,162,nil,{27431},nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 27432
+Quest Name: A Chilly Stranger
+Level: 50
+Zone: Tanaris
+Zone ID: 162
+Status: PARTIAL DATA
+
+DESCRIPTION:
+  The tuskarr is in great danger from the heat of the desert. I fear that he will not survive much longer without a cooling totem to protect him.
+
+To create the totem, we will need a specific type of kelp called Sandshore Seagrass that can only be found on the desert coasts, as well as water from a turtle shell. Yes you heard me. A turtle shell.
+
+I know it will be a difficult task, but I beg of you, please help me by gathering these ingredients. The tuskarr's life depends on it.
+
+OBJECTIVES TEXT:
+  Collect 8 Sandshore Seagrass and 6 Phials of Surf Glider Water for Wuti Sunjumper.
+
+OBJECTIVES:
+
+ : 0/8
+
+ : 0/6
+
+RELATED MOBS:
+  Surf Glider (ID: 5431, Level: 49) - KILLED 5 times
+    Spawn locations (3 total): (51.5, 92.5) (51.3, 91.7) (55.6, 92.1) 
+  Widee (ID: 66888, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (60.6, 25.6) (64.5, 23.8) 
+  Hazzali Stinger (ID: 5450, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.8, 68.2) 
+  Ormkath (ID: 10601, Level: 47) - KILLED 1 times
+    Spawn locations (2 total): (63.6, 24.0) (61.3, 25.3) 
+  Scorpid Hunter (ID: 5422, Level: 40) - KILLED 2 times
+    Spawn locations (3 total): (60.8, 25.5) (63.3, 26.6) (50.8, 26.9) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.7, 25.6) 
+  Shayhunt (ID: 1352, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (64.8, 23.6) (50.8, 27.2) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (49.3, 88.7) 
+  Treasure Hunting Swashbuckler (ID: 7901, Level: 45) - KILLED 3 times
+    Spawn locations (2 total): (55.6, 92.1) (55.3, 91.3) 
+  Treasure Hunting Buccaneer (ID: 7902, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.5, 92.1) 
+  Hazzali Parasite (ID: 7769, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (54.6, 67.1) 
+  Rustl (ID: 1297, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (51.4, 92.5) (62.5, 24.7) 
+  Treasure Hunting Pirate (ID: 7899, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.6, 92.1) 
+
+> QUEST ITEMS:
+  Cuergo's Gold (ID: 9360)
+    Source: Cuergo's Hidden Treasure (object)
+  Mageweave Cloth (ID: 4338)
+    Source: Treasure Hunting Buccaneer (npc)
+  A Head Rag (ID: 9358)
+    Source: Cuergo's Hidden Treasure (object)
+  Cuergo's Key (ID: 9275)
+    Source: Treasure Hunting Swashbuckler (npc)
+  Heavy Leather (ID: 4234)
+    Source: Scorpid Hunter (npc)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Treasure Hunting Buccaneer (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Cuergo's Hidden Treasure at [55.5, 91.7] in Tanaris
+  Treasure Hunting Pirate at [55.4, 91.9] in Tanaris
+
+POTENTIAL PREREQUISITES:
+  411 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162)
+[27432] = {"A Chilly Stranger",nil,nil,nil,50,nil,nil,nil,nil,{nil,nil,{{9360,8},{9360,6}},nil,nil,nil},nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+
+========================================================================
+
+Quest ID: 27460
+Quest Name: They Mostly Come At Night... Mostly
+Level: 50
+Zone: Tanaris
+Zone ID: 162
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Remi Coldeye (ID: 46236)
+  Location: Tanaris
+  Coords: 57.2, 80.5
+
+DESCRIPTION:
+  The blasted silithid are causing trouble again. They've been spotted sending their Nightstalkers to guard their territory in Tanaris. These beasts only come out at night, so you'll need to be careful if you want to track them down.
+
+You can find the Nightstalkers at the Noxious Lair and the Gaping Chasm. The Noxious Lair is in the far northwest, and the Gaping Chasm is just outside Anje'Watha.
+
+Use your strength and cunning to defeat them, and collect their mandibles as proof of your victory.
+
+OBJECTIVES TEXT:
+  Collect 10 Nightstalker Mandibles from Nightstalkers in Tanaris at night.
+
+OBJECTIVES:
+
+ : 0/10
+
+RELATED MOBS:
+  Surf Glider (ID: 5431, Level: 49) - KILLED 5 times
+    Spawn locations (3 total): (51.5, 92.5) (51.3, 91.7) (55.6, 92.1) 
+  Widee (ID: 66888, Level: ?) - KILLED 4 times
+    Spawn locations (2 total): (60.6, 25.6) (64.5, 23.8) 
+  Hazzali Stinger (ID: 5450, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (54.8, 68.2) 
+  Ormkath (ID: 10601, Level: 47) - KILLED 1 times
+    Spawn locations (2 total): (63.6, 24.0) (61.3, 25.3) 
+  Scorpid Hunter (ID: 5422, Level: 40) - KILLED 2 times
+    Spawn locations (3 total): (60.8, 25.5) (63.3, 26.6) (50.8, 26.9) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (60.7, 25.6) 
+  Shayhunt (ID: 1352, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (64.8, 23.6) (50.8, 27.2) 
+  Nyagga (ID: 9019, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (49.3, 88.7) 
+  Treasure Hunting Swashbuckler (ID: 7901, Level: 45) - KILLED 3 times
+    Spawn locations (2 total): (55.6, 92.1) (55.3, 91.3) 
+  Treasure Hunting Buccaneer (ID: 7902, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.5, 92.1) 
+  Hazzali Parasite (ID: 7769, Level: ?) - KILLED 2 times
+    Spawn locations (1 total): (54.6, 67.1) 
+  Rustl (ID: 1297, Level: ?) - KILLED 6 times
+    Spawn locations (2 total): (51.4, 92.5) (62.5, 24.7) 
+  Treasure Hunting Pirate (ID: 7899, Level: 44) - KILLED 6 times
+    Spawn locations (1 total): (55.6, 92.1) 
+
+> QUEST ITEMS:
+  Cuergo's Gold (ID: 9360)
+    Source: Cuergo's Hidden Treasure (object)
+  Mageweave Cloth (ID: 4338)
+    Source: Treasure Hunting Buccaneer (npc)
+  A Head Rag (ID: 9358)
+    Source: Cuergo's Hidden Treasure (object)
+  Cuergo's Key (ID: 9275)
+    Source: Treasure Hunting Swashbuckler (npc)
+  Heavy Leather (ID: 4234)
+    Source: Scorpid Hunter (npc)
+  Fine Aged Cheddar (ID: 3927)
+    Source: Treasure Hunting Buccaneer (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Cuergo's Hidden Treasure at [55.5, 91.7] in Tanaris
+  Treasure Hunting Pirate at [55.4, 91.9] in Tanaris
+
+POTENTIAL PREREQUISITES:
+  412 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162)
+[27460] = {"They Mostly Come At Night... Mostly",{{46236}},nil,nil,50,nil,nil,nil,nil,{nil,nil,{{9360,10}},nil,nil,nil},nil,nil,nil,nil,nil,nil,162,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[46236] = {"Remi Coldeye",nil,nil,50,50,0,{[162]={{57.2,80.5}}},nil,162,{27460},nil,nil,nil,nil,2},
+
+========================================================================
+
+Quest ID: 27470
+Quest Name: Water Co. Savior
+Level: 44
+Zone: Tanaris
+Zone ID: 977
+Status: PARTIAL DATA
+
+QUEST STARTER:
+  Type: object
+  Object Name: Experience
+  Object ID: Not available from server
+  Location: Tanaris
+  Coords: 66.7, 22.9
+
+DESCRIPTION:
+  Steamwheedle Port is the heart of the Water Company empire, but right now we're running entirely on reserves because there's been some serious damage to the filtration system.
+
+We were expecting a shipment of parts, but those lumbering oafs operating the crane knocked the majority of the crates off the boat when it was docking! Just can't get good talent these days!
+
+Can you dive down along the shore and get those parts before they're rusted beyond use?
+
+OBJECTIVES TEXT:
+  Collect 8 Filter Parts from the seabed surrounding Steamwheedle Port.
+
+OBJECTIVES:
+
+ : 0/8
+
+RELATED MOBS:
+  Grounding Totem (ID: 5925, Level: ?) - KILLED 7 times
+    Spawn locations (5 total): (57.2, 73.2) (57.2, 77.9) (56.1, 71.3) ... and 2 more
+  Grace of Air Totem (ID: 7486, Level: ?) - KILLED 4 times
+    Spawn locations (4 total): (43.3, 59.0) (52.5, 91.0) (53.8, 79.0) ... and 1 more
+  Chagi (ID: 1320, Level: ?) - KILLED 5 times
+    Spawn locations (3 total): (57.2, 77.9) (53.2, 65.9) (50.0, 90.1) 
+  Notwonx (ID: 1298, Level: ?) - KILLED 13 times
+    Spawn locations (9 total): (43.3, 59.0) (57.2, 71.9) (56.1, 65.4) ... and 6 more
+  Fire Nova Totem IV (ID: 7844, Level: ?) - KILLED 4 times
+    Spawn locations (3 total): (51.0, 58.0) (50.2, 65.5) (52.3, 90.6) 
+  Mana Spring Totem III (ID: 7415, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (57.2, 77.9) 
+  Wastewander Bandit (ID: 5618, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (61.8, 24.1) 
+  Swiftblade (ID: 66888, Level: ?) - KILLED 35 times
+    Spawn locations (11 total): (48.3, 13.9) (49.6, 57.8) (54.3, 78.0) ... and 8 more
+  Searing Totem IV (ID: 3904, Level: ?) - KILLED 5 times
+    Spawn locations (4 total): (43.3, 59.0) (54.7, 77.9) (54.7, 28.5) ... and 1 more
+  Estelle (ID: 1352, Level: ?) - KILLED 33 times
+    Spawn locations (9 total): (57.0, 78.2) (53.2, 65.9) (51.4, 64.9) ... and 6 more
+  Earthbind Totem (ID: 2630, Level: ?) - KILLED 13 times
+    Spawn locations (8 total): (45.4, 33.7) (56.5, 76.2) (57.2, 71.9) ... and 5 more
+  Dinglebeary (ID: 1300, Level: ?) - KILLED 15 times
+    Spawn locations (10 total): (57.0, 78.2) (56.5, 76.1) (50.8, 58.2) ... and 7 more
+  Strength of Earth Totem III (ID: 5922, Level: ?) - KILLED 4 times
+    Spawn locations (4 total): (55.6, 76.4) (43.3, 59.0) (52.2, 91.1) ... and 1 more
+  Kondoc (ID: 9430, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (56.9, 77.7) (50.6, 81.6) 
+  Healing Stream Totem III (ID: 3907, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (55.6, 76.4) 
+  Rustl (ID: 1297, Level: ?) - KILLED 18 times
+    Spawn locations (8 total): (47.8, 13.8) (44.3, 57.2) (48.4, 56.5) ... and 5 more
+
+> QUEST ITEMS:
+  Jagged Arrow (ID: 11285)
+  Heavy Mageweave Bandage (ID: 8545)
+  Warsong Gulch Mark of Honor (ID: 20558)
+    Source: Femalegamer (npc)
+
+POTENTIAL PREREQUISITES:
+  461 quests were completed before accepting this quest
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Tanaris (ID: 162 -> Parent: 440)
+[27470] = {"Water Co. Savior",nil,nil,nil,44,nil,nil,nil,nil,{nil,nil,{{11285,8}},nil,nil,nil},nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+
+========================================================================
+
+Quest ID: 28493
+Quest Name: Commission for Blaise Montgomery
+Level: 40
+Zone: Feralas
+Zone ID: 122
+Status: PARTIAL DATA
+
+QUEST GIVER:
+  NPC: Blaise Montgomery (ID: 11752)
+  Location: Feralas
+  Coords: 74.9, 43.9
+
+DESCRIPTION:
+  I've been sent by the Lorespeakers to study the ancient night elves who made a home here, but I've found that the ruins in Feralas are ancient and dangerous. If I'm going to study them properly, I need to be ready for small injuries. I've been waiting here for the mail of additional supplies, but for some reason they haven't arrived.
+
+I have much to review before setting out and I could use your assistance to speed things up. Bring me 20 Mageweave Bandages. I won't halt the expedition over scrapes and sprains, but I won't let them go untreated, either.
+
+OBJECTIVES TEXT:
+  Blaise Montgomery wants you to use your firstaid skill to craft 20 Mageweave Bandage and take the order to Blaise Montgomery at Camp Mojache in Feralas.
+
+OBJECTIVES:
+
+Mageweave Bandage: 0/20
+
+TURN-IN NPC:
+  NPC: Blaise Montgomery (ID: 11752)
+  Location: Feralas
+  Coords: 74.8, 44.0
+
+RELATED MOBS:
+  Gordunni Ogre (ID: 5229, Level: ?) - KILLED 41 times
+    Spawn locations (9 total): (77.2, 34.4) (75.3, 33.5) (74.9, 29.2) ... and 6 more
+  Ironfur Bear (ID: 5268, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (71.9, 42.2) (69.2, 46.1) 
+  Rustl (ID: 1297, Level: ?) - KILLED 10 times
+    Spawn locations (5 total): (75.2, 26.4) (80.1, 34.5) (71.2, 56.0) ... and 2 more
+  Woodpaw Mongrel (ID: 5249, Level: 40) - KILLED 6 times
+    Spawn locations (3 total): (72.3, 38.9) (72.9, 38.4) (74.4, 37.3) 
+  Woodpaw Brute (ID: 5253, Level: 41) - KILLED 15 times
+    Spawn locations (3 total): (72.5, 40.8) (72.2, 38.8) (73.2, 39.0) 
+  Grimtotem Naturalist (ID: 7726, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (69.1, 48.8) 
+  Woodpaw Mystic (ID: 5254, Level: ?) - KILLED 13 times
+    Spawn locations (6 total): (69.1, 54.6) (70.9, 56.3) (71.1, 55.0) ... and 3 more
+  Woodpaw Alpha (ID: 5258, Level: 43) - KILLED 15 times
+    Spawn locations (7 total): (70.8, 56.5) (71.2, 55.9) (72.9, 55.2) ... and 4 more
+  Fire Nova Totem III (ID: 6111, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (69.0, 48.4) 
+  Sprite Darter (ID: 5278, Level: 45) - KILLED 27 times
+    Spawn locations (8 total): (70.3, 47.8) (70.1, 47.0) (69.3, 46.8) ... and 5 more
+  Woodpaw Trapper (ID: 5251, Level: 42) - KILLED 15 times
+    Spawn locations (6 total): (72.2, 40.3) (72.2, 39.3) (71.7, 38.8) ... and 3 more
+  Longtooth Runner (ID: 5286, Level: ?) - KILLED 4 times
+    Spawn locations (3 total): (71.9, 42.5) (69.1, 44.6) (70.0, 46.6) 
+  Wandering Forest Walker (ID: 7584, Level: 46) - KILLED 6 times
+    Spawn locations (3 total): (71.5, 42.0) (71.9, 42.6) (72.6, 41.2) 
+  Gordunni Brute (ID: 5232, Level: ?) - KILLED 38 times
+    Spawn locations (8 total): (77.3, 34.3) (79.0, 33.6) (75.3, 32.8) ... and 5 more
+  Gordunni Ogre Mage (ID: 5237, Level: ?) - KILLED 35 times
+    Spawn locations (13 total): (76.8, 36.1) (79.1, 33.6) (75.3, 30.0) ... and 10 more
+  Woodpaw Reaver (ID: 5255, Level: ?) - KILLED 2 times
+    Spawn locations (2 total): (69.4, 55.2) (70.5, 56.4) 
+  Grimtotem Shaman (ID: 7727, Level: ?) - KILLED 1 times
+    Spawn locations (1 total): (69.0, 48.4) 
+
+> QUEST ITEMS:
+  Chipped Ogre Teeth (ID: 15798)
+    Source: Nyagga (object)
+    Source: Gordunni Ogre Mage (npc)
+    Source: Vacenzzo (object)
+    Source: Nyagga (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Gordunni Dirt Mound (object)
+  Mageweave Bandage (ID: 8544)
+  Metallic Fragments (ID: 9592)
+    Source: Wandering Forest Walker (npc)
+    Source: Wandering Forest Walker (npc)
+  Heavy Mageweave Bandage (ID: 8545)
+  Huntsman's Gloves of the Monkey (ID: 9892)
+    Source: Gordunni Ogre (npc)
+  Greater Mana Potion (ID: 6149)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Mystic (npc)
+  Superior Healing Potion (ID: 3928)
+    Source: Satchel of Trade Goods (object)
+  Sweet Nectar (ID: 1708)
+    Source: Satchel of Trade Goods (object)
+  Heavy Leather (ID: 4234)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+  Scroll of Spirit III (ID: 4424)
+    Source: Woodpaw Trapper (npc)
+  A Chewed Bone (ID: 15793)
+    Source: Gordunni Dirt Mound (object)
+    Source: Gordunni Dirt Mound (object)
+  Ripped Ogre Loincloth (ID: 15794)
+    Source: Gordunni Dirt Mound (object)
+  Moonberry Juice (ID: 1645)
+    Source: Gordunni Ogre (npc)
+  Iridescent Sprite Darter Wing (ID: 9369)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+  Cured Ham Steak (ID: 4599)
+    Source: Woodpaw Trapper (npc)
+    Source: Gordunni Brute (npc)
+    Source: Woodpaw Mystic (npc)
+  OOX-22/FE Distress Beacon (ID: 8705)
+    Source: Woodpaw Brute (npc)
+  Heavy War Staff (ID: 4024)
+    Source: Gordunni Ogre (npc)
+    Source: Gordunni Ogre Mage (npc)
+  Gordunni Scroll (ID: 9370)
+    Source: Gordunni Ogre Mage (object)
+  Forked Tongue (ID: 6444)
+    Source: Sprite Darter (npc)
+  Small Flame Sac (ID: 4402)
+    Source: Sprite Darter (npc)
+  Arthas' Tears (ID: 8836)
+    Source: Wandering Forest Walker (npc)
+  Woodpaw Gnoll Mane (ID: 9237)
+    Source: Woodpaw Brute (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Mongrel (npc)
+    Source: Woodpaw Brute (npc)
+    Source: Woodpaw Brute (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Mongrel (npc)
+  Gordunni Cobalt (ID: 9463)
+    Source: Gordunni Dirt Mound (object)
+    Source: Orwin's Shovel (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Orwin's Shovel (object)
+    Source: Orwin's Shovel (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Gordunni Ogre Mage (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Rustl (object)
+    Source: Gordunni Dirt Mound (object)
+    Source: Violennce (object)
+  Heart of the Wild (ID: 10286)
+    Source: Wandering Forest Walker (npc)
+  Camp Mojache Supplies (ID: 63181)
+    Source: Gordunni Ogre (npc)
+    Source: Gordunni Ogre (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Ogre (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Ogre (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Ogre Mage (npc)
+  Encrusted Minerals (ID: 9589)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+    Source: Sprite Darter (npc)
+  Silk Cloth (ID: 4306)
+    Source: Gordunni Ogre (npc)
+    Source: Woodpaw Mystic (npc)
+    Source: Woodpaw Alpha (npc)
+  Symbolic Crest (ID: 14825)
+    Source: Gordunni Brute (npc)
+  Overlinked Chain Cloak (ID: 4003)
+    Source: Gordunni Ogre (npc)
+  Splintered Log (ID: 9590)
+    Source: Wandering Forest Walker (npc)
+    Source: Wandering Forest Walker (npc)
+  A Shrunken Head (ID: 9629)
+  Mageweave Cloth (ID: 4338)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Trapper (npc)
+    Source: Woodpaw Mongrel (npc)
+    Source: Woodpaw Mongrel (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Ogre Mage (npc)
+    Source: Gordunni Ogre Mage (npc)
+    Source: Gordunni Brute (npc)
+    Source: Gordunni Ogre Mage (npc)
+    Source: Gordunni Ogre Mage (npc)
+    Source: Satchel of Trade Goods (object)
+    Source: Woodpaw Mystic (npc)
+    Source: Woodpaw Alpha (npc)
+    Source: Woodpaw Alpha (npc)
+
+GROUND OBJECTS/CONTAINERS:
+  Orwin's Shovel at [75.5, 30.4] in Feralas
+    Additional location: [74.5, 30.2] in Feralas
+    Additional location: [74.5, 30.1] in Feralas
+  Nyagga at [79.6, 34.7] in Feralas
+    Additional location: [75.9, 29.0] in Feralas
+    Additional location: [76.3, 34.4] in Feralas
+  Gordunni Ogre Mage at [75.1, 29.7] in Feralas
+    Additional location: [79.7, 35.0] in Feralas
+    Additional location: [80.5, 35.4] in Feralas
+    Additional location: [76.3, 32.1] in Feralas
+    Additional location: [80.1, 34.8] in Feralas
+    Additional location: [80.4, 35.4] in Feralas
+    Additional location: [76.4, 32.9] in Feralas
+    Additional location: [75.9, 33.5] in Feralas
+  Woodpaw Brute at [72.9, 39.1] in Feralas
+  Gordunni Ogre at [79.4, 34.8] in Feralas
+    Additional location: [80.9, 35.2] in Feralas
+    Additional location: [76.6, 29.8] in Feralas
+    Additional location: [79.1, 34.9] in Feralas
+  Satchel of Trade Goods at [74.8, 44.0] in Feralas
+  Woodpaw Mystic at [72.8, 55.8] in Feralas
+    Additional location: [68.4, 54.6] in Feralas
+  Gordunni Brute at [76.6, 33.1] in Feralas
+    Additional location: [76.5, 33.5] in Feralas
+    Additional location: [80.2, 34.7] in Feralas
+  Woodpaw Alpha at [73.7, 55.4] in Feralas
+    Additional location: [68.6, 55.0] in Feralas
+  Violennce at [75.4, 30.4] in Feralas
+  Rustl at [75.3, 33.6] in Feralas
+  Gordunni Dirt Mound at [75.5, 30.4] in Feralas
+    Additional location: [77.2, 33.4] in Feralas
+    Additional location: [75.9, 29.0] in Feralas
+    Additional location: [80.5, 35.9] in Feralas
+    Additional location: [76.3, 33.1] in Feralas
+    Additional location: [76.3, 32.9] in Feralas
+    Additional location: [75.3, 33.7] in Feralas
+    Additional location: [75.2, 33.6] in Feralas
+  Vacenzzo at [76.2, 34.3] in Feralas
+
+POTENTIAL PREREQUISITES:
+  428 quests were completed before accepting this quest
+
+COMMISSION QUEST DATA:
+  This is a profession commission quest
+  Player professions at time of acceptance:
+    * First Aid (270/450)
+    * Leatherworking (148/450)
+    * Fishing (1/450)
+    * Skinning (298/450)
+    * Cooking (52/450)
+
+
+DATABASE ENTRIES:
+================
+
+-- Add to epochQuestDB.lua:
+-- Zone: Feralas (ID: 122)
+[28493] = {"Commission for Blaise Montgomery",{{11752}},{{11752}},nil,40,nil,nil,nil,nil,{nil,nil,{{8544,20}},nil,nil,nil},nil,nil,nil,nil,nil,nil,122,nil,nil,nil,nil,nil,nil,0,nil,nil,nil,nil,nil,nil},
+
+-- Add to epochNpcDB.lua:
+-- Note: NPC flags are automatically calculated based on detected services
+
+[11752] = {"Blaise Montgomery",nil,nil,40,40,0,{[122]={{74.9,43.9}}},nil,122,{28493},{28493},nil,nil,nil,2},
+```
+
+### Additional Information (Optional)
+
+_No response_
